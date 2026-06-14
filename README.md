@@ -137,7 +137,7 @@ Target repo:
 Target Pages URL:
 - `https://foudhilriahi.github.io/CacheMeIfYouCan/`
 
-### One-time GitHub setup
+### One-time GitHub setup //done
 
 1. Push code to `main` branch in `foudhilriahi/CacheMeIfYouCan`.
 2. In **Settings → Actions → General → Workflow permissions**, set **Read and write permissions**.
