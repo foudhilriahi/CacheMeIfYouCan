@@ -1,0 +1,18 @@
+{
+  "name": "cache-me-if-you-can",
+  "version": "1.0.0",
+  "description": "Job Market Scraper & Tracker – scrape, deduplicate, and store job listings from multiple platforms",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "scrape": "node scraper/index.js",
+    "export": "node scraper/export.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "fastify": "^5.2.0",
+    "@fastify/static": "^8.0.0",
+    "playwright": "^1.52.0"
+  }
+}

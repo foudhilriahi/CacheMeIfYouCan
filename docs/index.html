@@ -1,0 +1,521 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CacheMeIfYouCan – Job Market Tracker</title>
+        <script
+            src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"
+            defer
+        ></script>
+        <script src="https://unpkg.com/htmx.org@2.0.4"></script>
+        <style>
+            :root {
+                --bg: #0f0f1a;
+                --surface: #1a1a2e;
+                --surface2: #252542;
+                --accent: #e94560;
+                --accent2: #0f3460;
+                --text: #eee;
+                --text2: #aaa;
+                --green: #4ecca3;
+            }
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            body {
+                font-family: "Segoe UI", system-ui, sans-serif;
+                background: var(--bg);
+                color: var(--text);
+            }
+
+            .header {
+                background: var(--surface);
+                padding: 1rem 2rem;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                border-bottom: 1px solid var(--surface2);
+            }
+            .header h1 {
+                font-size: 1.4rem;
+                color: var(--accent);
+            }
+            .header h1 span {
+                color: var(--text2);
+                font-size: 0.9rem;
+            }
+
+            .stats-bar {
+                display: flex;
+                gap: 1.5rem;
+                padding: 1rem 2rem;
+                background: var(--surface);
+                margin-bottom: 0.5rem;
+                border-bottom: 1px solid var(--surface2);
+            }
+            .stat-card {
+                background: var(--surface2);
+                padding: 0.8rem 1.2rem;
+                border-radius: 8px;
+                flex: 1;
+            }
+            .stat-card .label {
+                color: var(--text2);
+                font-size: 0.75rem;
+            }
+            .stat-card .value {
+                font-size: 1.6rem;
+                font-weight: 700;
+                color: var(--green);
+            }
+            .stat-card.accent .value {
+                color: var(--accent);
+            }
+
+            .controls {
+                display: flex;
+                gap: 0.8rem;
+                padding: 0.8rem 2rem;
+                background: var(--surface);
+                align-items: center;
+            }
+            .controls input,
+            .controls select {
+                background: var(--surface2);
+                border: 1px solid var(--accent2);
+                color: var(--text);
+                padding: 0.5rem 0.8rem;
+                border-radius: 6px;
+                font-size: 0.85rem;
+            }
+            .controls input {
+                flex: 1;
+            }
+            .btn {
+                background: var(--accent);
+                color: white;
+                padding: 0.5rem 1.2rem;
+                border-radius: 6px;
+                cursor: pointer;
+                font-size: 0.85rem;
+                border: none;
+                transition: background 0.2s;
+            }
+            .btn:hover {
+                background: #ff6b81;
+            }
+            .btn:disabled {
+                opacity: 0.5;
+                cursor: not-allowed;
+            }
+            .btn.secondary {
+                background: var(--accent2);
+            }
+
+            .main {
+                display: flex;
+                gap: 0.5rem;
+                padding: 1rem 2rem;
+            }
+
+            .job-list {
+                flex: 1;
+            }
+            .job-item {
+                background: var(--surface);
+                padding: 0.8rem 1rem;
+                margin-bottom: 0.4rem;
+                border-radius: 6px;
+                cursor: pointer;
+                border-left: 3px solid var(--accent2);
+                transition:
+                    border-color 0.2s,
+                    background 0.2s;
+            }
+            .job-item:hover {
+                border-left-color: var(--accent);
+                background: var(--surface2);
+            }
+            .job-item.active {
+                border-left-color: var(--green);
+            }
+            .job-item.new {
+                border-left-color: var(--accent);
+            }
+            .job-title {
+                font-weight: 600;
+                font-size: 0.95rem;
+            }
+            .job-meta {
+                color: var(--text2);
+                font-size: 0.8rem;
+                margin-top: 0.3rem;
+            }
+            .job-meta span {
+                margin-right: 0.8rem;
+            }
+            .platform-tag {
+                background: var(--accent2);
+                padding: 0.15rem 0.5rem;
+                border-radius: 4px;
+                font-size: 0.7rem;
+                color: var(--green);
+            }
+
+            .detail-panel {
+                flex: 1;
+                background: var(--surface);
+                border-radius: 8px;
+                padding: 1.5rem;
+                min-height: 300px;
+            }
+            .detail-panel h2 {
+                color: var(--accent);
+                margin-bottom: 0.5rem;
+            }
+            .detail-panel .company {
+                color: var(--green);
+                font-size: 1.1rem;
+            }
+            .detail-panel .location {
+                color: var(--text2);
+            }
+            .detail-panel .tags {
+                margin-top: 0.8rem;
+            }
+            .detail-panel .tag {
+                display: inline-block;
+                background: var(--surface2);
+                padding: 0.2rem 0.6rem;
+                border-radius: 4px;
+                margin: 0.2rem;
+                font-size: 0.8rem;
+            }
+            .detail-panel .desc {
+                margin-top: 1rem;
+                color: var(--text2);
+                font-size: 0.9rem;
+                line-height: 1.5;
+            }
+            .detail-panel a {
+                color: var(--accent);
+            }
+
+            .empty-state {
+                color: var(--text2);
+                text-align: center;
+                padding: 3rem;
+            }
+            .loading {
+                color: var(--accent);
+                text-align: center;
+                padding: 2rem;
+            }
+
+            .platform-stats {
+                display: flex;
+                gap: 0.5rem;
+            }
+            .platform-stats .ps {
+                background: var(--surface2);
+                padding: 0.4rem 0.8rem;
+                border-radius: 6px;
+            }
+            .platform-stats .ps .pl {
+                color: var(--text2);
+                font-size: 0.7rem;
+            }
+            .platform-stats .ps .pv {
+                color: var(--green);
+                font-weight: 600;
+            }
+
+            .logs-panel {
+                margin: 0.8rem 2rem 0;
+                background: var(--surface);
+                border: 1px solid var(--surface2);
+                border-radius: 8px;
+                padding: 0.8rem 1rem;
+            }
+            .logs-title {
+                color: var(--text2);
+                font-size: 0.75rem;
+                margin-bottom: 0.5rem;
+            }
+            .logs-content {
+                color: var(--text2);
+                font-size: 0.8rem;
+                line-height: 1.5;
+                display: grid;
+                gap: 0.25rem;
+            }
+        </style>
+    </head>
+    <body x-data="jobTracker()" x-init="init()">
+        <div class="header">
+            <h1>🚀 CacheMeIfYouCan <span>– Job Market Tracker</span></h1>
+            <div>
+                <span
+                    style="color: var(--text2); font-size: 0.8rem"
+                    x-text="'Last scrape: ' + (stats.last_scrape?.finished_at || 'never')"
+                ></span>
+            </div>
+        </div>
+
+        <div class="stats-bar">
+            <div class="stat-card">
+                <div class="label">Total Jobs</div>
+                <div class="value" x-text="stats.total_jobs || 0">0</div>
+            </div>
+            <div class="stat-card accent">
+                <div class="label">New Jobs</div>
+                <div class="value" x-text="stats.new_jobs || 0">0</div>
+            </div>
+            <div class="stat-card">
+                <div class="label">Platforms</div>
+                <div class="platform-stats">
+                    <template
+                        x-for="p in stats.platforms || []"
+                        :key="p.platform"
+                    >
+                        <div class="ps">
+                            <div class="pl" x-text="p.platform"></div>
+                            <div class="pv" x-text="p.count"></div>
+                        </div>
+                    </template>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <input
+                type="text"
+                placeholder="Search jobs..."
+                x-model="search"
+                @input.debounce.300ms="loadJobs()"
+            />
+            <select x-model="platformFilter" @change="loadJobs()">
+                <option value="">All Platforms</option>
+                <option value="remoteok">RemoteOK</option>
+                <option value="wwr">We Work Remotely</option>
+                <option value="hackernews">Hacker News</option>
+            </select>
+            <button class="btn secondary" @click="loadJobs()">Refresh</button>
+            <button class="btn" :disabled="scraping" @click="triggerScrape()">
+                <span x-show="!scraping">▶ Run Scrape</span>
+                <span x-show="scraping">⏳ Scraping...</span>
+            </button>
+        </div>
+
+        <div class="logs-panel" x-show="!isStatic" style="display: none">
+            <div class="logs-title">Recent Scrape Runs (htmx auto-refresh)</div>
+            <div
+                id="scrape-logs-fragment"
+                class="logs-content"
+                hx-get="/api/scrape/logs/fragment"
+                hx-trigger="load, refreshLogs from:body, every 30s"
+                hx-swap="innerHTML"
+            >
+                Loading scrape history...
+            </div>
+        </div>
+
+        <div class="main">
+            <div class="job-list">
+                <template x-for="job in jobs" :key="job.id">
+                    <div
+                        class="job-item"
+                        :class="{ active: selected?.id === job.id }"
+                        @click="selectJob(job)"
+                    >
+                        <div class="job-title" x-text="job.title"></div>
+                        <div class="job-meta">
+                            <span x-text="job.company"></span>
+                            <span x-text="job.location"></span>
+                            <span
+                                class="platform-tag"
+                                x-text="job.platform"
+                            ></span>
+                        </div>
+                    </div>
+                </template>
+                <div class="empty-state" x-show="jobs.length === 0 && !loading">
+                    No jobs found. Run a scrape to populate the tracker.
+                </div>
+                <div class="loading" x-show="loading">Loading jobs...</div>
+            </div>
+
+            <div class="detail-panel" x-show="selected">
+                <template x-if="selected">
+                    <div>
+                        <h2 x-text="selected.title"></h2>
+                        <div class="company" x-text="selected.company"></div>
+                        <div class="location" x-text="selected.location"></div>
+                        <div class="tags" x-show="selected.tags">
+                            <template
+                                x-for="tag in (selected.tags || '').split(',').filter(t => t)"
+                                :key="tag"
+                            >
+                                <span class="tag" x-text="tag"></span>
+                            </template>
+                        </div>
+                        <div
+                            class="desc"
+                            x-text="selected.description || 'No description available.'"
+                            style="white-space: pre-wrap"
+                        ></div>
+                        <div style="margin-top: 1rem">
+                            <a
+                                :href="selected.url"
+                                target="_blank"
+                                x-text="selected.url"
+                            ></a>
+                        </div>
+                        <div
+                            style="
+                                margin-top: 0.5rem;
+                                color: var(--text2);
+                                font-size: 0.8rem;
+                            "
+                        >
+                            <span
+                                x-text="'Scraped: ' + selected.scraped_at"
+                            ></span>
+                        </div>
+                    </div>
+                </template>
+            </div>
+            <div
+                class="detail-panel"
+                x-show="!selected && !loading"
+                style="
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                "
+            >
+                <div class="empty-state">Select a job to view details</div>
+            </div>
+        </div>
+
+        <script>
+            // Detect if we're on GitHub Pages (static) or local (API available)
+            const IS_STATIC =
+                window.location.hostname !== "localhost" &&
+                window.location.hostname !== "127.0.0.1";
+            const DATA_BASE = IS_STATIC ? "./data" : "/api";
+
+            function jobTracker() {
+                return {
+                    jobs: [],
+                    selected: null,
+                    isStatic: IS_STATIC,
+                    stats: {
+                        total_jobs: 0,
+                        new_jobs: 0,
+                        platforms: [],
+                        last_scrape: null,
+                    },
+                    search: "",
+                    platformFilter: "",
+                    loading: false,
+                    scraping: false,
+
+                    async init() {
+                        await this.loadStats();
+                        await this.loadJobs();
+                    },
+
+                    async loadStats() {
+                        if (IS_STATIC) {
+                            const res = await fetch(`${DATA_BASE}/stats.json`);
+                            this.stats = await res.json();
+                        } else {
+                            const res = await fetch(`${DATA_BASE}/stats`);
+                            this.stats = await res.json();
+                        }
+                    },
+
+                    async loadJobs() {
+                        this.loading = true;
+                        try {
+                            if (IS_STATIC) {
+                                const res = await fetch(
+                                    `${DATA_BASE}/jobs.json`,
+                                );
+                                const data = await res.json();
+                                this.jobs = this.filterJobs(data);
+                            } else {
+                                let url = `${DATA_BASE}/jobs?limit=100`;
+                                if (this.search)
+                                    url += `&search=${encodeURIComponent(this.search)}`;
+                                if (this.platformFilter)
+                                    url += `&platform=${this.platformFilter}`;
+                                const res = await fetch(url);
+                                const data = await res.json();
+                                this.jobs = data.jobs;
+                            }
+                        } catch (err) {
+                            console.error("Failed to load jobs:", err);
+                        }
+                        this.loading = false;
+                    },
+
+                    filterJobs(jobs) {
+                        let filtered = jobs;
+                        if (this.search) {
+                            const s = this.search.toLowerCase();
+                            filtered = filtered.filter(
+                                (j) =>
+                                    j.title.toLowerCase().includes(s) ||
+                                    j.company.toLowerCase().includes(s) ||
+                                    (j.description || "")
+                                        .toLowerCase()
+                                        .includes(s),
+                            );
+                        }
+                        if (this.platformFilter) {
+                            filtered = filtered.filter(
+                                (j) => j.platform === this.platformFilter,
+                            );
+                        }
+                        return filtered;
+                    },
+
+                    selectJob(job) {
+                        if (IS_STATIC) {
+                            this.selected = job;
+                        } else {
+                            fetch(`${DATA_BASE}/jobs/${job.id}`)
+                                .then((r) => r.json())
+                                .then((d) => (this.selected = d))
+                                .catch(() => (this.selected = job));
+                        }
+                    },
+
+                    async triggerScrape() {
+                        if (IS_STATIC) return; // Can't scrape on static site
+                        this.scraping = true;
+                        try {
+                            const res = await fetch(`${DATA_BASE}/scrape`, {
+                                method: "POST",
+                            });
+                            const data = await res.json();
+                            await this.loadStats();
+                            await this.loadJobs();
+                            document.body.dispatchEvent(
+                                new Event("refreshLogs"),
+                            );
+                        } catch (err) {
+                            console.error("Scrape failed:", err);
+                        }
+                        this.scraping = false;
+                    },
+                };
+            }
+        </script>
+    </body>
+</html>
