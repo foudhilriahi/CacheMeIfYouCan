@@ -1,5 +1,65 @@
 [
   {
+    "id": 166,
+    "url": "https://news.ycombinator.com/item?id=48540509",
+    "title": "100% Remote",
+    "company": "SafetyWing (YC W18)",
+    "location": "Partnerships Manager",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-06-15",
+    "scraped_at": "2026-06-15 17:05:07"
+  },
+  {
+    "id": 162,
+    "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-founders-silhouette-group-inc-1133407",
+    "title": "Executive Assistant the Founders",
+    "company": "Silhouette Group Inc.",
+    "location": "Remote",
+    "salary": "",
+    "tags": "virtual assistant,admin,education,customer support,marketing,part time,non tech,travel,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-06-14",
+    "scraped_at": "2026-06-15 17:04:57"
+  },
+  {
+    "id": 163,
+    "url": "https://remoteOK.com/remote-jobs/remote-admin-virtual-assistant-myva-rocks-1133405",
+    "title": "Admin Virtual Assistant",
+    "company": "myVA Rocks",
+    "location": "Remote",
+    "salary": "",
+    "tags": "virtual assistant,admin",
+    "platform": "remoteok",
+    "posted_date": "2026-06-14",
+    "scraped_at": "2026-06-15 17:04:57"
+  },
+  {
+    "id": 164,
+    "url": "https://remoteOK.com/remote-jobs/remote-social-media-marketing-specialist-strange-face-1133411",
+    "title": "Social Media Marketing Specialist",
+    "company": "Strange Face",
+    "location": "London, London, England, United Kingdom",
+    "salary": "",
+    "tags": "ios,exec,speech,video,content writing,marketing,social media",
+    "platform": "remoteok",
+    "posted_date": "2026-06-14",
+    "scraped_at": "2026-06-15 17:04:57"
+  },
+  {
+    "id": 165,
+    "url": "https://remoteOK.com/remote-jobs/remote-brand-designer-project-twine-1133404",
+    "title": "Brand Designer Project",
+    "company": "Twine",
+    "location": "Australia, ",
+    "salary": "",
+    "tags": "designer,ads",
+    "platform": "remoteok",
+    "posted_date": "2026-06-14",
+    "scraped_at": "2026-06-15 17:04:57"
+  },
+  {
     "id": 161,
     "url": "https://news.ycombinator.com/item?id=48538544",
     "title": "London or Copenhagen",
