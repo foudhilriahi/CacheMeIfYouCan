@@ -1,5 +1,41 @@
 [
   {
+    "id": 324,
+    "url": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-product-information-management-highlevel-1133598",
+    "title": "Staff Product Manager Product Information Management",
+    "company": "HighLevel",
+    "location": "Remote",
+    "salary": "",
+    "tags": "product manager,exec,design,saas,sys admin,architecture,customer support,marketing,api,legal,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-06-18",
+    "scraped_at": "2026-06-19 10:17:09"
+  },
+  {
+    "id": 325,
+    "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663",
+    "title": "Junior Data Analyst",
+    "company": "Haystack",
+    "location": "London, London, England, United Kingdom",
+    "salary": "",
+    "tags": "analyst,python,education,microsoft,data science,junior,excel,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-06-18",
+    "scraped_at": "2026-06-19 10:17:09"
+  },
+  {
+    "id": 326,
+    "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-greenpump-energy-1133597",
+    "title": "Administrative Assistant",
+    "company": "GreenPump Energy",
+    "location": "ÙØ¨ÙØ§Ù, ",
+    "salary": "",
+    "tags": "teaching,education,customer support,marketing,exec,senior,ops,excel,medical,full time,virtual assistant",
+    "platform": "remoteok",
+    "posted_date": "2026-06-18",
+    "scraped_at": "2026-06-19 10:17:09"
+  },
+  {
     "id": 309,
     "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-crypto-com-1133674",
     "title": "Social Media Manager",
