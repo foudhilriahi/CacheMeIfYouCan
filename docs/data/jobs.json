@@ -1,5 +1,65 @@
 [
   {
+    "id": 357,
+    "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-france-zirtual-1133698",
+    "title": "Executive Assistant France",
+    "company": "Zirtual",
+    "location": "France, ",
+    "salary": "",
+    "tags": "virtual assistant,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-06-19",
+    "scraped_at": "2026-06-20 08:45:30"
+  },
+  {
+    "id": 358,
+    "url": "https://remoteOK.com/remote-jobs/remote-employment-lawyer-fully-kma-legal-recruitment-1133697",
+    "title": "Employment Lawyer Fully",
+    "company": "KMA Legal Recruitment",
+    "location": "United Kingdom, ",
+    "salary": "",
+    "tags": "legal,recruiter,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-06-19",
+    "scraped_at": "2026-06-20 08:45:30"
+  },
+  {
+    "id": 359,
+    "url": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-work-force-nexus-1133696",
+    "title": "Junior Graphic Designer",
+    "company": "Work Force Nexus",
+    "location": "Remote, ",
+    "salary": "",
+    "tags": "designer,junior",
+    "platform": "remoteok",
+    "posted_date": "2026-06-19",
+    "scraped_at": "2026-06-20 08:45:30"
+  },
+  {
+    "id": 360,
+    "url": "https://remoteOK.com/remote-jobs/remote-executive-admin-assistant-nexist-1133695",
+    "title": "Executive & Admin Assistant",
+    "company": "Nexist",
+    "location": "International, ",
+    "salary": "",
+    "tags": "virtual assistant,admin,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-06-19",
+    "scraped_at": "2026-06-20 08:45:30"
+  },
+  {
+    "id": 361,
+    "url": "https://remoteOK.com/remote-jobs/remote-hr-associate-ateneo-de-manila-university-1133742",
+    "title": "HR Associate",
+    "company": "Ateneo de Manila University",
+    "location": "Manila, Manila, National Capital Region, Philippines",
+    "salary": "",
+    "tags": "accounting,finance,cloud,microsoft,exec,sys admin,customer support,dev,digital nomad,hr,ads,excel,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-06-18",
+    "scraped_at": "2026-06-20 08:45:30"
+  },
+  {
     "id": 344,
     "url": "https://remoteOK.com/remote-jobs/remote-corporate-commercial-paralegal-fully-leadenhall-search-selection-1133693",
     "title": "Corporate Commercial Paralegal Fully",
