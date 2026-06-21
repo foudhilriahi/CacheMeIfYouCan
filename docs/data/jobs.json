@@ -1,5 +1,53 @@
 [
   {
+    "id": 405,
+    "url": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-ross-stores-inc-1133775",
+    "title": "Assistant Store Manager",
+    "company": "Ross Stores, Inc.",
+    "location": "Guayama, ",
+    "salary": "",
+    "tags": "sys admin,technical,supervisor,customer support,testing,exec,medical,engineer,recruiter,marketing,education,senior,ops,accounting,dev,junior,excel,digital nomad,consulting,finance,data entry,design,web dev,video,c,virtual assistant,speech,microsoft,sales,front end,backend,game dev,full stack,devops,laravel,cloud,php,typescript,golang,full time,payroll,part time,vfx,designer,travel,music,internship,saas,salesforce,content writing,legal,teaching",
+    "platform": "remoteok",
+    "posted_date": "2026-06-20",
+    "scraped_at": "2026-06-21 13:53:48"
+  },
+  {
+    "id": 406,
+    "url": "https://remoteOK.com/remote-jobs/remote-content-creator-ugc-twine-1133744",
+    "title": "Content Creator UGC",
+    "company": "Twine",
+    "location": "Remote",
+    "salary": "",
+    "tags": "content writing",
+    "platform": "remoteok",
+    "posted_date": "2026-06-20",
+    "scraped_at": "2026-06-21 13:53:48"
+  },
+  {
+    "id": 407,
+    "url": "https://remoteOK.com/remote-jobs/remote-content-creator-vive-social-pr-1133820",
+    "title": "Content Creator",
+    "company": "Vive Social + PR",
+    "location": "Toronto, Toronto, Ontario, Canada",
+    "salary": "",
+    "tags": "exec,content writing",
+    "platform": "remoteok",
+    "posted_date": "2026-06-19",
+    "scraped_at": "2026-06-21 13:53:48"
+  },
+  {
+    "id": 408,
+    "url": "https://remoteOK.com/remote-jobs/remote-asistente-administrativa-tu-empleo-rd-1133818",
+    "title": "Asistente Administrativa",
+    "company": "Tu Empleo RD",
+    "location": "Santo Domingo Este, ",
+    "salary": "",
+    "tags": "microsoft,excel,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-06-19",
+    "scraped_at": "2026-06-21 13:53:48"
+  },
+  {
     "id": 398,
     "url": "https://remoteOK.com/remote-jobs/remote-manufacturing-operator-i-eaton-1133763",
     "title": "Manufacturing Operator I",
