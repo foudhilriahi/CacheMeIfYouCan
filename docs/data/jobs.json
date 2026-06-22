@@ -1,5 +1,53 @@
 [
   {
+    "id": 433,
+    "url": "https://remoteOK.com/remote-jobs/remote-outside-sales-representative-omada-ai-1133826",
+    "title": "Outside Sales Representative",
+    "company": "Omada.ai",
+    "location": "Eugene",
+    "salary": "",
+    "tags": "hr,teaching,game dev,marketing,exec,ads,sales",
+    "platform": "remoteok",
+    "posted_date": "2026-06-21",
+    "scraped_at": "2026-06-22 16:43:13"
+  },
+  {
+    "id": 434,
+    "url": "https://remoteOK.com/remote-jobs/remote-operations-roles-edirq-1133825",
+    "title": "Operations Roles",
+    "company": "Edirq",
+    "location": "Yaângamdo, ",
+    "salary": "",
+    "tags": "teaching,finance,c,exec,golang,engineer,recruiter,game dev,infosec,ops",
+    "platform": "remoteok",
+    "posted_date": "2026-06-21",
+    "scraped_at": "2026-06-22 16:43:13"
+  },
+  {
+    "id": 435,
+    "url": "https://remoteOK.com/remote-jobs/remote-online-online-appointment-setter-booking-hotels-entry-level-destination-careers-1133882",
+    "title": "Online Online Appointment Setter Booking Hotels Entry Level",
+    "company": "Destination Careers",
+    "location": "Georgia, Georgia, United States",
+    "salary": "",
+    "tags": "hr,consulting,analyst,data science,excel,non tech,virtual assistant,education,customer support,marketing,travel,sales,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-06-19",
+    "scraped_at": "2026-06-22 16:43:13"
+  },
+  {
+    "id": 436,
+    "url": "https://remoteOK.com/remote-jobs/remote-key-account-executive-pro-unilever-1133891",
+    "title": "Key Account Executive PRO",
+    "company": "Unilever",
+    "location": "Navi Mumbai, Navi Mumbai, Maharashtra, India",
+    "salary": "",
+    "tags": "virtual assistant,education,customer support,marketing,video,microsoft,exec,ops,excel,data entry,admin,sys admin,sales,full time",
+    "platform": "remoteok",
+    "posted_date": "2026-06-18",
+    "scraped_at": "2026-06-22 16:43:13"
+  },
+  {
     "id": 427,
     "url": "https://remoteOK.com/remote-jobs/remote-research-and-quality-assistant-cardiovascular-associates-of-america-cvausa-1133812",
     "title": "Research and Quality Assistant",
