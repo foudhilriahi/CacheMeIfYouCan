@@ -1,5 +1,77 @@
 [
   {
+    "id": 427,
+    "url": "https://remoteOK.com/remote-jobs/remote-research-and-quality-assistant-cardiovascular-associates-of-america-cvausa-1133812",
+    "title": "Research and Quality Assistant",
+    "company": "Cardiovascular Associates of America - CVAUSA",
+    "location": "Remote",
+    "salary": "",
+    "tags": "design,video,exec,content writing,digital nomad,virtual assistant,quality assurance",
+    "platform": "remoteok",
+    "posted_date": "2026-06-21",
+    "scraped_at": "2026-06-22 11:40:43"
+  },
+  {
+    "id": 428,
+    "url": "https://remoteOK.com/remote-jobs/remote-members-dont-join-for-dollar-value-steward-1133822",
+    "title": "Members Don't Join for Dollar Value",
+    "company": "Steward",
+    "location": "Amreli, ",
+    "salary": "",
+    "tags": "teaching,finance,c,exec,golang,engineer,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-06-21",
+    "scraped_at": "2026-06-22 11:40:43"
+  },
+  {
+    "id": 429,
+    "url": "https://remoteOK.com/remote-jobs/remote-differentiating-membership-offers-steward-1133823",
+    "title": "Differentiating Membership Offers",
+    "company": "Steward",
+    "location": "Amreli, ",
+    "salary": "",
+    "tags": "teaching,finance,c,exec,golang,engineer,recruiter,game dev",
+    "platform": "remoteok",
+    "posted_date": "2026-06-21",
+    "scraped_at": "2026-06-22 11:40:43"
+  },
+  {
+    "id": 430,
+    "url": "https://remoteOK.com/remote-jobs/remote-project-scheduling-assistant-talentoma-1133856",
+    "title": "Project Scheduling Assistant",
+    "company": "Talentoma",
+    "location": "Pennsylvania, Pennsylvania, United States",
+    "salary": "",
+    "tags": "virtual assistant,exec,customer support,dev,ops,digital nomad,education,marketing",
+    "platform": "remoteok",
+    "posted_date": "2026-06-20",
+    "scraped_at": "2026-06-22 11:40:43"
+  },
+  {
+    "id": 431,
+    "url": "https://remoteOK.com/remote-jobs/remote-preparador-a-de-oposiciones-de-magisterio-ucademy-1133849",
+    "title": "Preparador a de Oposiciones de Magisterio",
+    "company": "Ucademy",
+    "location": "Madrid, Madrid, Comunidad de Madrid, EspaÃ±a",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-06-20",
+    "scraped_at": "2026-06-22 11:40:43"
+  },
+  {
+    "id": 432,
+    "url": "https://remoteOK.com/remote-jobs/remote-office-assistant-sany-america-1133855",
+    "title": "Office Assistant",
+    "company": "SANY America",
+    "location": "Washington DC-Baltimore Area",
+    "salary": "",
+    "tags": "virtual assistant,exec,customer support,dev,ops,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-06-20",
+    "scraped_at": "2026-06-22 11:40:43"
+  },
+  {
     "id": 414,
     "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-houseink-studio-1133817",
     "title": "Freelance Designer",
