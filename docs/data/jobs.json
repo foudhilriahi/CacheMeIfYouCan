@@ -1,5 +1,77 @@
 [
   {
+    "id": 692,
+    "url": "https://remoteOK.com/remote-jobs/remote-janitor-buffalo-wild-wings-fralich-inc-1134206",
+    "title": "JANITOR",
+    "company": "Buffalo Wild Wings - Fralich, Inc.",
+    "location": "Clifton, ",
+    "salary": "",
+    "tags": "finance,math,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-06-28",
+    "scraped_at": "2026-06-29 10:29:10"
+  },
+  {
+    "id": 693,
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-filmmaker-foxelli-group-1134232",
+    "title": "AI Filmmaker",
+    "company": "Foxelli Group",
+    "location": "Praha, Praha, HlavnÃ­ mÄsto Praha, Äesko",
+    "salary": "",
+    "tags": "amazon,sys admin,python,consulting,customer support,marketing,dev,finance,ops,stats,sales,golang,medical,engineer,recruiter,ecommerce,shopify,part time,digital nomad,music,testing,video,content writing,full time",
+    "platform": "remoteok",
+    "posted_date": "2026-06-27",
+    "scraped_at": "2026-06-29 10:29:10"
+  },
+  {
+    "id": 694,
+    "url": "https://remoteOK.com/remote-jobs/remote-competency-assessor-operations-nextdecade-1134225",
+    "title": "Competency Assessor Operations",
+    "company": "NextDecade",
+    "location": "Brownsville, ",
+    "salary": "",
+    "tags": "testing,ops,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-06-26",
+    "scraped_at": "2026-06-29 10:29:10"
+  },
+  {
+    "id": 695,
+    "url": "https://remoteOK.com/remote-jobs/remote-operations-manager-cxc-upstream-ltd-1134226",
+    "title": "Operations Manager",
+    "company": "CXC Upstream Ltd",
+    "location": "Ø¯Ø¨Ù, Ø¯Ø¨Ù Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø©",
+    "salary": "",
+    "tags": "exec,customer support,travel,microsoft,senior,ops,excel,medical",
+    "platform": "remoteok",
+    "posted_date": "2026-06-26",
+    "scraped_at": "2026-06-29 10:29:10"
+  },
+  {
+    "id": 696,
+    "url": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-siroko-1134233",
+    "title": "UX UI Designer",
+    "company": "Siroko",
+    "location": "GijÃ³n, GijÃ³n, Principado de Asturias, EspaÃ±a",
+    "salary": "",
+    "tags": "amazon,sys admin,python,consulting,customer support,marketing,dev,finance,ops,stats,sales,golang,medical,engineer,recruiter,ecommerce,shopify,part time,digital nomad,music,testing,video,content writing,full time,design,hr,front end,designer,web dev,exec,c,css,html,mobile",
+    "platform": "remoteok",
+    "posted_date": "2026-06-26",
+    "scraped_at": "2026-06-29 10:29:10"
+  },
+  {
+    "id": 697,
+    "url": "https://remoteOK.com/remote-jobs/remote-analyst-mphasis-1134227",
+    "title": "Analyst",
+    "company": "Mphasis",
+    "location": "Bengaluru, Bengaluru, Karnataka, India",
+    "salary": "",
+    "tags": "analyst,sys admin,customer support,finance,exec,ops,excel,sales",
+    "platform": "remoteok",
+    "posted_date": "2026-06-26",
+    "scraped_at": "2026-06-29 10:29:10"
+  },
+  {
     "id": 689,
     "url": "https://remoteOK.com/remote-jobs/remote-manager-social-art-director-starface-world-1134222",
     "title": "Manager Social Art Director",
