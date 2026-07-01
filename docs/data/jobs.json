@@ -1,5 +1,65 @@
 [
   {
+    "id": 743,
+    "url": "https://remoteOK.com/remote-jobs/remote-creative-director-padsplit-1134310",
+    "title": "Creative Director",
+    "company": "PadSplit",
+    "location": "Atlanta, Atlanta, Georgia, United States",
+    "salary": "",
+    "tags": "art direction,exec,design,embedded,customer support,marketing,video,content writing,ops,legal,medical,engineer,recruiter,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-06-30",
+    "scraped_at": "2026-07-01 14:17:00"
+  },
+  {
+    "id": 744,
+    "url": "https://remoteOK.com/remote-jobs/remote-chief-financial-officer-hospitable-com-1134320",
+    "title": "Chief Financial Officer",
+    "company": "Hospitable.com",
+    "location": "London, London, England, United Kingdom",
+    "salary": "",
+    "tags": "teaching,product manager,exec,sys admin,education,technical,customer support,testing,marketing,ops,bus dev,sales,engineer,content writing,medical,saas,dev,travel,accounting,payroll,finance,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-06-30",
+    "scraped_at": "2026-07-01 14:17:00"
+  },
+  {
+    "id": 745,
+    "url": "https://remoteOK.com/remote-jobs/remote-maintenance-amp-mep-technician-scales-and-associates-1134325",
+    "title": "Maintenance &amp; MEP Technician",
+    "company": "Scales and Associates",
+    "location": "Nassau, ",
+    "salary": "",
+    "tags": "engineer,sys admin,ops,infosec,customer support,dev,testing,microsoft,exec,excel,digital nomad,education,supervisor,travel,medical,technical,legal",
+    "platform": "remoteok",
+    "posted_date": "2026-06-30",
+    "scraped_at": "2026-07-01 14:17:00"
+  },
+  {
+    "id": 746,
+    "url": "https://remoteOK.com/remote-jobs/remote-total-rewards-manager-pgim-ireland-1134296",
+    "title": "Total Rewards Manager",
+    "company": "PGIM Ireland",
+    "location": "Letterkenny, ",
+    "salary": "",
+    "tags": "exec,design,customer support,marketing,virtual assistant,finance,senior,excel,golang,medical,digital nomad,infosec,education,recruiter,sys admin,consulting,technical,testing,travel,scheme,content writing,ops,sales,engineer,legal,dev,mobile,controller,full time,video,saas,amazon,ecommerce,shopify,music,c,embedded,assembly,supervisor,microsoft,ads,payroll,game dev,telecom,cloud,speech,teaching,hr,stats",
+    "platform": "remoteok",
+    "posted_date": "2026-06-30",
+    "scraped_at": "2026-07-01 14:17:00"
+  },
+  {
+    "id": 747,
+    "url": "https://remoteOK.com/remote-jobs/remote-bid-manager-razorblue-group-1134276",
+    "title": "Bid Manager",
+    "company": "Razorblue Group",
+    "location": "Stockton-On-Tees, ",
+    "salary": "",
+    "tags": "exec,design,customer support,marketing,virtual assistant,finance,senior,excel,golang,medical,digital nomad,infosec,education,recruiter,sys admin,consulting,technical,testing,travel,scheme,content writing,ops,sales,engineer,legal,dev,mobile,controller,full time,video,saas,amazon,ecommerce,shopify,music,c,embedded,assembly,supervisor,microsoft,ads",
+    "platform": "remoteok",
+    "posted_date": "2026-06-30",
+    "scraped_at": "2026-07-01 14:17:00"
+  },
+  {
     "id": 733,
     "url": "https://remoteOK.com/remote-jobs/remote-vehicle-repair-assessor-philippines-hire-with-reef-1134253",
     "title": "Vehicle Repair Assessor Philippines",
