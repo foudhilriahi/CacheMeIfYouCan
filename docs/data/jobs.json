@@ -1,5 +1,89 @@
 [
   {
+    "id": 992,
+    "url": "https://news.ycombinator.com/item?id=48787393",
+    "title": "Remote, US overlap preferred",
+    "company": "Racct",
+    "location": "Senior Flutter&#x2F;Dart Product Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-04",
+    "scraped_at": "2026-07-04 19:00:51"
+  },
+  {
+    "id": 986,
+    "url": "https://remoteOK.com/remote-jobs/remote-f-ajax-systems-1134445",
+    "title": "f",
+    "company": "Ajax Systems",
+    "location": "Greater Uzhgorod Area, ",
+    "salary": "",
+    "tags": "customer support,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-07-03",
+    "scraped_at": "2026-07-04 19:00:41"
+  },
+  {
+    "id": 987,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-quality-engineer-tellent-1134436",
+    "title": "Senior Quality Engineer",
+    "company": "Tellent",
+    "location": "Remote",
+    "salary": "",
+    "tags": "design,graphql,hr,sys admin,technical,customer support,dev,testing,web dev,quality assurance,api,exec,senior,medical,engineer,recruiter,backend,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-03",
+    "scraped_at": "2026-07-04 19:00:41"
+  },
+  {
+    "id": 988,
+    "url": "https://remoteOK.com/remote-jobs/remote-temp-hr-coordinator-people-operations-headspace-1134475",
+    "title": "Temp HR Coordinator People Operations",
+    "company": "Headspace",
+    "location": "Austin, Austin, Texas, United States",
+    "salary": "",
+    "tags": "hr,education,coordinator,customer support,exec,content writing,ops,medical",
+    "platform": "remoteok",
+    "posted_date": "2026-07-02",
+    "scraped_at": "2026-07-04 19:00:41"
+  },
+  {
+    "id": 989,
+    "url": "https://remoteOK.com/remote-jobs/remote-procurement-coordinator-cxc-upstream-ltd-1134473",
+    "title": "Procurement Coordinator",
+    "company": "CXC Upstream Ltd",
+    "location": "Ø¯Ø¨Ù, Ø¯Ø¨Ù Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø©",
+    "salary": "",
+    "tags": "design,vfx,designer,technical,dev,marketing,exec,medical,engineer,digital nomad,virtual assistant,education,customer support,video,microsoft,ops,excel,sys admin,coordinator,finance",
+    "platform": "remoteok",
+    "posted_date": "2026-07-02",
+    "scraped_at": "2026-07-04 19:00:41"
+  },
+  {
+    "id": 990,
+    "url": "https://remoteOK.com/remote-jobs/remote-associate-accounts-payable-expert-capgemini-1134474",
+    "title": "Associate Accounts Payable Expert",
+    "company": "Capgemini",
+    "location": "Greater Kolkata Area, ",
+    "salary": "",
+    "tags": "design,vfx,designer,technical,dev,marketing,exec,medical,engineer,digital nomad,virtual assistant,education,customer support,video,microsoft,ops,excel,sys admin,coordinator,finance,senior",
+    "platform": "remoteok",
+    "posted_date": "2026-07-02",
+    "scraped_at": "2026-07-04 19:00:41"
+  },
+  {
+    "id": 991,
+    "url": "https://remoteOK.com/remote-jobs/remote-computer-aided-design-designer-indovance-inc-1134470",
+    "title": "Computer Aided Design Designer",
+    "company": "Indovance Inc",
+    "location": "Pune Division, Pune Division, Maharashtra, India",
+    "salary": "",
+    "tags": "design,vfx,designer,technical,dev,marketing,exec,medical,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-02",
+    "scraped_at": "2026-07-04 19:00:41"
+  },
+  {
     "id": 985,
     "url": "https://news.ycombinator.com/item?id=48783722",
     "title": "multiple roles",
