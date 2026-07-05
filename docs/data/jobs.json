@@ -1,5 +1,53 @@
 [
   {
+    "id": 1014,
+    "url": "https://news.ycombinator.com/item?id=48792793",
+    "title": "Full-time",
+    "company": "Acme",
+    "location": "Remote &#x2F; In-person (flexible)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-05",
+    "scraped_at": "2026-07-05 13:16:37"
+  },
+  {
+    "id": 1011,
+    "url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-recruitlytics-hiring-1134498",
+    "title": "Administrative Data Entry File Clerk",
+    "company": "Recruitlytics Hiring",
+    "location": "Alberta, Alberta, Canada",
+    "salary": "",
+    "tags": "design,saas,embedded,customer support,marketing,analyst,quality assurance,finance,ops,stats,sales,sys admin,medical,engineer,backend,exec,digital nomad,data entry,jira,hr,cloud,admin,excel,legal",
+    "platform": "remoteok",
+    "posted_date": "2026-07-04",
+    "scraped_at": "2026-07-05 13:16:26"
+  },
+  {
+    "id": 1012,
+    "url": "https://remoteOK.com/remote-jobs/remote-business-operations-analyst-textus-1134500",
+    "title": "Business Operations Analyst",
+    "company": "TextUs",
+    "location": "Denver, Denver, Colorado, United States",
+    "salary": "",
+    "tags": "design,hr,sys admin,customer support,dev,payroll,education,exec,ops,medical,recruiter,digital nomad,analyst,saas,salesforce,video,finance,admin,mobile,marketing,excel,sales",
+    "platform": "remoteok",
+    "posted_date": "2026-07-03",
+    "scraped_at": "2026-07-05 13:16:26"
+  },
+  {
+    "id": 1013,
+    "url": "https://remoteOK.com/remote-jobs/remote-freelance-experiential-producer-ftp-agency-food-truck-promotions-1134501",
+    "title": "Freelance Experiential Producer",
+    "company": "FTP Agency | Food Truck Promotions",
+    "location": "New York, New York, New York, United States",
+    "salary": "",
+    "tags": "design,hr,sys admin,customer support,dev,payroll,education,exec,ops,medical,recruiter,digital nomad,analyst,saas,salesforce,video,finance,admin,mobile,marketing,excel,sales,travel,content writing,senior",
+    "platform": "remoteok",
+    "posted_date": "2026-07-02",
+    "scraped_at": "2026-07-05 13:16:26"
+  },
+  {
     "id": 1009,
     "url": "https://news.ycombinator.com/item?id=48792071",
     "title": "Germany, London, or Cape Town preferred",
