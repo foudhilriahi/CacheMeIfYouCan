@@ -1,5 +1,65 @@
 [
   {
+    "id": 1019,
+    "url": "https://news.ycombinator.com/item?id=48794583",
+    "title": "Varies between REMOTE (in USA, also in Europe but only for the account exec position) and ONSITE in Denver, CO, USA, details in each job desc",
+    "company": "FusionAuth",
+    "location": "Principal Software Engineer, Senior Java Engineer - Cloud, Account Executive",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-05",
+    "scraped_at": "2026-07-05 19:06:32"
+  },
+  {
+    "id": 1015,
+    "url": "https://remoteOK.com/remote-jobs/remote-lead-data-scientist-brigit-1134476",
+    "title": "Lead Data Scientist",
+    "company": "Brigit",
+    "location": "San Francisco",
+    "salary": "",
+    "tags": "python,education,customer support,testing,marketing,dev,finance,exec,data science,junior,stats,medical,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-04",
+    "scraped_at": "2026-07-05 19:06:24"
+  },
+  {
+    "id": 1016,
+    "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-pickle-1134486",
+    "title": "Administrative Assistant",
+    "company": "Pickle",
+    "location": "Greater London, ",
+    "salary": "",
+    "tags": "virtual assistant,embedded,hr,consulting,exec,customer support,dev,marketing,accounting,admin,ops,recruiter,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-04",
+    "scraped_at": "2026-07-05 19:06:24"
+  },
+  {
+    "id": 1017,
+    "url": "https://remoteOK.com/remote-jobs/remote-founder-ghostwriter-for-a-u-s-based-google-ads-agency-paired-1134487",
+    "title": "Founder Ghostwriter for a U.S. based Google Ads Agency",
+    "company": "Paired",
+    "location": "Greater London, ",
+    "salary": "",
+    "tags": "virtual assistant,embedded,hr,consulting,exec,customer support,dev,marketing,accounting,admin,ops,recruiter,digital nomad,writer,speech,video,ads,content writing,senior,ecommerce",
+    "platform": "remoteok",
+    "posted_date": "2026-07-04",
+    "scraped_at": "2026-07-05 19:06:24"
+  },
+  {
+    "id": 1018,
+    "url": "https://remoteOK.com/remote-jobs/remote-new-site-opening-utility-allrounder-cater-care-1134506",
+    "title": "**NEW SITE OPENING** Utility Allrounder",
+    "company": "Cater Care",
+    "location": "Adelaide, ",
+    "salary": "",
+    "tags": "travel,ops,medical,full time,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-07-03",
+    "scraped_at": "2026-07-05 19:06:24"
+  },
+  {
     "id": 1014,
     "url": "https://news.ycombinator.com/item?id=48792793",
     "title": "Full-time",
