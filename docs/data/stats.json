@@ -1,18 +1,18 @@
 {
-  "total_jobs": 1002,
-  "new_jobs": 1002,
+  "total_jobs": 1010,
+  "new_jobs": 1010,
   "platforms": [
     {
       "platform": "hackernews",
-      "count": 200
+      "count": 202
     },
     {
       "platform": "remoteok",
-      "count": 802
+      "count": 808
     }
   ],
   "last_scrape": {
-    "finished_at": "2026-07-05 02:27:28"
+    "finished_at": "2026-07-05 08:45:04"
   },
-  "exported_at": "2026-07-05T02:27:28.228Z"
+  "exported_at": "2026-07-05T08:45:04.773Z"
 }
