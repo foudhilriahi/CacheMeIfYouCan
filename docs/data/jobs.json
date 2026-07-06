@@ -1,5 +1,65 @@
 [
   {
+    "id": 1030,
+    "url": "https://news.ycombinator.com/item?id=48801914",
+    "title": "On-site in Stockholm, Sweden",
+    "company": "Tandem Health",
+    "location": "Software Engineers",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-06 10:02:53"
+  },
+  {
+    "id": 1031,
+    "url": "https://news.ycombinator.com/item?id=48801745",
+    "title": "Full-time",
+    "company": "Electric Twin",
+    "location": "London, UK",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-06 10:02:53"
+  },
+  {
+    "id": 1027,
+    "url": "https://remoteOK.com/remote-jobs/remote-supply-chain-analyst-diva-1134516",
+    "title": "Supply Chain Analyst",
+    "company": "DIVA",
+    "location": "Kitchener, Kitchener, Ontario, Canada",
+    "salary": "",
+    "tags": "analyst,sys admin,customer support,travel,accounting,finance,education,assembly,exec,ops,marketing,excel,sales,medical",
+    "platform": "remoteok",
+    "posted_date": "2026-07-05",
+    "scraped_at": "2026-07-06 10:02:45"
+  },
+  {
+    "id": 1028,
+    "url": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-mena-1134518",
+    "title": "Junior Front End Developer",
+    "company": "PULSEMEDIA (MENA)",
+    "location": "Ø§ÙØ±ÙØ§Ø¶, Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
+    "salary": "",
+    "tags": "front end,dev,design,react,wordpress,full stack,technical,customer support,testing,marketing,web dev,javascript,education,css,git,seo,mobile,exec,content writing,senior,junior,medical,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-05",
+    "scraped_at": "2026-07-06 10:02:45"
+  },
+  {
+    "id": 1029,
+    "url": "https://remoteOK.com/remote-jobs/remote-editor-paginator-the-canadian-press-1134517",
+    "title": "Editor Paginator",
+    "company": "The Canadian Press",
+    "location": "Toronto, Toronto, Ontario, Canada",
+    "salary": "",
+    "tags": "analyst,sys admin,customer support,travel,accounting,finance,education,assembly,exec,ops,marketing,excel,sales,medical,video,content writing,part time",
+    "platform": "remoteok",
+    "posted_date": "2026-07-03",
+    "scraped_at": "2026-07-06 10:02:45"
+  },
+  {
     "id": 1026,
     "url": "https://news.ycombinator.com/item?id=48797747",
     "title": "Remote (US)",
