@@ -1,5 +1,77 @@
 [
   {
+    "id": 1059,
+    "url": "https://news.ycombinator.com/item?id=48813221",
+    "title": "NYC (HYBRID)",
+    "company": "Furtim Modus",
+    "location": "Hiring Java Developer (Full-Time)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-07",
+    "scraped_at": "2026-07-07 09:29:54"
+  },
+  {
+    "id": 1054,
+    "url": "https://remoteOK.com/remote-jobs/remote-get-yokogawa-1134535",
+    "title": "GET",
+    "company": "Yokogawa",
+    "location": "Baroda, ",
+    "salary": "",
+    "tags": "testing,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-07 09:29:46"
+  },
+  {
+    "id": 1055,
+    "url": "https://remoteOK.com/remote-jobs/remote-cro-specialist-sofatutor-1134522",
+    "title": "CRO specialist",
+    "company": "sofatutor",
+    "location": "Remote",
+    "salary": "",
+    "tags": "testing,marketing",
+    "platform": "remoteok",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-07 09:29:46"
+  },
+  {
+    "id": 1056,
+    "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytic-hiring-1134524",
+    "title": "Entry Level Administrative Assistant",
+    "company": "Recruitlytic Hiring",
+    "location": "Ø§ÙÙØ¯ÙÙØ©, Ø§ÙÙØ¯ÙÙØ© Ø§ÙÙØ¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
+    "salary": "",
+    "tags": "virtual assistant,education,customer support,marketing,video,microsoft,exec,ops,excel",
+    "platform": "remoteok",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-07 09:29:46"
+  },
+  {
+    "id": 1057,
+    "url": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruitlytic-hiring-1134546",
+    "title": "Virtual Executive Assistant",
+    "company": "Recruitlytic Hiring",
+    "location": "Alberta, Alberta, Canada",
+    "salary": "",
+    "tags": "virtual assistant,education,customer support,marketing,travel,exec,ops",
+    "platform": "remoteok",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-07 09:29:46"
+  },
+  {
+    "id": 1058,
+    "url": "https://remoteOK.com/remote-jobs/remote-associate-analyst-trinity-life-sciences-1134551",
+    "title": "Associate Analyst",
+    "company": "Trinity Life Sciences",
+    "location": "Gurgaon, Gurgaon, Haryana, India",
+    "salary": "",
+    "tags": "analyst,design,consulting,customer support,testing,microsoft,exec,excel,medical,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-02",
+    "scraped_at": "2026-07-07 09:29:46"
+  },
+  {
     "id": 1050,
     "url": "https://news.ycombinator.com/item?id=48812261",
     "title": "Remote, US Only",
