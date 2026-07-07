@@ -1,5 +1,77 @@
 [
   {
+    "id": 1065,
+    "url": "https://news.ycombinator.com/item?id=48817531",
+    "title": "Atlanta, GA",
+    "company": "BitPay",
+    "location": "Senior Backend Software Developer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-07",
+    "scraped_at": "2026-07-07 14:13:47"
+  },
+  {
+    "id": 1060,
+    "url": "https://remoteOK.com/remote-jobs/remote-scl-agent-skanska-costain-strabag-joint-venture-1134541",
+    "title": "SCL Agent",
+    "company": "Skanska Costain STRABAG Joint Venture",
+    "location": "London, ",
+    "salary": "",
+    "tags": "ops,finance,golang,non tech,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-07 14:13:36"
+  },
+  {
+    "id": 1061,
+    "url": "https://remoteOK.com/remote-jobs/remote-agent-skanska-costain-strabag-joint-venture-1134540",
+    "title": "Agent",
+    "company": "Skanska Costain STRABAG Joint Venture",
+    "location": "Ruislip, ",
+    "salary": "",
+    "tags": "ops,finance,golang,non tech,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-07 14:13:36"
+  },
+  {
+    "id": 1062,
+    "url": "https://remoteOK.com/remote-jobs/remote-scrum-master-holliday-systems-inc-1134531",
+    "title": "Scrum Master",
+    "company": "Holliday Systems Inc",
+    "location": "Greenville, Greenville, North Carolina, United States",
+    "salary": "",
+    "tags": "customer support,infosec,technical,dev,travel,microsoft,mobile,exec,ops,telecom,engineer,linux,digital nomad,scrum,jira,education,consulting,marketing,content writing,part time",
+    "platform": "remoteok",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-07 14:13:36"
+  },
+  {
+    "id": 1063,
+    "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-transition-of-candidate-accenture-australia-1134526",
+    "title": "Expression of Interest Transition of Candidate",
+    "company": "Accenture Australia",
+    "location": "Melbourne, ",
+    "salary": "",
+    "tags": "design,game dev,customer support,marketing,finance,scheme,ops,legal,engineer,digital nomad,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-07 14:13:36"
+  },
+  {
+    "id": 1064,
+    "url": "https://remoteOK.com/remote-jobs/remote-wireless-systems-technical-support-engineer-intracom-telecom-1134530",
+    "title": "Wireless Systems Technical Support Engineer",
+    "company": "Intracom Telecom",
+    "location": "Florida, Florida, United States",
+    "salary": "",
+    "tags": "customer support,infosec,technical,dev,travel,microsoft,mobile,exec,ops,telecom,engineer,linux,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-07 14:13:36"
+  },
+  {
     "id": 1059,
     "url": "https://news.ycombinator.com/item?id=48813221",
     "title": "NYC (HYBRID)",
