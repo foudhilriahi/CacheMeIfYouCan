@@ -1,5 +1,113 @@
 [
   {
+    "id": 1107,
+    "url": "https://news.ycombinator.com/item?id=48835442",
+    "title": "Developer",
+    "company": "Great stuff!",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-08",
+    "scraped_at": "2026-07-08 19:14:09"
+  },
+  {
+    "id": 1108,
+    "url": "https://news.ycombinator.com/item?id=48835373",
+    "title": "REMOTE (US&#x2F;Canada&#x2F;Brazil&#x2F;Poland&#x2F;UK)",
+    "company": "Oscilar.com",
+    "location": "EM, Sr&#x2F;Staff Software Engineers, PM, Data Analyst",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-08",
+    "scraped_at": "2026-07-08 19:14:09"
+  },
+  {
+    "id": 1109,
+    "url": "https://news.ycombinator.com/item?id=48833943",
+    "title": "Remote (US)",
+    "company": "Catalyst·Wayfare AI",
+    "location": "Lead AI Engineer + Agent Builders",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-08",
+    "scraped_at": "2026-07-08 19:14:09"
+  },
+  {
+    "id": 1110,
+    "url": "https://news.ycombinator.com/item?id=48833034",
+    "title": "REMOTE: North America &#x2F; Europe, UTC-8 to UTC+2 preferred",
+    "company": "Lokker.com",
+    "location": "Senior Backend Engineer, Scanning Infrastructure",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-08",
+    "scraped_at": "2026-07-08 19:14:09"
+  },
+  {
+    "id": 1102,
+    "url": "https://remoteOK.com/remote-jobs/remote-superviseur-26-27-the-home-depot-canada-1134570",
+    "title": "Â SUPERVISEUR 26 27",
+    "company": "The Home Depot Canada",
+    "location": "Barrie, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-07-07",
+    "scraped_at": "2026-07-08 19:13:57"
+  },
+  {
+    "id": 1103,
+    "url": "https://remoteOK.com/remote-jobs/remote-superviseur-25-the-home-depot-canada-1134571",
+    "title": "Â SUPERVISEUR 25",
+    "company": "The Home Depot Canada",
+    "location": "Guelph, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-07-07",
+    "scraped_at": "2026-07-08 19:13:57"
+  },
+  {
+    "id": 1104,
+    "url": "https://remoteOK.com/remote-jobs/remote-compliance-market-surveillance-analyst-crypto-com-1134599",
+    "title": "Compliance Market Surveillance Analyst",
+    "company": "Crypto.com",
+    "location": "Ø¯Ø¨Ù, Ø¯Ø¨Ù Ø¯Ø¨Ù Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø©",
+    "salary": "",
+    "tags": "web3,crypto,blockchain,analyst,infosec,customer support,marketing,finance,math,exec,content writing,ops,legal,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-07-07",
+    "scraped_at": "2026-07-08 19:13:57"
+  },
+  {
+    "id": 1105,
+    "url": "https://remoteOK.com/remote-jobs/remote-human-resources-administrative-coordinator-enstar-group-1134583",
+    "title": "Human Resources Administrative Coordinator",
+    "company": "Enstar Group",
+    "location": "Florida, Florida, United States",
+    "salary": "",
+    "tags": "exec,education,strategy,customer support,copywriting,marketing,travel,speech,video,mobile,content writing,senior,medical,social media,ecommerce,full time,data entry,dev,web dev,microsoft,ops,digital nomad,legal,design,technical,sales,recruiter,ads,art direction,saas,testing,engineer,hr,sys admin,coordinator,payroll,finance,excel",
+    "platform": "remoteok",
+    "posted_date": "2026-07-07",
+    "scraped_at": "2026-07-08 19:13:57"
+  },
+  {
+    "id": 1106,
+    "url": "https://remoteOK.com/remote-jobs/remote-cad-assistant-recruitgo-careers-1134601",
+    "title": "CAD Assistant",
+    "company": "RecruitGo Careers",
+    "location": "Quezon City, Quezon City, National Capital Region, Philippines",
+    "salary": "",
+    "tags": "web3,crypto,blockchain,analyst,infosec,customer support,marketing,finance,math,exec,content writing,ops,legal,recruiter,sys admin,education,technical,virtual assistant,design,vfx,part time,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-07",
+    "scraped_at": "2026-07-08 19:13:57"
+  },
+  {
     "id": 1101,
     "url": "https://news.ycombinator.com/item?id=48829225",
     "title": "Europe&#x2F;US",
