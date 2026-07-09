@@ -1,5 +1,77 @@
 [
   {
+    "id": 1140,
+    "url": "https://remoteOK.com/remote-jobs/remote-events-manager-lantern-1134622",
+    "title": "Events Manager",
+    "company": "Lantern",
+    "location": "Dallas, Dallas, Texas, United States",
+    "salary": "",
+    "tags": "infosec,coordinator,customer support,dev,mobile,exec,senior,ops,medical,digital nomad,design,crypto,marketing,video,finance,content writing,education,legal,sales,golang,full time,photoshop,illustrator,copywriting,ads,social media,salesforce,hr,travel",
+    "platform": "remoteok",
+    "posted_date": "2026-07-08",
+    "scraped_at": "2026-07-09 14:40:02"
+  },
+  {
+    "id": 1141,
+    "url": "https://remoteOK.com/remote-jobs/remote-influencer-amp-community-marketing-executive-ubt-1134631",
+    "title": "Influencer &amp; Community Marketing Executive",
+    "company": "UBT",
+    "location": "Birmingham, Birmingham, England, United Kingdom",
+    "salary": "",
+    "tags": "customer support,marketing,travel,exec,content writing,sales,golang",
+    "platform": "remoteok",
+    "posted_date": "2026-07-08",
+    "scraped_at": "2026-07-09 14:40:02"
+  },
+  {
+    "id": 1142,
+    "url": "https://remoteOK.com/remote-jobs/remote-data-center-technician-dispatch-sharp-brains-1134595",
+    "title": "Data center technician Dispatch",
+    "company": "Sharp Brains",
+    "location": "Nassau, ",
+    "salary": "",
+    "tags": "sys admin,infosec,education,technical,customer support,testing",
+    "platform": "remoteok",
+    "posted_date": "2026-07-08",
+    "scraped_at": "2026-07-09 14:40:02"
+  },
+  {
+    "id": 1143,
+    "url": "https://remoteOK.com/remote-jobs/remote-mali-ghar-1134606",
+    "title": "Mali",
+    "company": "Ghar",
+    "location": "Lucknow, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-07-08",
+    "scraped_at": "2026-07-09 14:40:02"
+  },
+  {
+    "id": 1144,
+    "url": "https://remoteOK.com/remote-jobs/remote-freelance-social-media-amp-marketing-executive-meplus-nutrition-1134635",
+    "title": "Freelance Social Media &amp; Marketing Executive",
+    "company": "MePlus Nutrition",
+    "location": "Glasgow, Glasgow, Scotland, United Kingdom",
+    "salary": "",
+    "tags": "customer support,marketing,travel,exec,content writing,sales,golang,controller,excel,teaching,testing,video,education,finance,ads,senior,recruiter,social media,full time,part time,jira,technical,coordinator,analyst,devops,cloud,microsoft,ops",
+    "platform": "remoteok",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-09 14:40:02"
+  },
+  {
+    "id": 1145,
+    "url": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-uniupp-1134633",
+    "title": "Social Media Content Creator",
+    "company": "UniUpp",
+    "location": "England, England, United Kingdom",
+    "salary": "",
+    "tags": "customer support,marketing,travel,exec,content writing,sales,golang,controller,excel,teaching,testing,video,education,finance,ads,senior,recruiter,social media,full time,part time",
+    "platform": "remoteok",
+    "posted_date": "2026-07-06",
+    "scraped_at": "2026-07-09 14:40:02"
+  },
+  {
     "id": 1137,
     "url": "https://news.ycombinator.com/item?id=48843116",
     "title": "Remote (EMEA)",
