@@ -1,5 +1,65 @@
 [
   {
+    "id": 1189,
+    "url": "https://news.ycombinator.com/item?id=48860201",
+    "title": "Technical Customer Support Specialist",
+    "company": "Qase",
+    "location": "Developer Advocate",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-10 19:19:30"
+  },
+  {
+    "id": 1185,
+    "url": "https://remoteOK.com/remote-jobs/remote-health-navigator-i-moda-health-1134652",
+    "title": "Health Navigator I",
+    "company": "Moda Health",
+    "location": "Portland, ",
+    "salary": "",
+    "tags": "design,hr,sys admin,infosec,teaching,technical,customer support,dev,testing,marketing,travel,video,cloud,exec,linux,digital nomad,saas,salesforce,education,consulting,speech,finance,sales,medical,engineer,recruiter,supervisor,microsoft,content writing,ops",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-10 19:19:18"
+  },
+  {
+    "id": 1186,
+    "url": "https://remoteOK.com/remote-jobs/remote-caretaker-city-buildings-city-of-kalgoorlie-boulder-1134655",
+    "title": "Caretaker City Buildings",
+    "company": "City of Kalgoorlie-Boulder",
+    "location": "Kalgoorlie, ",
+    "salary": "",
+    "tags": "education,customer support,medical,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-10 19:19:18"
+  },
+  {
+    "id": 1187,
+    "url": "https://remoteOK.com/remote-jobs/remote-mason-united-infrastructure-ltd-1134639",
+    "title": "Mason",
+    "company": "United Infrastructure Ltd",
+    "location": "Livingston, ",
+    "salary": "",
+    "tags": "dev,engineer,digital nomad,design,customer support",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-10 19:19:18"
+  },
+  {
+    "id": 1188,
+    "url": "https://remoteOK.com/remote-jobs/remote-general-consideration-certasite-1134683",
+    "title": "General Consideration",
+    "company": "CertaSite",
+    "location": "Toledo, ",
+    "salary": "",
+    "tags": "marketing,education,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-10 19:19:18"
+  },
+  {
     "id": 1179,
     "url": "https://remoteOK.com/remote-jobs/remote-firefighter-arff-adani-airport-holdings-ltd-1134670",
     "title": "Firefighter ARFF",
