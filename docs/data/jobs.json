@@ -1,5 +1,77 @@
 [
   {
+    "id": 1177,
+    "url": "https://news.ycombinator.com/item?id=48855315",
+    "title": "Full-time",
+    "company": "Full Stack Software Engineer",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-10 09:23:26"
+  },
+  {
+    "id": 1178,
+    "url": "https://news.ycombinator.com/item?id=48855260",
+    "title": "Chattanooga, TN",
+    "company": "Double Holo",
+    "location": "Founding Mobile Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-10 09:23:26"
+  },
+  {
+    "id": 1173,
+    "url": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-seu-novo-emprego-buscarvagas-empregos-brasil-1134659",
+    "title": "Operador de Portaria Remota Recife PE Seu Novo Emprego",
+    "company": "BuscarVagas - Empregos Brasil",
+    "location": "Recife, Recife, Pernambuco, Brasil",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-10 09:23:16"
+  },
+  {
+    "id": 1174,
+    "url": "https://remoteOK.com/remote-jobs/remote-houseperson-accor-1134656",
+    "title": "Houseperson",
+    "company": "Accor",
+    "location": "Trevallyn, ",
+    "salary": "",
+    "tags": "education,customer support,medical,non tech,infosec,golang",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-10 09:23:16"
+  },
+  {
+    "id": 1175,
+    "url": "https://remoteOK.com/remote-jobs/remote-update-add-your-resume-any-position-eoi-infrastructure-projects-bellwether-group-1134658",
+    "title": "Update Add Your Resume Any Position EOI Infrastructure Projects",
+    "company": "Bellwether Group",
+    "location": "Brisbane, ",
+    "salary": "",
+    "tags": "education,customer support,medical,non tech,infosec,golang,exec,ops,engineer,marketing",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-10 09:23:16"
+  },
+  {
+    "id": 1176,
+    "url": "https://remoteOK.com/remote-jobs/remote-coordinador-de-medio-ambiente-y-desarrollo-comunitario-wisefind-1134642",
+    "title": "Coordinador de Medio Ambiente y Desarrollo Comunitario",
+    "company": "Wisefind",
+    "location": "Ciudad de MÃ©xico, Ciudad de MÃ©xico, MÃ©xico",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-10 09:23:16"
+  },
+  {
     "id": 1158,
     "url": "https://remoteOK.com/remote-jobs/remote-docente-tiempo-parcial-desarrollo-de-psicomotricidad-en-primera-infancia-remoto-universidad-privada-del-norte-1134611",
     "title": "Docente Tiempo Parcial Desarrollo de Psicomotricidad en Primera Infancia Remoto",
