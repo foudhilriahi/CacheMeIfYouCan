@@ -1,5 +1,77 @@
 [
   {
+    "id": 1179,
+    "url": "https://remoteOK.com/remote-jobs/remote-firefighter-arff-adani-airport-holdings-ltd-1134670",
+    "title": "Firefighter ARFF",
+    "company": "Adani Airport Holdings Ltd",
+    "location": "Mangaluru, ",
+    "salary": "",
+    "tags": "infosec,dev,photoshop,digital nomad,education,customer support,marketing,exec,finance,ops,medical,engineer",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-10 14:06:05"
+  },
+  {
+    "id": 1180,
+    "url": "https://remoteOK.com/remote-jobs/remote-junior-ecommerce-specialist-haystack-1134653",
+    "title": "Junior Ecommerce Specialist",
+    "company": "Haystack",
+    "location": "Greater Chicago Area",
+    "salary": "",
+    "tags": "design,hr,sys admin,infosec,teaching,technical,customer support,dev,testing,marketing,travel,video,cloud,exec,linux,digital nomad,saas,salesforce,education,consulting,speech,finance,sales,medical,engineer,recruiter,supervisor,microsoft,content writing,ops,web dev,mobile,junior,excel,stats,ecommerce",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-10 14:06:05"
+  },
+  {
+    "id": 1181,
+    "url": "https://remoteOK.com/remote-jobs/remote-non-usa-new-relic-1134671",
+    "title": "Non USA",
+    "company": "New Relic",
+    "location": "Hyderabad, ",
+    "salary": "",
+    "tags": "infosec,dev,photoshop,digital nomad,education,customer support,marketing,exec,finance,ops,medical,engineer,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-10 14:06:05"
+  },
+  {
+    "id": 1182,
+    "url": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-bangalore-aditya-birla-capital-1134676",
+    "title": "SLT HDFC BB Bangalore",
+    "company": "Aditya Birla Capital",
+    "location": "Karnataka, ",
+    "salary": "",
+    "tags": "jira,hr,customer support,finance,cloud,admin,exec,ops,legal,recruiter,teaching,marketing,c,sales",
+    "platform": "remoteok",
+    "posted_date": "2026-07-08",
+    "scraped_at": "2026-07-10 14:06:05"
+  },
+  {
+    "id": 1183,
+    "url": "https://remoteOK.com/remote-jobs/remote-medical-writer-scientific-communications-prime-1134662",
+    "title": "Medical Writer Scientific Communications",
+    "company": "Prime",
+    "location": "Toronto, Toronto, Ontario, Canada",
+    "salary": "",
+    "tags": "writer,customer support,exec,finance,microsoft,content writing,excel,golang,medical",
+    "platform": "remoteok",
+    "posted_date": "2026-07-07",
+    "scraped_at": "2026-07-10 14:06:05"
+  },
+  {
+    "id": 1184,
+    "url": "https://remoteOK.com/remote-jobs/remote-elearning-developer-the-learning-network-1134666",
+    "title": "eLearning Developer",
+    "company": "The Learning Network",
+    "location": "London, London, Ontario, Canada",
+    "salary": "",
+    "tags": "writer,customer support,exec,finance,microsoft,content writing,excel,golang,medical,virtual assistant,education,marketing,video,ops,travel,data entry,jira,hr,cloud,admin,legal,sys admin,dev,design,technical,testing,adult,photoshop,illustrator,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-07",
+    "scraped_at": "2026-07-10 14:06:05"
+  },
+  {
     "id": 1177,
     "url": "https://news.ycombinator.com/item?id=48855315",
     "title": "Full-time",
