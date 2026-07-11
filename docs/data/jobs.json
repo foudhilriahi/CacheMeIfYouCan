@@ -1,5 +1,185 @@
 [
   {
+    "id": 1213,
+    "url": "https://news.ycombinator.com/item?id=48868436",
+    "title": "New York, NY",
+    "company": "ResortPass",
+    "location": "Senior Software Engineer, Frontend",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-11",
+    "scraped_at": "2026-07-11 07:44:18"
+  },
+  {
+    "id": 1199,
+    "url": "https://remoteOK.com/remote-jobs/remote-administrative-customer-support-recruitlytixs-hirings-1134668",
+    "title": "Administrative Customer Support",
+    "company": "Recruitlytixs Hirings",
+    "location": "Alberta, Alberta, Canada",
+    "salary": "",
+    "tags": "writer,customer support,exec,finance,microsoft,content writing,excel,golang,medical,virtual assistant,education,marketing,video,ops,travel,data entry,jira,hr,cloud,admin,legal,sys admin,dev,design,technical,testing,adult,photoshop,illustrator,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1200,
+    "url": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruitlytixs-hirings-1134664",
+    "title": "Virtual Executive Assistant",
+    "company": "Recruitlytixs Hirings",
+    "location": "Alberta, Alberta, Canada",
+    "salary": "",
+    "tags": "writer,customer support,exec,finance,microsoft,content writing,excel,golang,medical,virtual assistant,education,marketing,video,ops,travel",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1201,
+    "url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-recruitlytixs-hirings-1134665",
+    "title": "Administrative Data Entry File Clerk",
+    "company": "Recruitlytixs Hirings",
+    "location": "Alberta, Alberta, Canada",
+    "salary": "",
+    "tags": "writer,customer support,exec,finance,microsoft,content writing,excel,golang,medical,virtual assistant,education,marketing,video,ops,travel,data entry,jira,hr,cloud,admin,legal,sys admin",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1202,
+    "url": "https://remoteOK.com/remote-jobs/remote-computer-user-support-recruitlytixs-hirings-1134667",
+    "title": "Computer User Support",
+    "company": "Recruitlytixs Hirings",
+    "location": "Alberta, Alberta, Canada",
+    "salary": "",
+    "tags": "writer,customer support,exec,finance,microsoft,content writing,excel,golang,medical,virtual assistant,education,marketing,video,ops,travel,data entry,jira,hr,cloud,admin,legal,sys admin,dev,design,technical,testing,adult,photoshop,illustrator,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1203,
+    "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytixs-hirings-1134663",
+    "title": "Entry Level Administrative Assistant",
+    "company": "Recruitlytixs Hirings",
+    "location": "Alberta, Alberta, Canada",
+    "salary": "",
+    "tags": "writer,customer support,exec,finance,microsoft,content writing,excel,golang,medical,virtual assistant,education,marketing,video,ops",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1204,
+    "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-recruitlytixs-hirings-1134677",
+    "title": "Data Entry Specialist Assistant Administrator",
+    "company": "Recruitlytixs Hirings",
+    "location": "Hong Kong, Hong Kong, Hong Kong SAR",
+    "salary": "",
+    "tags": "jira,hr,customer support,finance,cloud,admin,exec,ops,legal,recruiter,teaching,marketing,c,sales,data entry,virtual assistant,education,microsoft,excel",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1205,
+    "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-admin-recruitlytixs-hirings-1134681",
+    "title": "Data Entry Specialist Assistant Admin",
+    "company": "Recruitlytixs Hirings",
+    "location": "Ø£Ø¨Ù Ø¸Ø¨Ù, Ø£Ø¨Ù Ø¸Ø¨Ù Ø£Ø¨Ù Ø¸Ø¨Ù Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø©",
+    "salary": "",
+    "tags": "data entry,virtual assistant,infosec,education,customer support,marketing,admin,microsoft,exec,excel",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1206,
+    "url": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruitlytixs-hirings-1134680",
+    "title": "Human Resources Assistant",
+    "company": "Recruitlytixs Hirings",
+    "location": "Ø£Ø¨Ù Ø¸Ø¨Ù, Ø£Ø¨Ù Ø¸Ø¨Ù Ø£Ø¨Ù Ø¸Ø¨Ù Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø©",
+    "salary": "",
+    "tags": "jira,hr,customer support,finance,cloud,admin,exec,ops,legal,recruiter,teaching,marketing,c,sales,data entry,virtual assistant,education,microsoft,excel,sys admin,technical,video,coordinator",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1207,
+    "url": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytixs-hirings-1134675",
+    "title": "File Clerk",
+    "company": "Recruitlytixs Hirings",
+    "location": "Ø£Ø¨Ù Ø¸Ø¨Ù, Ø£Ø¨Ù Ø¸Ø¨Ù Ø£Ø¨Ù Ø¸Ø¨Ù Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø©",
+    "salary": "",
+    "tags": "jira,hr,customer support,finance,cloud,admin,exec,ops,legal,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1208,
+    "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-entry-level-recruitlytixs-hirings-1134679",
+    "title": "Administrative Assistant Entry Level",
+    "company": "Recruitlytixs Hirings",
+    "location": "Ø§ÙÙØ¯ÙÙØ©, Ø§ÙÙØ¯ÙÙØ© Ø§ÙÙØ¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
+    "salary": "",
+    "tags": "jira,hr,customer support,finance,cloud,admin,exec,ops,legal,recruiter,teaching,marketing,c,sales,data entry,virtual assistant,education,microsoft,excel,sys admin,technical,video",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1209,
+    "url": "https://remoteOK.com/remote-jobs/remote-customer-support-recruitlytixs-hirings-1134678",
+    "title": "Customer Support",
+    "company": "Recruitlytixs Hirings",
+    "location": "Ø§ÙÙØ¯ÙÙØ©, Ø§ÙÙØ¯ÙÙØ© Ø§ÙÙØ¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
+    "salary": "",
+    "tags": "jira,hr,customer support,finance,cloud,admin,exec,ops,legal,recruiter,teaching,marketing,c,sales,data entry,virtual assistant,education,microsoft,excel,sys admin,technical",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1210,
+    "url": "https://remoteOK.com/remote-jobs/remote-were-not-hiring-right-now-but-were-growing-fast-vended-1134690",
+    "title": "Weâre not hiring right now â but weâre growing fast",
+    "company": "VENDED",
+    "location": "West Midlands, ",
+    "salary": "",
+    "tags": "ios,dev,web dev,api,sales,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1211,
+    "url": "https://remoteOK.com/remote-jobs/remote-australian-english-voice-actor-adelaide-opsarmy-careers-1134698",
+    "title": "Australian English Voice Actor Adelaide",
+    "company": "OpsArmy Careers",
+    "location": "Adelaide, Adelaide, South Australia, Australia",
+    "salary": "",
+    "tags": "speech,game dev,dev,video,content writing,education,non tech,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
+    "id": 1212,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-creative-designer-design-strategist-digital-1134700",
+    "title": "Senior Creative Designer Design Strategist",
+    "company": "Digital",
+    "location": "London, London, England, United Kingdom",
+    "salary": "",
+    "tags": "web dev,design,consulting,designer,customer support,dev,marketing,finance,exec,junior,digital nomad,strategy,video,content writing,senior",
+    "platform": "remoteok",
+    "posted_date": "2026-07-09",
+    "scraped_at": "2026-07-11 07:44:07"
+  },
+  {
     "id": 1190,
     "url": "https://remoteOK.com/remote-jobs/remote-support-technician-level-1-2-magic-memories-1134650",
     "title": "Support Technician Level 1 2",
