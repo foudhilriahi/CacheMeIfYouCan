@@ -1,5 +1,29 @@
 [
   {
+    "id": 1234,
+    "url": "https://remoteOK.com/remote-jobs/remote-atendente-relacionamento-ouvidoria-vivo-telefonica-brasil-1134706",
+    "title": "Atendente Relacionamento Ouvidoria",
+    "company": "Vivo (TelefÃ´nica Brasil)",
+    "location": "Fortaleza, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-07-11",
+    "scraped_at": "2026-07-12 13:03:19"
+  },
+  {
+    "id": 1235,
+    "url": "https://remoteOK.com/remote-jobs/remote-deputy-chief-executive-officer-thehivecareers-1134731",
+    "title": "Deputy Chief Executive Officer",
+    "company": "TheHiveCareers",
+    "location": "Soto del Barco, Soto del Barco, Principado de Asturias, EspaÃ±a",
+    "salary": "",
+    "tags": "exec,infosec,customer support,marketing,travel,accounting,finance,education,senior,ops,legal,sales",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-12 13:03:19"
+  },
+  {
     "id": 1229,
     "url": "https://remoteOK.com/remote-jobs/remote-recepcionista-jr-bela-vista-sp-grupo-amil-1134704",
     "title": "Recepcionista Jr Bela Vista SP",
