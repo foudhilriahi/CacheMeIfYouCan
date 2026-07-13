@@ -1,5 +1,65 @@
 [
   {
+    "id": 1265,
+    "url": "https://news.ycombinator.com/item?id=48888035",
+    "title": "Onsite",
+    "company": "Senior Full Stack Engineer",
+    "location": "New York, NY",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-13",
+    "scraped_at": "2026-07-13 08:55:46"
+  },
+  {
+    "id": 1261,
+    "url": "https://remoteOK.com/remote-jobs/remote-inbound-sales-closer-express-chipping-inc-1134726",
+    "title": "Inbound Sales Closer",
+    "company": "Express Chipping Inc",
+    "location": "Remote",
+    "salary": "",
+    "tags": "salesforce,customer support,marketing,web dev,ads,exec,legal,sales,sys admin,medical,full time",
+    "platform": "remoteok",
+    "posted_date": "2026-07-12",
+    "scraped_at": "2026-07-13 08:55:36"
+  },
+  {
+    "id": 1262,
+    "url": "https://remoteOK.com/remote-jobs/remote-english-language-expert-jobsinmass-com-1134756",
+    "title": "English Language Expert",
+    "company": "JobsInMass.com",
+    "location": "Boston, ",
+    "salary": "",
+    "tags": "data entry,medical,education,testing,linguistics,quality assurance,content writing,sys admin",
+    "platform": "remoteok",
+    "posted_date": "2026-07-12",
+    "scraped_at": "2026-07-13 08:55:36"
+  },
+  {
+    "id": 1263,
+    "url": "https://remoteOK.com/remote-jobs/remote-apply-here-conquer-ai-1134722",
+    "title": "Apply Here",
+    "company": "Conquer AI",
+    "location": "Remote",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-07-12",
+    "scraped_at": "2026-07-13 08:55:36"
+  },
+  {
+    "id": 1264,
+    "url": "https://remoteOK.com/remote-jobs/remote-hr-assistant-remoteva-1134729",
+    "title": "HR Assistant",
+    "company": "RemoteVA",
+    "location": "National Capital Region, National Capital Region, Philippines",
+    "salary": "",
+    "tags": "virtual assistant,marketing,social media,non tech,hr,customer support,dev,medical,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-12",
+    "scraped_at": "2026-07-13 08:55:36"
+  },
+  {
     "id": 1260,
     "url": "https://news.ycombinator.com/item?id=48885246",
     "title": "Remote USA",
