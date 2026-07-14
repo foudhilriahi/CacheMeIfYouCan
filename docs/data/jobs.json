@@ -1,5 +1,65 @@
 [
   {
+    "id": 1293,
+    "url": "https://news.ycombinator.com/item?id=48900749",
+    "title": "SF or Remote",
+    "company": "Namecoach&#x2F;Euphonia",
+    "location": "Founding Voice AI Engineer (part-time, path to CAIO)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-14",
+    "scraped_at": "2026-07-14 01:50:40"
+  },
+  {
+    "id": 1289,
+    "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-interex-group-1134750",
+    "title": "Business Analyst",
+    "company": "InterEx Group",
+    "location": "Remote",
+    "salary": "",
+    "tags": "analyst",
+    "platform": "remoteok",
+    "posted_date": "2026-07-13",
+    "scraped_at": "2026-07-14 01:50:31"
+  },
+  {
+    "id": 1290,
+    "url": "https://remoteOK.com/remote-jobs/remote-executive-management-netball-america-1134752",
+    "title": "Executive Management",
+    "company": "Netball America",
+    "location": "Roorkee, ",
+    "salary": "",
+    "tags": "teaching,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-07-12",
+    "scraped_at": "2026-07-14 01:50:31"
+  },
+  {
+    "id": 1291,
+    "url": "https://remoteOK.com/remote-jobs/remote-general-consideration-upload-your-resume-here-atcs-inc-1134783",
+    "title": "General Consideration Upload Your Resume Here",
+    "company": "ATCS Inc.",
+    "location": "Newport News, ",
+    "salary": "",
+    "tags": "exec,marketing,consulting,engineer",
+    "platform": "remoteok",
+    "posted_date": "2026-07-11",
+    "scraped_at": "2026-07-14 01:50:31"
+  },
+  {
+    "id": 1292,
+    "url": "https://remoteOK.com/remote-jobs/remote-houseman-four-seasons-1134786",
+    "title": "Houseman",
+    "company": "Four Seasons",
+    "location": "Nassau, ",
+    "salary": "",
+    "tags": "controller,education,technical,customer support,testing,exec,microsoft,ops,engineer,infosec,legal",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-14 01:50:31"
+  },
+  {
     "id": 1286,
     "url": "https://news.ycombinator.com/item?id=48897221",
     "title": "REMOTE (US&#x2F;Canada), then ONSITE SF from fall 2026",
