@@ -1,5 +1,77 @@
 [
   {
+    "id": 1310,
+    "url": "https://news.ycombinator.com/item?id=48904087",
+    "title": "Full-time",
+    "company": "Orbit",
+    "location": "Product Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-07-14",
+    "scraped_at": "2026-07-14 13:17:21"
+  },
+  {
+    "id": 1305,
+    "url": "https://remoteOK.com/remote-jobs/remote-dental-nurse-torbay-and-south-devon-nhs-foundation-trust-1134789",
+    "title": "Dental Nurse",
+    "company": "Torbay and South Devon NHS Foundation Trust",
+    "location": "Torquay, ",
+    "salary": "",
+    "tags": "customer support,exec,ops,medical",
+    "platform": "remoteok",
+    "posted_date": "2026-07-13",
+    "scraped_at": "2026-07-14 13:17:12"
+  },
+  {
+    "id": 1306,
+    "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-excel-jobsinmass-com-1134777",
+    "title": "Data Analyst Excel",
+    "company": "JobsInMass.com",
+    "location": "Boston, ",
+    "salary": "",
+    "tags": "coordinator,ops,exec,social media,sys admin,education,technical,customer support,medical,analyst,microsoft,data science,excel",
+    "platform": "remoteok",
+    "posted_date": "2026-07-13",
+    "scraped_at": "2026-07-14 13:17:12"
+  },
+  {
+    "id": 1307,
+    "url": "https://remoteOK.com/remote-jobs/remote-clases-de-refuerzo-primaria-media-jornada-tus-media-1134788",
+    "title": "Clases de Refuerzo Primaria Media Jornada",
+    "company": "TUS Media",
+    "location": "Madrid, Madrid, Comunidad de Madrid, EspaÃ±a",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-07-13",
+    "scraped_at": "2026-07-14 13:17:12"
+  },
+  {
+    "id": 1308,
+    "url": "https://remoteOK.com/remote-jobs/remote-social-media-creator-amp-manager-simplee-drinks-1134810",
+    "title": "Social Media Creator &amp; Manager",
+    "company": "Simplee Drinks",
+    "location": "London Area, London Area, United Kingdom",
+    "salary": "",
+    "tags": "exec,design,video,content writing,marketing,stats,sales,social media,part time,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-14 13:17:12"
+  },
+  {
+    "id": 1309,
+    "url": "https://remoteOK.com/remote-jobs/remote-handyperson-accor-1134802",
+    "title": "Handyperson",
+    "company": "Accor",
+    "location": "Coffs Harbour, ",
+    "salary": "",
+    "tags": "education,customer support,exec,golang",
+    "platform": "remoteok",
+    "posted_date": "2026-07-10",
+    "scraped_at": "2026-07-14 13:17:12"
+  },
+  {
     "id": 1294,
     "url": "https://remoteOK.com/remote-jobs/remote-metro-jarmani-limited-1134798",
     "title": "Metro",
