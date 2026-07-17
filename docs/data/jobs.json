@@ -1,5 +1,65 @@
 [
   {
+    "id": 1436,
+    "url": "https://remoteOK.com/remote-jobs/remote-hr-assistant-sundayy-1134900",
+    "title": "HR Assistant",
+    "company": "Sundayy",
+    "location": "United States, ",
+    "salary": "",
+    "tags": "hr,education,customer support,marketing,exec,medical,virtual assistant",
+    "platform": "remoteok",
+    "posted_date": "2026-07-16",
+    "scraped_at": "2026-07-17 07:57:52"
+  },
+  {
+    "id": 1437,
+    "url": "https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897",
+    "title": "Create Your Own Role",
+    "company": "NewsletterJobs.io",
+    "location": "Pittsburgh, ",
+    "salary": "",
+    "tags": "crypto,dev,cloud,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-16",
+    "scraped_at": "2026-07-17 07:57:52"
+  },
+  {
+    "id": 1438,
+    "url": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898",
+    "title": "Publisher",
+    "company": "NewsletterJobs.io",
+    "location": "Morristown, ",
+    "salary": "",
+    "tags": "crypto,dev,cloud,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-16",
+    "scraped_at": "2026-07-17 07:57:52"
+  },
+  {
+    "id": 1439,
+    "url": "https://remoteOK.com/remote-jobs/remote-courier-doctors-hospital-1134947",
+    "title": "COURIER",
+    "company": "Doctors Hospital",
+    "location": "Nassau, ",
+    "salary": "",
+    "tags": "react,customer support,math,medical,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-07-16",
+    "scraped_at": "2026-07-17 07:57:52"
+  },
+  {
+    "id": 1440,
+    "url": "https://remoteOK.com/remote-jobs/remote-associate-customer-engagement-the-coca-cola-company-1134955",
+    "title": "Associate Customer Engagement",
+    "company": "The Coca-Cola Company",
+    "location": "Atlanta, ",
+    "salary": "",
+    "tags": "exec,design,amazon,customer support,marketing,travel,speech,video,ads,content writing,ops,shopify,full time,digital nomad,salesforce,sys admin,infosec,microsoft,senior,bus dev,sales,medical,strategy,dev,copywriting,testing,web dev,education,mobile,stats,teaching,technical,finance,golang,engineer,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-07-15",
+    "scraped_at": "2026-07-17 07:57:52"
+  },
+  {
     "id": 1422,
     "url": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-inmobiliario-call-center-remoto-los-portales-1134942",
     "title": "Asesor de AtenciÃ³n al Cliente Inmobiliario Call center Remoto",
