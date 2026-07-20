@@ -1,5 +1,65 @@
 [
   {
+    "id": 1541,
+    "url": "https://remoteOK.com/remote-jobs/remote-details-majer-unternehmens-gruppe-1135040",
+    "title": "Details",
+    "company": "Majer Unternehmens-Gruppe",
+    "location": "Jarretville, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-07-19",
+    "scraped_at": "2026-07-20 02:16:26"
+  },
+  {
+    "id": 1542,
+    "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-dosed-1135046",
+    "title": "Graphic Designer",
+    "company": "DOSED",
+    "location": "Time, ",
+    "salary": "",
+    "tags": "design,game dev,designer,content writing,photoshop,full time,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-18",
+    "scraped_at": "2026-07-20 02:16:26"
+  },
+  {
+    "id": 1543,
+    "url": "https://remoteOK.com/remote-jobs/remote-shafqat-hiretalentt-1135048",
+    "title": "Shafqat",
+    "company": "HireTalentt",
+    "location": "Mohammadbazar, ",
+    "salary": "",
+    "tags": "customer support,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-07-18",
+    "scraped_at": "2026-07-20 02:16:26"
+  },
+  {
+    "id": 1544,
+    "url": "https://remoteOK.com/remote-jobs/remote-manufacturing-positions-allied-packaging-corporation-1135065",
+    "title": "MANUFACTURING POSITIONS",
+    "company": "Allied Packaging Corporation",
+    "location": "Malerkotla, ",
+    "salary": "",
+    "tags": "recruiter,legal,full time,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-07-18",
+    "scraped_at": "2026-07-20 02:16:26"
+  },
+  {
+    "id": 1545,
+    "url": "https://remoteOK.com/remote-jobs/remote-business-operations-associate-obelisk-support-1135078",
+    "title": "Business Operations Associate",
+    "company": "Obelisk Support",
+    "location": "London Area, London Area, United Kingdom",
+    "salary": "",
+    "tags": "sys admin,exec,customer support,admin,microsoft,senior,ops,legal,recruiter,part time",
+    "platform": "remoteok",
+    "posted_date": "2026-07-17",
+    "scraped_at": "2026-07-20 02:16:26"
+  },
+  {
     "id": 1538,
     "url": "https://remoteOK.com/remote-jobs/remote-administrative-specialist-dade-medical-college-hialeah-1135042",
     "title": "Administrative Specialist",
