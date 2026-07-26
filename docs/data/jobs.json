@@ -1,5 +1,41 @@
 [
   {
+    "id": 1814,
+    "url": "https://remoteOK.com/remote-jobs/remote-operations-specialist-sezzle-1135398",
+    "title": "Operations Specialist",
+    "company": "Sezzle",
+    "location": "Latin America, ",
+    "salary": "",
+    "tags": "ops",
+    "platform": "remoteok",
+    "posted_date": "2026-07-25",
+    "scraped_at": "2026-07-26 08:13:18"
+  },
+  {
+    "id": 1815,
+    "url": "https://remoteOK.com/remote-jobs/remote-negocios-analista-de-solucoes-de-negocios-junior-totvs-1135397",
+    "title": "NegÃ³cios Analista de SoluÃ§Ãµes de NegÃ³cios JÃºnior",
+    "company": "TOTVS",
+    "location": "Brasil, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-07-25",
+    "scraped_at": "2026-07-26 08:13:18"
+  },
+  {
+    "id": 1816,
+    "url": "https://remoteOK.com/remote-jobs/remote-caretaker-discovery-parks-1135429",
+    "title": "Caretaker",
+    "company": "Discovery Parks",
+    "location": "Boulder, ",
+    "salary": "",
+    "tags": "marketing,travel,exec,ops",
+    "platform": "remoteok",
+    "posted_date": "2026-07-24",
+    "scraped_at": "2026-07-26 08:13:18"
+  },
+  {
     "id": 1797,
     "url": "https://remoteOK.com/remote-jobs/remote-it-support-analyst-work-force-nexus-1135393",
     "title": "IT Support Analyst",
