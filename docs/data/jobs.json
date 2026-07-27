@@ -1,5 +1,137 @@
 [
   {
+    "id": 1830,
+    "url": "https://remoteOK.com/remote-jobs/remote-https-brokehipster-com-listings-lloyds-bank-broke-hipster-1135433",
+    "title": "https brokehipster.com listings lloyds bank",
+    "company": "Broke Hipster",
+    "location": "Lloyds, ",
+    "salary": "",
+    "tags": "finance,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-07-26",
+    "scraped_at": "2026-07-27 02:12:33"
+  },
+  {
+    "id": 1831,
+    "url": "https://remoteOK.com/remote-jobs/remote-urban-viniluxx-1135436",
+    "title": "URBAN",
+    "company": "Viniluxx",
+    "location": "Yalla-Y-Poora, ",
+    "salary": "",
+    "tags": "design,ios,dev,web dev,exec,android,sales,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-26",
+    "scraped_at": "2026-07-27 02:12:33"
+  },
+  {
+    "id": 1832,
+    "url": "https://remoteOK.com/remote-jobs/remote-no-open-roles-right-now-public-health-bureau-1135425",
+    "title": "No open roles right now",
+    "company": "Public Health Bureau",
+    "location": "Indiana, ",
+    "salary": "",
+    "tags": "sys admin,marketing,medical,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-07-26",
+    "scraped_at": "2026-07-27 02:12:33"
+  },
+  {
+    "id": 1833,
+    "url": "https://remoteOK.com/remote-jobs/remote-technical-recruiter-2026-new-graduate-radiant-industries-1135414",
+    "title": "Technical Recruiter 2026 New Graduate",
+    "company": "Radiant Industries",
+    "location": "El Segundo",
+    "salary": "",
+    "tags": "technical,recruiter,customer support,dev,testing,marketing,education,exec,senior,sales,medical,engineer,full time,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-26",
+    "scraped_at": "2026-07-27 02:12:33"
+  },
+  {
+    "id": 1834,
+    "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-16vc-1135443",
+    "title": "Executive Assistant",
+    "company": "16VC",
+    "location": "Idaho, Idaho, United States",
+    "salary": "",
+    "tags": "customer support,web dev,exec,photoshop,ecommerce,education,data annotation,virtual assistant,coordinator,marketing,travel,finance,microsoft,ops,full time",
+    "platform": "remoteok",
+    "posted_date": "2026-07-26",
+    "scraped_at": "2026-07-27 02:12:33"
+  },
+  {
+    "id": 1835,
+    "url": "https://remoteOK.com/remote-jobs/remote-hawg-ops-airmen-coders-1135428",
+    "title": "Hawg Ops",
+    "company": "Airmen Coders",
+    "location": "Ops, ",
+    "salary": "",
+    "tags": "sys admin,marketing,medical,non tech,education,golang,react,dev,c,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-25",
+    "scraped_at": "2026-07-27 02:12:33"
+  },
+  {
+    "id": 1836,
+    "url": "https://remoteOK.com/remote-jobs/remote-skip-content-airmen-coders-1135415",
+    "title": "Skip content",
+    "company": "Airmen Coders",
+    "location": "Content, ",
+    "salary": "",
+    "tags": "education,dev,content writing,non tech,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-25",
+    "scraped_at": "2026-07-27 02:12:33"
+  },
+  {
+    "id": 1837,
+    "url": "https://remoteOK.com/remote-jobs/remote-rsm-ageless-digital-technologies-private-limited-1135420",
+    "title": "RSM",
+    "company": "Ageless Digital Technologies Private Limited",
+    "location": "Mengio, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-07-25",
+    "scraped_at": "2026-07-27 02:12:33"
+  },
+  {
+    "id": 1838,
+    "url": "https://remoteOK.com/remote-jobs/remote-dubai-uae-1135451",
+    "title": "Dubai UAE",
+    "company": "å¯é»ä¹å½éè´¸æï¼ä¸æµ·ï¼æéå¬å¸",
+    "location": "Ø¯Ø¨Ù, ",
+    "salary": "",
+    "tags": "marketing,travel,medical,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-07-25",
+    "scraped_at": "2026-07-27 02:12:33"
+  },
+  {
+    "id": 1839,
+    "url": "https://remoteOK.com/remote-jobs/remote-analista-de-projetos-jr-sulamerica-1135421",
+    "title": "Analista de Projetos Jr",
+    "company": "SulAmÃ©rica",
+    "location": "Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brasil",
+    "salary": "",
+    "tags": "jira,scrum,microsoft",
+    "platform": "remoteok",
+    "posted_date": "2026-07-25",
+    "scraped_at": "2026-07-27 02:12:33"
+  },
+  {
+    "id": 1840,
+    "url": "https://remoteOK.com/remote-jobs/remote-customer-support-talenticlix-1135446",
+    "title": "Customer Support",
+    "company": "Talenticlix",
+    "location": "Ø§ÙÙØ¯ÙÙØ©, Ø§ÙÙØ¯ÙÙØ© Ø§ÙÙØ¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
+    "salary": "",
+    "tags": "customer support,sys admin,education,technical,marketing,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-07-24",
+    "scraped_at": "2026-07-27 02:12:33"
+  },
+  {
     "id": 1819,
     "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-warwick-valley-chamber-of-cmrc-1135413",
     "title": "Join Our Team",
