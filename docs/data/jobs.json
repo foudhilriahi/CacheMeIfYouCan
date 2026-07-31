@@ -1,5 +1,41 @@
 [
   {
+    "id": 2045,
+    "url": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675",
+    "title": "Human Resources Specialist",
+    "company": "Harvey Nash",
+    "location": "California, California, United States",
+    "salary": "",
+    "tags": "testing,education,exec,content writing,marketing,part time,design,technical,coordinator,customer support,travel,microsoft,ops,excel,medical,digital nomad,consulting,supervisor,dev,speech,sys admin,analyst,finance,c,sales,recruiter,product manager,golang,engineer,full time,python,data annotation,linguistics,data science,junior,stats,internship,senior,hr,payroll",
+    "platform": "remoteok",
+    "posted_date": "2026-07-30",
+    "scraped_at": "2026-07-31 02:05:57"
+  },
+  {
+    "id": 2046,
+    "url": "https://remoteOK.com/remote-jobs/remote-traveler-care-specialist-luxury-travel-zicasso-1135640",
+    "title": "Traveler Care Specialist Luxury Travel",
+    "company": "Zicasso",
+    "location": "Remote",
+    "salary": "",
+    "tags": "travel,education,transcribing,dev,marketing,exec,video,ops,excel,stats,sales,recruiter,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-30",
+    "scraped_at": "2026-07-31 02:05:57"
+  },
+  {
+    "id": 2047,
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
+    "title": "Software Engineer GO",
+    "company": "Wakacje.pl",
+    "location": "Remote",
+    "salary": "",
+    "tags": "golang,dev,travel,api,golang,engineer,backend,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-07-29",
+    "scraped_at": "2026-07-31 02:05:57"
+  },
+  {
     "id": 2023,
     "url": "https://remoteOK.com/remote-jobs/remote-copy-editor-missionstaff-1135668",
     "title": "Copy Editor",
