@@ -1,5 +1,89 @@
 [
   {
+    "id": 2132,
+    "url": "https://remoteOK.com/remote-jobs/remote-housekeeper-phoenix-senior-living-1135787",
+    "title": "Housekeeper",
+    "company": "Phoenix Senior Living",
+    "location": "Retreat, ",
+    "salary": "",
+    "tags": "ads,sys admin,supervisor,education,senior,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-01",
+    "scraped_at": "2026-08-02 13:05:19"
+  },
+  {
+    "id": 2133,
+    "url": "https://remoteOK.com/remote-jobs/remote-unc-livesomewhere-1135777",
+    "title": "UNC",
+    "company": "LiveSomeWhere",
+    "location": "Chapel Hill, ",
+    "salary": "",
+    "tags": "education,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-01",
+    "scraped_at": "2026-08-02 13:05:19"
+  },
+  {
+    "id": 2134,
+    "url": "https://remoteOK.com/remote-jobs/remote-rochester-livesomewhere-1135779",
+    "title": "ROCHESTER",
+    "company": "LiveSomeWhere",
+    "location": "Rochester, ",
+    "salary": "",
+    "tags": "education,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-01",
+    "scraped_at": "2026-08-02 13:05:19"
+  },
+  {
+    "id": 2135,
+    "url": "https://remoteOK.com/remote-jobs/remote-elite-social-value-inc-1135776",
+    "title": "Elite",
+    "company": "Social Value, Inc.",
+    "location": "Every, ",
+    "salary": "",
+    "tags": "education,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-01",
+    "scraped_at": "2026-08-02 13:05:19"
+  },
+  {
+    "id": 2136,
+    "url": "https://remoteOK.com/remote-jobs/remote-basic-social-value-inc-1135775",
+    "title": "Basic",
+    "company": "Social Value, Inc.",
+    "location": "Every, ",
+    "salary": "",
+    "tags": "education,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-01",
+    "scraped_at": "2026-08-02 13:05:19"
+  },
+  {
+    "id": 2137,
+    "url": "https://remoteOK.com/remote-jobs/remote-phone-support-specialist-arabic-revolut-1135905",
+    "title": "Phone Support Specialist Arabic",
+    "company": "Revolut",
+    "location": "Ø¯Ø¨Ù, Ø¯Ø¨Ù Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø©",
+    "salary": "",
+    "tags": "data entry,infosec,education,customer support,dev,marketing,admin,microsoft,exec,content writing,ops,excel,digital nomad,project manager,supervisor,finance,legal,medical,speech,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-07-31",
+    "scraped_at": "2026-08-02 13:05:19"
+  },
+  {
+    "id": 2138,
+    "url": "https://remoteOK.com/remote-jobs/remote-spontaneous-application-staffbase-1135907",
+    "title": "Spontaneous Application",
+    "company": "Staffbase",
+    "location": "New York, ",
+    "salary": "",
+    "tags": "full time,marketing,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-07-30",
+    "scraped_at": "2026-08-02 13:05:19"
+  },
+  {
     "id": 2122,
     "url": "https://remoteOK.com/remote-jobs/remote-y-combinator-aceleradora-de-startups-espanol-sin-fronteras-1135762",
     "title": "Y Combinator â Aceleradora de Startups",
