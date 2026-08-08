@@ -1,5 +1,65 @@
 [
   {
+    "id": 2568,
+    "url": "https://remoteOK.com/remote-jobs/remote-oops-something-happened-haus-com-1136301",
+    "title": "Oops something happened",
+    "company": "Haus.com",
+    "location": "Back, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-08 12:32:54"
+  },
+  {
+    "id": 2569,
+    "url": "https://remoteOK.com/remote-jobs/remote-various-luigis-box-neulogy-ventures-1136307",
+    "title": "Various \n@ Luigiâs Box",
+    "company": "Neulogy Ventures",
+    "location": "Box, ",
+    "salary": "",
+    "tags": "golang",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-08 12:32:54"
+  },
+  {
+    "id": 2570,
+    "url": "https://remoteOK.com/remote-jobs/remote-open-vacancies-ccdc-the-cambridge-crystallographic-data-centre-1136303",
+    "title": "Open Vacancies",
+    "company": "CCDC - The Cambridge Crystallographic Data Centre",
+    "location": "Open Hall, ",
+    "salary": "",
+    "tags": "testing,assembly,non tech,design,customer support,dev,finance,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-08 12:32:54"
+  },
+  {
+    "id": 2571,
+    "url": "https://remoteOK.com/remote-jobs/remote-think-we-could-be-a-good-fit-tees-components-1136302",
+    "title": "THINK WE COULD BE A GOOD FIT",
+    "company": "Tees Components",
+    "location": "Fort Good Hope, ",
+    "salary": "",
+    "tags": "testing,assembly,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-08 12:32:54"
+  },
+  {
+    "id": 2572,
+    "url": "https://remoteOK.com/remote-jobs/remote-traba-odf-1136297",
+    "title": "Traba",
+    "company": "ODF",
+    "location": "New York, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-08 12:32:54"
+  },
+  {
     "id": 2562,
     "url": "https://remoteOK.com/remote-jobs/remote-our-vacancies-geeks-ltd-1136289",
     "title": "Our vacancies",
