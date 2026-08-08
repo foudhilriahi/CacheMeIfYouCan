@@ -1,5 +1,77 @@
 [
   {
+    "id": 2562,
+    "url": "https://remoteOK.com/remote-jobs/remote-our-vacancies-geeks-ltd-1136289",
+    "title": "Our vacancies",
+    "company": "Geeks Ltd",
+    "location": "ç§å°æ²å³ç¿¼åæ, ",
+    "salary": "",
+    "tags": "dev,marketing,exec,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-08 06:39:02"
+  },
+  {
+    "id": 2563,
+    "url": "https://remoteOK.com/remote-jobs/remote-candidature-spontanee-alsei-1136286",
+    "title": "CANDIDATURE SPONTANÃE",
+    "company": "ALSEI",
+    "location": "The Pas, ",
+    "salary": "",
+    "tags": "exec",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-08 06:39:02"
+  },
+  {
+    "id": 2564,
+    "url": "https://remoteOK.com/remote-jobs/remote-check-back-soon-yacht-club-games-1136293",
+    "title": "CHECK BACK SOON",
+    "company": "Yacht Club Games",
+    "location": "More, ",
+    "salary": "",
+    "tags": "seo,c",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-08 06:39:02"
+  },
+  {
+    "id": 2565,
+    "url": "https://remoteOK.com/remote-jobs/remote-joel-q-the-well-1136288",
+    "title": "Joel Q",
+    "company": "The Well",
+    "location": "Edmonton, ",
+    "salary": "",
+    "tags": "exec,writer,marketing,engineer",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-08 06:39:02"
+  },
+  {
+    "id": 2566,
+    "url": "https://remoteOK.com/remote-jobs/remote-spontaneous-application-halifax-germain-hotels-1136285",
+    "title": "Spontaneous Application Halifax",
+    "company": "Germain HÃ´tels",
+    "location": "Enfield, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-08 06:39:02"
+  },
+  {
+    "id": 2567,
+    "url": "https://remoteOK.com/remote-jobs/remote-test-compact-home-lifts-1136290",
+    "title": "Test",
+    "company": "Compact Home Lifts",
+    "location": "Collingwood, ",
+    "salary": "",
+    "tags": "testing,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-08 06:39:02"
+  },
+  {
     "id": 2560,
     "url": "https://news.ycombinator.com/item?id=49216288",
     "title": "Toronto (HYBRID)",
