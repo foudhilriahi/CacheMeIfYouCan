@@ -1,5 +1,89 @@
 [
   {
+    "id": 2608,
+    "url": "https://news.ycombinator.com/item?id=49232553",
+    "title": "Product Engineer",
+    "company": "Cologne, Germany",
+    "location": "UMH",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-09",
+    "scraped_at": "2026-08-09 18:30:13"
+  },
+  {
+    "id": 2602,
+    "url": "https://remoteOK.com/remote-jobs/remote-how-apply-captain-pq-chemical-industries-pvt-limited-1136344",
+    "title": "HOW APPLY",
+    "company": "Captain PQ chemical industries Pvt. Limited",
+    "location": "How, ",
+    "salary": "",
+    "tags": "c,recruiter,customer support,travel,exec,finance,scheme,ops,medical,full time,part time,infosec,dev,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-08",
+    "scraped_at": "2026-08-09 18:30:02"
+  },
+  {
+    "id": 2603,
+    "url": "https://remoteOK.com/remote-jobs/remote-job-title-corrtech-energy-limited-1136337",
+    "title": "Job Title",
+    "company": "Corrtech Energy Limited",
+    "location": "Amet, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-08-08",
+    "scraped_at": "2026-08-09 18:30:02"
+  },
+  {
+    "id": 2604,
+    "url": "https://remoteOK.com/remote-jobs/remote-st-georges-cares-quintessence-films-limited-1136334",
+    "title": "St Georgeâs Cares",
+    "company": "Quintessence Films Limited",
+    "location": "St. George's, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-08-08",
+    "scraped_at": "2026-08-09 18:30:02"
+  },
+  {
+    "id": 2605,
+    "url": "https://remoteOK.com/remote-jobs/remote-your-job-description-here-compucorp-inc-1136336",
+    "title": "YOUR JOB DESCRIPTION HERE",
+    "company": "Compucorp Inc",
+    "location": "Kharagpur-I, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-08-08",
+    "scraped_at": "2026-08-09 18:30:02"
+  },
+  {
+    "id": 2606,
+    "url": "https://remoteOK.com/remote-jobs/remote-need-find-out-the-us-border-wait-times-real-time-both-directions-https-www-lalineaapp-com-twittaer-1136351",
+    "title": "Need find out the us border wait times real time both directions \nhttps www.lalineaapp.com..",
+    "company": "Twittaer",
+    "location": "å®å±, ",
+    "salary": "",
+    "tags": "exec",
+    "platform": "remoteok",
+    "posted_date": "2026-08-07",
+    "scraped_at": "2026-08-09 18:30:02"
+  },
+  {
+    "id": 2607,
+    "url": "https://remoteOK.com/remote-jobs/remote-knowledge-vs-wisdom-iopener-today-1136350",
+    "title": "Knowledge vs Wisdom",
+    "company": "iOpener.Today",
+    "location": "Marwar Junction, ",
+    "salary": "",
+    "tags": "exec",
+    "platform": "remoteok",
+    "posted_date": "2026-08-05",
+    "scraped_at": "2026-08-09 18:30:02"
+  },
+  {
     "id": 2597,
     "url": "https://remoteOK.com/remote-jobs/remote-classic-get-a-job-1136333",
     "title": "CLASSIC",
