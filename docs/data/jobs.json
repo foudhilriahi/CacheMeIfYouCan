@@ -1,5 +1,53 @@
 [
   {
+    "id": 2612,
+    "url": "https://news.ycombinator.com/item?id=49234667",
+    "title": "REMOTE (worldwide)",
+    "company": "Symbolic.ai",
+    "location": "Senior Fullstack Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-09",
+    "scraped_at": "2026-08-10 01:10:22"
+  },
+  {
+    "id": 2609,
+    "url": "https://remoteOK.com/remote-jobs/remote-beekeeper-academy-of-achievement-american-academy-of-achievement-1136345",
+    "title": "Beekeeper Academy of Achievement",
+    "company": "American Academy of Achievement",
+    "location": "Thunder Bay, ",
+    "salary": "",
+    "tags": "c",
+    "platform": "remoteok",
+    "posted_date": "2026-08-08",
+    "scraped_at": "2026-08-10 01:10:11"
+  },
+  {
+    "id": 2610,
+    "url": "https://remoteOK.com/remote-jobs/remote-driver-bapcor-retail-1136341",
+    "title": "Driver",
+    "company": "Bapcor Retail",
+    "location": "Shepparton, ",
+    "salary": "",
+    "tags": "ops",
+    "platform": "remoteok",
+    "posted_date": "2026-08-08",
+    "scraped_at": "2026-08-10 01:10:11"
+  },
+  {
+    "id": 2611,
+    "url": "https://remoteOK.com/remote-jobs/remote-recognizing-the-friction-tclara-1136342",
+    "title": "Recognizing the Friction",
+    "company": "tClara",
+    "location": "Much Cowarne, ",
+    "salary": "",
+    "tags": "c",
+    "platform": "remoteok",
+    "posted_date": "2026-08-08",
+    "scraped_at": "2026-08-10 01:10:11"
+  },
+  {
     "id": 2608,
     "url": "https://news.ycombinator.com/item?id=49232553",
     "title": "Product Engineer",
