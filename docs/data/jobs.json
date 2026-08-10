@@ -1,5 +1,41 @@
 [
   {
+    "id": 2614,
+    "url": "https://news.ycombinator.com/item?id=49245007",
+    "title": "Ruby &#x2F; TypeScript",
+    "company": "Torq Interface",
+    "location": "Product Engineer (Early Career)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-10",
+    "scraped_at": "2026-08-10 18:45:54"
+  },
+  {
+    "id": 2615,
+    "url": "https://news.ycombinator.com/item?id=49244466",
+    "title": "REMOTE (US)<p>Instinct Science is the AI leader in veterinary medicine. We build the platform that powers animal hospitals — a cloud-native EMR with real-time clinical decision support and applied AI that helps veterinary teams practice at their best. Thousands of users across the globe rely on what we ship every day.<p>We&#x27;re at an inflection point: proven product-market fit, scaling fast, and greenfield work ahead that will serve tens of thousands of users. Engineers here own problems end-to-end — from talking to veterinarians about their biggest frustrations, to shipping production code, to iterating on real feedback. You&#x27;re measured by customer impact, not story points.<p>WHAT YOU&#x27;LL DO:",
+    "company": "Instinct Science",
+    "location": "Senior Full-Stack Engineer (Elixir + React)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-10",
+    "scraped_at": "2026-08-10 18:45:54"
+  },
+  {
+    "id": 2613,
+    "url": "https://remoteOK.com/remote-jobs/remote-jobs-whiterose-janitorial-services-1136357",
+    "title": "Jobs",
+    "company": "Whiterose Janitorial Services",
+    "location": "Toronto, ",
+    "salary": "",
+    "tags": "education,exec,medical",
+    "platform": "remoteok",
+    "posted_date": "2026-08-09",
+    "scraped_at": "2026-08-10 18:45:42"
+  },
+  {
     "id": 2612,
     "url": "https://news.ycombinator.com/item?id=49234667",
     "title": "REMOTE (worldwide)",
