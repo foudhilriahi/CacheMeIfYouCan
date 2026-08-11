@@ -1,5 +1,65 @@
 [
   {
+    "id": 2623,
+    "url": "https://news.ycombinator.com/item?id=49262437",
+    "title": "ONSITE",
+    "company": "SpendAi",
+    "location": "Seattle, WA",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-11",
+    "scraped_at": "2026-08-11 18:52:52"
+  },
+  {
+    "id": 2624,
+    "url": "https://news.ycombinator.com/item?id=49262026",
+    "title": "ONSITE",
+    "company": "Stpkr Technologies",
+    "location": "Noida, India (Delhi NCR)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-11",
+    "scraped_at": "2026-08-11 18:52:52"
+  },
+  {
+    "id": 2625,
+    "url": "https://news.ycombinator.com/item?id=49260542",
+    "title": "REMOTE",
+    "company": "Bactrix",
+    "location": "Founding Software Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-11",
+    "scraped_at": "2026-08-11 18:52:52"
+  },
+  {
+    "id": 2621,
+    "url": "https://remoteOK.com/remote-jobs/remote-electrician-royal-beach-club-royal-caribbean-international-1136364",
+    "title": "Electrician Royal Beach Club",
+    "company": "Royal Caribbean International",
+    "location": "Nassau, ",
+    "salary": "",
+    "tags": "sys admin,infosec,education,technical,supervisor,exec,finance,video,ops,medical",
+    "platform": "remoteok",
+    "posted_date": "2026-08-10",
+    "scraped_at": "2026-08-11 18:52:43"
+  },
+  {
+    "id": 2622,
+    "url": "https://remoteOK.com/remote-jobs/remote-detail-specialist-u-haul-1136363",
+    "title": "Detail Specialist",
+    "company": "U-Haul",
+    "location": "Windsor, ",
+    "salary": "",
+    "tags": "education,customer support,marketing,payroll,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-10",
+    "scraped_at": "2026-08-11 18:52:43"
+  },
+  {
     "id": 2620,
     "url": "https://news.ycombinator.com/item?id=49254584",
     "title": "Full-Time",
