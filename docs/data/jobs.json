@@ -1,5 +1,29 @@
 [
   {
+    "id": 2688,
+    "url": "https://news.ycombinator.com/item?id=49282255",
+    "title": "Developer",
+    "company": "Location: Charleston SC",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13 07:16:41"
+  },
+  {
+    "id": 2687,
+    "url": "https://remoteOK.com/remote-jobs/remote-coffee-roaster-campos-coffee-jde-peets-1136571",
+    "title": "Coffee Roaster Campos Coffee",
+    "company": "JDE Peet's",
+    "location": "Banksmeadow, ",
+    "salary": "",
+    "tags": "teaching,education,customer support,marketing,exec,ops,excel,golang,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-08-12",
+    "scraped_at": "2026-08-13 07:16:30"
+  },
+  {
     "id": 2685,
     "url": "https://news.ycombinator.com/item?id=49280288",
     "title": "Hybrid",
