@@ -1,5 +1,77 @@
 [
   {
+    "id": 2694,
+    "url": "https://news.ycombinator.com/item?id=49284614",
+    "title": "Amsterdam (NL), Skopje (North Macedonia)",
+    "company": "Stream",
+    "location": "Multiple Positions",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13 12:54:00"
+  },
+  {
+    "id": 2689,
+    "url": "https://remoteOK.com/remote-jobs/remote-operator-slb-1136563",
+    "title": "Operator",
+    "company": "SLB",
+    "location": "San Fernando, ",
+    "salary": "",
+    "tags": "customer support,video,full time,non tech,technical,testing,microsoft,exec,ops",
+    "platform": "remoteok",
+    "posted_date": "2026-08-12",
+    "scraped_at": "2026-08-13 12:53:48"
+  },
+  {
+    "id": 2690,
+    "url": "https://remoteOK.com/remote-jobs/remote-e-commerce-kanji-sweets-1136559",
+    "title": "E commerce",
+    "company": "Kanji Sweets",
+    "location": "Jaipur, ",
+    "salary": "",
+    "tags": "ecommerce,ops",
+    "platform": "remoteok",
+    "posted_date": "2026-08-12",
+    "scraped_at": "2026-08-13 12:53:48"
+  },
+  {
+    "id": 2691,
+    "url": "https://remoteOK.com/remote-jobs/remote-seeking-a-job-aleh-writing-services-aws-1136558",
+    "title": "Seeking a job",
+    "company": "ALEH Writing Services (AWS)",
+    "location": "Winnipeg, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-08-12",
+    "scraped_at": "2026-08-13 12:53:48"
+  },
+  {
+    "id": 2692,
+    "url": "https://remoteOK.com/remote-jobs/remote-live-in-nanny-bermuda-tuckers-farm-corporation-1136562",
+    "title": "Live In Nanny Bermuda",
+    "company": "Tucker's Farm Corporation",
+    "location": "Hamilton, ",
+    "salary": "",
+    "tags": "customer support,video,full time,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-12",
+    "scraped_at": "2026-08-13 12:53:48"
+  },
+  {
+    "id": 2693,
+    "url": "https://remoteOK.com/remote-jobs/remote-project-leaders-niyukti-systems-inc-1136561",
+    "title": "Project leaders",
+    "company": "Niyukti Systems, Inc",
+    "location": "Visakhapatnam Rural mandal, ",
+    "salary": "",
+    "tags": "ecommerce,ops,project manager,exec,ads,customer support",
+    "platform": "remoteok",
+    "posted_date": "2026-08-12",
+    "scraped_at": "2026-08-13 12:53:48"
+  },
+  {
     "id": 2688,
     "url": "https://news.ycombinator.com/item?id=49282255",
     "title": "Developer",
