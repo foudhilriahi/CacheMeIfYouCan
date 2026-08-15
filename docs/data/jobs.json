@@ -1,5 +1,53 @@
 [
   {
+    "id": 2765,
+    "url": "https://remoteOK.com/remote-jobs/remote-shop-assistant-cammeray-harris-farm-markets-1136719",
+    "title": "Shop Assistant Cammeray",
+    "company": "Harris Farm Markets",
+    "location": "Cammeray, ",
+    "salary": "",
+    "tags": "architecture,medical,exec,education,customer support,marketing,virtual assistant,ops,sales,infosec,travel,finance,recruiter,design,python,vfx,technical,supervisor,c,c plus plus,senior,digital nomad,legal,payroll,admin,scheme,full time,dev,english teacher,teaching,hr,music,junior,sys admin",
+    "platform": "remoteok",
+    "posted_date": "2026-08-14",
+    "scraped_at": "2026-08-15 18:18:04"
+  },
+  {
+    "id": 2766,
+    "url": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687",
+    "title": "Brand Protection & Marketplace Compliance Analyst",
+    "company": "MultiplyMii",
+    "location": "Remote",
+    "salary": "",
+    "tags": "analyst,amazon,salesforce,technical,recruiter,customer support,marketing,speech,exec,content writing,excel,sales,ecommerce,full time",
+    "platform": "remoteok",
+    "posted_date": "2026-08-14",
+    "scraped_at": "2026-08-15 18:18:04"
+  },
+  {
+    "id": 2767,
+    "url": "https://remoteOK.com/remote-jobs/remote-store-manager-wolt-1136747",
+    "title": "Store Manager",
+    "company": "Wolt",
+    "location": "Marsa, ",
+    "salary": "",
+    "tags": "testing,education,customer support,finance,c,scheme,exec,medical,marketing,full time,design,infosec,music,digital nomad,technical,engineer,teaching,math,recruiter,sys admin,golang,microsoft,excel,sales,travel,ops,virtual assistant",
+    "platform": "remoteok",
+    "posted_date": "2026-08-14",
+    "scraped_at": "2026-08-15 18:18:04"
+  },
+  {
+    "id": 2768,
+    "url": "https://remoteOK.com/remote-jobs/remote-test-job-link-snacks-1136686",
+    "title": "Test Job",
+    "company": "Link Snacks",
+    "location": "Minneapolis, ",
+    "salary": "",
+    "tags": "testing,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-14",
+    "scraped_at": "2026-08-15 18:18:04"
+  },
+  {
     "id": 2755,
     "url": "https://remoteOK.com/remote-jobs/remote-infanteer-canadian-armed-forces-forces-armees-canadiennes-1136677",
     "title": "Infanteer",
