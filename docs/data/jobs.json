@@ -1,5 +1,53 @@
 [
   {
+    "id": 2772,
+    "url": "https://news.ycombinator.com/item?id=49313253",
+    "title": "REMOTE (US)",
+    "company": "Olli Technologies",
+    "location": "Founding Engineer &amp; Technical Lead",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-15",
+    "scraped_at": "2026-08-16 00:52:55"
+  },
+  {
+    "id": 2769,
+    "url": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
+    "title": "Current openings",
+    "company": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
+    "location": "Wideopen, ",
+    "salary": "",
+    "tags": "infosec,customer support,javascript",
+    "platform": "remoteok",
+    "posted_date": "2026-08-15",
+    "scraped_at": "2026-08-16 00:52:46"
+  },
+  {
+    "id": 2770,
+    "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
+    "title": "QA Tester Entry Level",
+    "company": "Ace IT Careers",
+    "location": "Remote",
+    "salary": "",
+    "tags": "testing,dev,analyst,quality assurance,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-15",
+    "scraped_at": "2026-08-16 00:52:46"
+  },
+  {
+    "id": 2771,
+    "url": "https://remoteOK.com/remote-jobs/remote-why-your-first-weeks-a-new-role-shape-everything-that-follows-decode-x-1136792",
+    "title": "Why Your First Weeks a New Role Shape Everything That Follows",
+    "company": "Decode-X",
+    "location": "Evansville, ",
+    "salary": "",
+    "tags": "ops",
+    "platform": "remoteok",
+    "posted_date": "2026-08-14",
+    "scraped_at": "2026-08-16 00:52:46"
+  },
+  {
     "id": 2765,
     "url": "https://remoteOK.com/remote-jobs/remote-shop-assistant-cammeray-harris-farm-markets-1136719",
     "title": "Shop Assistant Cammeray",
