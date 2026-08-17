@@ -1,5 +1,77 @@
 [
   {
+    "id": 2797,
+    "url": "https://remoteOK.com/remote-jobs/remote-nexus-flurix-ai-1136845",
+    "title": "Nexus",
+    "company": "Flurix.AI",
+    "location": "Para, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-08-16",
+    "scraped_at": "2026-08-17 18:27:41"
+  },
+  {
+    "id": 2798,
+    "url": "https://remoteOK.com/remote-jobs/remote-team-member-costa-coffee-ireland-1136848",
+    "title": "Team Member",
+    "company": "Costa Coffee Ireland",
+    "location": "Londonderry, ",
+    "salary": "",
+    "tags": "education,customer support,marketing,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-15",
+    "scraped_at": "2026-08-17 18:27:41"
+  },
+  {
+    "id": 2799,
+    "url": "https://remoteOK.com/remote-jobs/remote-4-vacatures-twintopics-1136849",
+    "title": "4 vacatures",
+    "company": "TwinTopics",
+    "location": "Enschede en omgeving, ",
+    "salary": "",
+    "tags": "education,customer support,marketing,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-14",
+    "scraped_at": "2026-08-17 18:27:41"
+  },
+  {
+    "id": 2800,
+    "url": "https://remoteOK.com/remote-jobs/remote-lead-zendesk-huntingcube-1136852",
+    "title": "Lead Zendesk",
+    "company": "HuntingCube",
+    "location": "Itanagar, ",
+    "salary": "",
+    "tags": "testing,golang,non tech,technical,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-08-14",
+    "scraped_at": "2026-08-17 18:27:41"
+  },
+  {
+    "id": 2801,
+    "url": "https://remoteOK.com/remote-jobs/remote-real-time-drilling-ops-centre-analyst-slb-1136857",
+    "title": "Real Time Drilling Ops Centre Analyst",
+    "company": "SLB",
+    "location": "Dehradun, ",
+    "salary": "",
+    "tags": "testing,golang,non tech,technical,exec,design,digital nomad,education,supervisor,customer support,ops,senior,junior,analyst,dev",
+    "platform": "remoteok",
+    "posted_date": "2026-08-12",
+    "scraped_at": "2026-08-17 18:27:41"
+  },
+  {
+    "id": 2802,
+    "url": "https://remoteOK.com/remote-jobs/remote-partner-tech-amp-impl-l1-wipro-1136853",
+    "title": "PARTNER TECH &amp; IMPL L1",
+    "company": "Wipro",
+    "location": "Bengaluru, ",
+    "salary": "",
+    "tags": "testing,golang,non tech,technical,exec,design,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-12",
+    "scraped_at": "2026-08-17 18:27:41"
+  },
+  {
     "id": 2796,
     "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-numeris-1136808",
     "title": "Executive Assistant",
