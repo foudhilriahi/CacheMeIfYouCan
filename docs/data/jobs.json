@@ -1,5 +1,41 @@
 [
   {
+    "id": 2795,
+    "url": "https://news.ycombinator.com/item?id=49326458",
+    "title": "REMOTE (Worldwide)",
+    "company": "CreativeLens.ai",
+    "location": "Founding Growth &amp; Partnerships Lead",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-17",
+    "scraped_at": "2026-08-17 06:39:06"
+  },
+  {
+    "id": 2793,
+    "url": "https://remoteOK.com/remote-jobs/remote-getting-it-right-brite-enterprises-1136803",
+    "title": "Getting It Right",
+    "company": "Brite Enterprises",
+    "location": "ç§å°æ²å³ç¿¼åæ, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-08-16",
+    "scraped_at": "2026-08-17 06:38:53"
+  },
+  {
+    "id": 2794,
+    "url": "https://remoteOK.com/remote-jobs/remote-custom-role-tar-1136831",
+    "title": "Custom Role",
+    "company": "TAR",
+    "location": "San Francisco, ",
+    "salary": "",
+    "tags": "dev,sales,golang,non tech,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-16",
+    "scraped_at": "2026-08-17 06:38:53"
+  },
+  {
     "id": 2792,
     "url": "https://news.ycombinator.com/item?id=49322552",
     "title": "Seattle, WA",
