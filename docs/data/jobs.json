@@ -1,5 +1,77 @@
 [
   {
+    "id": 2792,
+    "url": "https://news.ycombinator.com/item?id=49322552",
+    "title": "Seattle, WA",
+    "company": "Arboreal Management",
+    "location": "Principal Software Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-08-16",
+    "scraped_at": "2026-08-17 00:50:59"
+  },
+  {
+    "id": 2787,
+    "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
+    "title": "Member of Technical Staff Engineering",
+    "company": "Physical Superintelligence",
+    "location": "Boston",
+    "salary": "",
+    "tags": "design,infosec,technical,dev,testing,cloud,exec,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-16",
+    "scraped_at": "2026-08-17 00:50:49"
+  },
+  {
+    "id": 2788,
+    "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
+    "title": "Strategic Account Executive Lodging",
+    "company": "FreedomPay",
+    "location": "Select USA Remote Locations",
+    "salary": "",
+    "tags": "saas,infosec,game dev,consulting,marketing,travel,speech,exec,finance,education,api,mobile,senior,ops,stats,sales,medical,full time",
+    "platform": "remoteok",
+    "posted_date": "2026-08-16",
+    "scraped_at": "2026-08-17 00:50:49"
+  },
+  {
+    "id": 2789,
+    "url": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796",
+    "title": "Staff Software Development Engineer SDM",
+    "company": "Delinea",
+    "location": "Redwood City",
+    "salary": "",
+    "tags": "dev,design,saas,sys admin,infosec,vfx,technical,web dev,exec,devops,education,finance,cloud,api,admin,ops,golang,medical,engineer,backend,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-16",
+    "scraped_at": "2026-08-17 00:50:49"
+  },
+  {
+    "id": 2790,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
+    "title": "Senior Software Engineer Case Execution",
+    "company": "Pivotal Health",
+    "location": "New York City",
+    "salary": "",
+    "tags": "dev,front end,python,customer support,design,admin,exec,senior,ops,sys admin,medical,engineer,backend,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-16",
+    "scraped_at": "2026-08-17 00:50:49"
+  },
+  {
+    "id": 2791,
+    "url": "https://remoteOK.com/remote-jobs/remote-labourer-plant-operators-power-fm-bega-bay-1136835",
+    "title": "Labourer Plant Operators",
+    "company": "Power FM Bega Bay",
+    "location": "Batemans Bay, ",
+    "salary": "",
+    "tags": "exec,sys admin,education,consulting,customer support,medical",
+    "platform": "remoteok",
+    "posted_date": "2026-08-11",
+    "scraped_at": "2026-08-17 00:50:49"
+  },
+  {
     "id": 2779,
     "url": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812",
     "title": "Cabin Cleaning Agent",
