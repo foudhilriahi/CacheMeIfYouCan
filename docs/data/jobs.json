@@ -1,5 +1,53 @@
 [
   {
+    "id": 2868,
+    "url": "https://remoteOK.com/remote-jobs/remote-ci001-courier-fedex-1137019",
+    "title": "CI001 Courier",
+    "company": "FedEx",
+    "location": "St Thomas, ",
+    "salary": "",
+    "tags": "dev,quality assurance,education,ops,sales,digital nomad,recruiter,supervisor,customer support,marketing,exec,medical,testing,math",
+    "platform": "remoteok",
+    "posted_date": "2026-08-19",
+    "scraped_at": "2026-08-20 18:27:57"
+  },
+  {
+    "id": 2869,
+    "url": "https://remoteOK.com/remote-jobs/remote-assembly-technician-flow-control-commune-1136994",
+    "title": "Assembly Technician",
+    "company": "Flow Control Commune",
+    "location": "Chennai, ",
+    "salary": "",
+    "tags": "sys admin,customer support,exec,ops,marketing,microsoft,senior,technical,accounting,dev,finance,full time,digital nomad,assembly",
+    "platform": "remoteok",
+    "posted_date": "2026-08-19",
+    "scraped_at": "2026-08-20 18:27:57"
+  },
+  {
+    "id": 2870,
+    "url": "https://remoteOK.com/remote-jobs/remote-collections-agent-crncy-group-1137017",
+    "title": "Collections Agent",
+    "company": "CRNCY Group",
+    "location": "Bridgetown, ",
+    "salary": "",
+    "tags": "dev,quality assurance,education,ops,sales,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-19",
+    "scraped_at": "2026-08-20 18:27:57"
+  },
+  {
+    "id": 2871,
+    "url": "https://remoteOK.com/remote-jobs/remote-costing-engineer-larsen-amp-toubro-1137012",
+    "title": "COSTING ENGINEER",
+    "company": "Larsen &amp; Toubro",
+    "location": "Coimbatore South, ",
+    "salary": "",
+    "tags": "customer support,marketing,exec,golang,data entry,infosec,finance,excel,full time,design,math,ops,engineer,digital nomad,sales,technical,dev,testing,education,assembly,ruby",
+    "platform": "remoteok",
+    "posted_date": "2026-08-19",
+    "scraped_at": "2026-08-20 18:27:57"
+  },
+  {
     "id": 2864,
     "url": "https://remoteOK.com/remote-jobs/remote-general-physician-srikara-hospitals-1136993",
     "title": "General Physician",
