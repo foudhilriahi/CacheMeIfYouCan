@@ -1,5 +1,53 @@
 [
   {
+    "id": 2864,
+    "url": "https://remoteOK.com/remote-jobs/remote-general-physician-srikara-hospitals-1136993",
+    "title": "General Physician",
+    "company": "Srikara Hospitals",
+    "location": "Nellore, ",
+    "salary": "",
+    "tags": "sys admin,customer support,exec,ops,marketing,microsoft,senior,technical,accounting,dev,finance,full time,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-19",
+    "scraped_at": "2026-08-20 12:32:51"
+  },
+  {
+    "id": 2865,
+    "url": "https://remoteOK.com/remote-jobs/remote-store-manager-jack-amp-jones-1137006",
+    "title": "Store Manager",
+    "company": "JACK &amp; JONES",
+    "location": "Aberdeen, ",
+    "salary": "",
+    "tags": "education,supervisor,exec,virtual assistant,ops,senior,golang,medical,engineer,design,sys admin,infosec,python,technical,customer support,testing,finance,math,admin,microsoft,digital nomad,marketing,scheme,mobile,sales,recruiter,junior",
+    "platform": "remoteok",
+    "posted_date": "2026-08-18",
+    "scraped_at": "2026-08-20 12:32:51"
+  },
+  {
+    "id": 2866,
+    "url": "https://remoteOK.com/remote-jobs/remote-bellboy-the-chedi-lustica-bay-1137002",
+    "title": "Bellboy",
+    "company": "The Chedi LuÅ¡tica Bay",
+    "location": "Tivat, ",
+    "salary": "",
+    "tags": "education,supervisor,exec,virtual assistant,ops",
+    "platform": "remoteok",
+    "posted_date": "2026-08-18",
+    "scraped_at": "2026-08-20 12:32:51"
+  },
+  {
+    "id": 2867,
+    "url": "https://remoteOK.com/remote-jobs/remote-team-leader-housekeeping-grand-hyatt-1137013",
+    "title": "Team Leader Housekeeping",
+    "company": "Grand Hyatt",
+    "location": "Bambolim, ",
+    "salary": "",
+    "tags": "customer support,marketing,exec,golang,data entry,infosec,finance,excel,full time,design,math,ops,engineer,digital nomad,sales,technical,dev,testing,education,assembly,ruby",
+    "platform": "remoteok",
+    "posted_date": "2026-08-15",
+    "scraped_at": "2026-08-20 12:32:51"
+  },
+  {
     "id": 2854,
     "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-north-balwyn-bupa-australia-1136968",
     "title": "General Practitioner North Balwyn",
