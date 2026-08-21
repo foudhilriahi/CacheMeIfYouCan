@@ -1,5 +1,53 @@
 [
   {
+    "id": 2878,
+    "url": "https://remoteOK.com/remote-jobs/remote-front-office-executive-radisson-hotel-group-1137008",
+    "title": "Front Office Executive",
+    "company": "Radisson Hotel Group",
+    "location": "Guwahati, ",
+    "salary": "",
+    "tags": "customer support,marketing,exec,golang",
+    "platform": "remoteok",
+    "posted_date": "2026-08-20",
+    "scraped_at": "2026-08-21 06:33:54"
+  },
+  {
+    "id": 2879,
+    "url": "https://remoteOK.com/remote-jobs/remote-account-officer-natural-spirits-nepal-1137028",
+    "title": "Account Officer",
+    "company": "Natural Spirits Nepal",
+    "location": "Galchhi Rural Municipality, ",
+    "salary": "",
+    "tags": "accounting,infosec,customer support,finance,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-08-20",
+    "scraped_at": "2026-08-21 06:33:54"
+  },
+  {
+    "id": 2880,
+    "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-vistara-group-1137023",
+    "title": "Across all departments",
+    "company": "Vistara Group",
+    "location": "Ahmedabad, ",
+    "salary": "",
+    "tags": "design,marketing,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-20",
+    "scraped_at": "2026-08-21 06:33:54"
+  },
+  {
+    "id": 2881,
+    "url": "https://remoteOK.com/remote-jobs/remote-trimmer-canopy-growth-corporation-1136997",
+    "title": "Trimmer",
+    "company": "Canopy Growth Corporation",
+    "location": "Tiverton, ",
+    "salary": "",
+    "tags": "education,customer support,non tech,marketing,dev,exec,medical,recruiter,full time,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-20",
+    "scraped_at": "2026-08-21 06:33:54"
+  },
+  {
     "id": 2872,
     "url": "https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987",
     "title": "Consultant Implementation Engineer",
