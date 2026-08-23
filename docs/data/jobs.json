@@ -1,5 +1,41 @@
 [
   {
+    "id": 2909,
+    "url": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071",
+    "title": "building cleaner",
+    "company": "Newfoundland Chocolate Company",
+    "location": "St Johnâs, ",
+    "salary": "",
+    "tags": "education,medical,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-22",
+    "scraped_at": "2026-08-23 12:24:29"
+  },
+  {
+    "id": 2910,
+    "url": "https://remoteOK.com/remote-jobs/remote-officer-lupin-ltd-1137074",
+    "title": "Officer",
+    "company": "Lupin Ltd",
+    "location": "Greater Nagpur Area, ",
+    "salary": "",
+    "tags": "education,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-22",
+    "scraped_at": "2026-08-23 12:24:29"
+  },
+  {
+    "id": 2911,
+    "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077",
+    "title": "Team Manager Newry Extra",
+    "company": "Tesco",
+    "location": "Newry, ",
+    "salary": "",
+    "tags": "exec,customer support,testing,finance,sales,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-08-22",
+    "scraped_at": "2026-08-23 12:24:29"
+  },
+  {
     "id": 2908,
     "url": "https://remoteOK.com/remote-jobs/remote-parcel-delivery-drivers-inpost-group-1137066",
     "title": "Parcel Delivery Drivers",
