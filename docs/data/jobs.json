@@ -1,5 +1,53 @@
 [
   {
+    "id": 2904,
+    "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+    "title": "DESARROLLADOR FULL STACK",
+    "company": "Kruger NearShore LLC - Rekluti",
+    "location": "Remote",
+    "salary": "",
+    "tags": "full stack,front end,python,dev,testing,web dev,quality assurance,devops,c,cloud,nosql,git,flutter,angular,mobile,golang,backend,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-22",
+    "scraped_at": "2026-08-23 00:54:02"
+  },
+  {
+    "id": 2905,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
+    "title": "Senior Governance Risk and Compliance Analyst",
+    "company": "RainFocus",
+    "location": "Orem, UT",
+    "salary": "",
+    "tags": "analyst,design,saas,infosec,education,technical,dev,cloud,exec,senior,ops,marketing,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-22",
+    "scraped_at": "2026-08-23 00:54:02"
+  },
+  {
+    "id": 2906,
+    "url": "https://remoteOK.com/remote-jobs/remote-cdp-east-coast-concepts-1137065",
+    "title": "CDP",
+    "company": "East Coast Concepts",
+    "location": "Newcastle Upon Tyne, ",
+    "salary": "",
+    "tags": "finance,medical,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-08-22",
+    "scraped_at": "2026-08-23 00:54:02"
+  },
+  {
+    "id": 2907,
+    "url": "https://remoteOK.com/remote-jobs/remote-post-office-manager-shoppers-drug-mart-1137063",
+    "title": "Post Office Manager",
+    "company": "Shoppers Drug Mart",
+    "location": "Kitchener, ",
+    "salary": "",
+    "tags": "exec,customer support,dev,medical,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-21",
+    "scraped_at": "2026-08-23 00:54:02"
+  },
+  {
     "id": 2903,
     "url": "https://remoteOK.com/remote-jobs/remote-estimator-linsco-ltd-1137060",
     "title": "Estimator",
