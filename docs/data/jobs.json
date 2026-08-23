@@ -1,5 +1,53 @@
 [
   {
+    "id": 2912,
+    "url": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
+    "title": "Retail Store Associate",
+    "company": "Rowan",
+    "location": "Chicago, IL",
+    "salary": "",
+    "tags": "education,customer support,dev,exec,math,node,ops,sales,medical,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-22",
+    "scraped_at": "2026-08-23 18:19:13"
+  },
+  {
+    "id": 2913,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
+    "title": "Senior Specialist Global QMS",
+    "company": "Orca Bio",
+    "location": "Remote",
+    "salary": "",
+    "tags": "hr,sys admin,customer support,marketing,education,exec,senior,medical,engineer,recruiter,full time",
+    "platform": "remoteok",
+    "posted_date": "2026-08-22",
+    "scraped_at": "2026-08-23 18:19:13"
+  },
+  {
+    "id": 2914,
+    "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-saasuji-1137075",
+    "title": "Across all departments",
+    "company": "Saasuji",
+    "location": "Ahmedabad, ",
+    "salary": "",
+    "tags": "education,non tech,design,marketing,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-22",
+    "scraped_at": "2026-08-23 18:19:13"
+  },
+  {
+    "id": 2915,
+    "url": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-grand-plaza-platypus-shoes-1137085",
+    "title": "Platypus Store Manager Grand Plaza",
+    "company": "Platypus Shoes",
+    "location": "Hillcrest, ",
+    "salary": "",
+    "tags": "exec,education,customer support,marketing,virtual assistant,ops,sales,medical",
+    "platform": "remoteok",
+    "posted_date": "2026-08-20",
+    "scraped_at": "2026-08-23 18:19:13"
+  },
+  {
     "id": 2909,
     "url": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071",
     "title": "building cleaner",
