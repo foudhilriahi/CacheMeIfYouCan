@@ -1,5 +1,41 @@
 [
   {
+    "id": 2931,
+    "url": "https://remoteOK.com/remote-jobs/remote-technical-staff-piramal-pharma-ltd-1137118",
+    "title": "Technical Staff",
+    "company": "Piramal Pharma Ltd",
+    "location": "Dhar, ",
+    "salary": "",
+    "tags": "technical",
+    "platform": "remoteok",
+    "posted_date": "2026-08-25",
+    "scraped_at": "2026-08-26 12:37:06"
+  },
+  {
+    "id": 2932,
+    "url": "https://remoteOK.com/remote-jobs/remote-smokemart-amp-giftbox-palmerstone-sales-assistant-smokemart-amp-giftbox-1137125",
+    "title": "Smokemart &amp; GiftBox Palmerstone Sales Assistant",
+    "company": "Smokemart &amp; GiftBox",
+    "location": "Darwin, ",
+    "salary": "",
+    "tags": "accounting,customer support,recruiter,non tech,virtual assistant,infosec,marketing,exec,sales,golang",
+    "platform": "remoteok",
+    "posted_date": "2026-08-25",
+    "scraped_at": "2026-08-26 12:37:06"
+  },
+  {
+    "id": 2933,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+    "title": "Senior Backend Engineer Build AI Agents",
+    "company": "Salesforge",
+    "location": "Remote",
+    "salary": "",
+    "tags": "golang,senior,sales,engineer,backend",
+    "platform": "remoteok",
+    "posted_date": "2026-08-25",
+    "scraped_at": "2026-08-26 12:37:06"
+  },
+  {
     "id": 2930,
     "url": "https://remoteOK.com/remote-jobs/remote-lego-teatro-multiplan-morumbishopping-1137112",
     "title": "LEGO",
