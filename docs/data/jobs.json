@@ -1,5 +1,41 @@
 [
   {
+    "id": 3009,
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "location": "Remote",
+    "salary": "",
+    "tags": "golang,video,engineer",
+    "platform": "remoteok",
+    "posted_date": "2026-08-30",
+    "scraped_at": "2026-08-31 22:15:36"
+  },
+  {
+    "id": 3010,
+    "url": "https://remoteOK.com/remote-jobs/remote-gtm-wonderful-1137225",
+    "title": "GTM",
+    "company": "Wonderful",
+    "location": "Bridgetown, ",
+    "salary": "",
+    "tags": "saas,salesforce,sys admin,technical,marketing,exec,senior,sales",
+    "platform": "remoteok",
+    "posted_date": "2026-08-30",
+    "scraped_at": "2026-08-31 22:15:36"
+  },
+  {
+    "id": 3011,
+    "url": "https://remoteOK.com/remote-jobs/remote-professional-pat-tester-guardian-electrical-compliance-ltd-1137235",
+    "title": "Professional PAT Tester",
+    "company": "Guardian Electrical Compliance Ltd",
+    "location": "Oxford, ",
+    "salary": "",
+    "tags": "microsoft,testing,sys admin,customer support,dev,excel,recruiter,non tech,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-30",
+    "scraped_at": "2026-08-31 22:15:36"
+  },
+  {
     "id": 3002,
     "url": "https://remoteOK.com/remote-jobs/remote-mot-tester-mr-clutch-autocentres-1137218",
     "title": "MOT Tester",
