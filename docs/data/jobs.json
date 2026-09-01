@@ -1,5 +1,29 @@
 [
   {
+    "id": 3012,
+    "url": "https://remoteOK.com/remote-jobs/remote-commercial-building-estimator-complex-co-1137228",
+    "title": "Commercial Building Estimator",
+    "company": "Complex Co.",
+    "location": "Canberra, ",
+    "salary": "",
+    "tags": "technical,customer support,microsoft,exec,junior,excel,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-08-31",
+    "scraped_at": "2026-09-01 02:57:07"
+  },
+  {
+    "id": 3013,
+    "url": "https://remoteOK.com/remote-jobs/remote-enterprise-architect-l0-wipro-1137226",
+    "title": "ENTERPRISE ARCHITECT L0",
+    "company": "Wipro",
+    "location": "Chennai, ",
+    "salary": "",
+    "tags": "architecture,design,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-31",
+    "scraped_at": "2026-09-01 02:57:07"
+  },
+  {
     "id": 3009,
     "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
     "title": "AI Engineer Data APIs",
