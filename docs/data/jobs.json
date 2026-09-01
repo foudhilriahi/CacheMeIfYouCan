@@ -1,5 +1,65 @@
 [
   {
+    "id": 3014,
+    "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
+    "title": "Production Lead",
+    "company": "ITC Limited",
+    "location": "Guntur, ",
+    "salary": "",
+    "tags": "education,exec,ops,engineer,amazon,web dev,cloud,aws",
+    "platform": "remoteok",
+    "posted_date": "2026-08-31",
+    "scraped_at": "2026-09-01 10:54:29"
+  },
+  {
+    "id": 3015,
+    "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
+    "title": "Employee",
+    "company": "HARTMANN GROUP International",
+    "location": "Warangal Rural, ",
+    "salary": "",
+    "tags": "education,exec,ops,engineer,amazon,web dev,cloud,aws",
+    "platform": "remoteok",
+    "posted_date": "2026-08-31",
+    "scraped_at": "2026-09-01 10:54:29"
+  },
+  {
+    "id": 3016,
+    "url": "https://remoteOK.com/remote-jobs/remote-manager-rewards-management-coca-cola-cambodia-beverage-company-ltd-1137227",
+    "title": "Manager Rewards Management",
+    "company": "Coca-Cola Cambodia Beverage Company Ltd",
+    "location": "Phnom Penh, ",
+    "salary": "",
+    "tags": "exec,design,hr,infosec,customer support,payroll,finance,ops,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-31",
+    "scraped_at": "2026-09-01 10:54:29"
+  },
+  {
+    "id": 3017,
+    "url": "https://remoteOK.com/remote-jobs/remote-merchandiser-jugopetrol-ad-1137234",
+    "title": "Merchandiser",
+    "company": "Jugopetrol AD",
+    "location": "Podgorica, ",
+    "salary": "",
+    "tags": "microsoft",
+    "platform": "remoteok",
+    "posted_date": "2026-08-31",
+    "scraped_at": "2026-09-01 10:54:29"
+  },
+  {
+    "id": 3018,
+    "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
+    "title": "Cloud Computing",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Telangana, ",
+    "salary": "",
+    "tags": "education,exec,ops,engineer,amazon,web dev,cloud,aws",
+    "platform": "remoteok",
+    "posted_date": "2026-08-31",
+    "scraped_at": "2026-09-01 10:54:29"
+  },
+  {
     "id": 3012,
     "url": "https://remoteOK.com/remote-jobs/remote-commercial-building-estimator-complex-co-1137228",
     "title": "Commercial Building Estimator",
