@@ -1,5 +1,65 @@
 [
   {
+    "id": 3229,
+    "url": "https://news.ycombinator.com/item?id=49567458",
+    "title": "Hybrid NYC",
+    "company": "Endless Access",
+    "location": "Engineering Lead",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-04",
+    "scraped_at": "2026-09-04 20:08:13"
+  },
+  {
+    "id": 3225,
+    "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302",
+    "title": "Customer Support & Success Specialist",
+    "company": "Warehance",
+    "location": "Remote",
+    "salary": "",
+    "tags": "customer support",
+    "platform": "remoteok",
+    "posted_date": "2026-09-03",
+    "scraped_at": "2026-09-04 20:08:01"
+  },
+  {
+    "id": 3226,
+    "url": "https://remoteOK.com/remote-jobs/remote-roupeiro-muro-alto-pe-gav-resorts-1137304",
+    "title": "Roupeiro Muro Alto PE",
+    "company": "GAV Resorts",
+    "location": "Ipojuca, ",
+    "salary": "",
+    "tags": "excel,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-09-03",
+    "scraped_at": "2026-09-04 20:08:01"
+  },
+  {
+    "id": 3227,
+    "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
+    "title": "QA Engineer",
+    "company": "SunnyData",
+    "location": "Remote",
+    "salary": "",
+    "tags": "technical,dev,testing,marketing,quality assurance,education,cloud,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-09-03",
+    "scraped_at": "2026-09-04 20:08:01"
+  },
+  {
+    "id": 3228,
+    "url": "https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301",
+    "title": "Store Manager BOSS Store Plaza Las Americas",
+    "company": "HUGO BOSS",
+    "location": "San Juan, ",
+    "salary": "",
+    "tags": "exec,react,education,consulting,customer support,microsoft,ops,sales,medical",
+    "platform": "remoteok",
+    "posted_date": "2026-09-03",
+    "scraped_at": "2026-09-04 20:08:01"
+  },
+  {
     "id": 3224,
     "url": "https://news.ycombinator.com/item?id=49564322",
     "title": "REMOTE (USA, East Coast based)",
