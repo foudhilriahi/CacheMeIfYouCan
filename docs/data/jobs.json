@@ -1,5 +1,53 @@
 [
   {
+    "id": 3224,
+    "url": "https://news.ycombinator.com/item?id=49564322",
+    "title": "REMOTE (USA, East Coast based)",
+    "company": "Harmonic",
+    "location": "Technical Trainer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-04",
+    "scraped_at": "2026-09-04 15:41:15"
+  },
+  {
+    "id": 3221,
+    "url": "https://remoteOK.com/remote-jobs/remote-mro-buyer-u-p-pro-1137303",
+    "title": "MRO Buyer",
+    "company": "U.P.PRO",
+    "location": "Visakhapatnam Rural mandal, ",
+    "salary": "",
+    "tags": "customer support,dev,microsoft,exec,ops,excel,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-09-03",
+    "scraped_at": "2026-09-04 15:41:06"
+  },
+  {
+    "id": 3222,
+    "url": "https://remoteOK.com/remote-jobs/remote-urban-walker-walkr-turn-your-google-meet-walk-friendly-1137296",
+    "title": "Urban walker",
+    "company": "walkr - turn your Google Meet walk-friendly",
+    "location": "London Area, ",
+    "salary": "",
+    "tags": "full time,part time",
+    "platform": "remoteok",
+    "posted_date": "2026-09-03",
+    "scraped_at": "2026-09-04 15:41:06"
+  },
+  {
+    "id": 3223,
+    "url": "https://remoteOK.com/remote-jobs/remote-office-maid-hacksaw-gaming-1137306",
+    "title": "Office Maid",
+    "company": "Hacksaw Gaming",
+    "location": "Msida, ",
+    "salary": "",
+    "tags": "education,customer support,recruiter,non tech,game dev,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-09-03",
+    "scraped_at": "2026-09-04 15:41:06"
+  },
+  {
     "id": 3219,
     "url": "https://news.ycombinator.com/item?id=49562582",
     "title": "REMOTE",
