@@ -1,5 +1,41 @@
 [
   {
+    "id": 3215,
+    "url": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297",
+    "title": "Public Area Attendant",
+    "company": "Four Seasons",
+    "location": "Nassau, ",
+    "salary": "",
+    "tags": "education,supervisor,legal,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-09-02",
+    "scraped_at": "2026-09-04 02:24:53"
+  },
+  {
+    "id": 3216,
+    "url": "https://remoteOK.com/remote-jobs/remote-irrigation-technician-msc-cruises-1137298",
+    "title": "Irrigation Technician",
+    "company": "MSC Cruises",
+    "location": "Rum Cay, ",
+    "salary": "",
+    "tags": "education,supervisor,legal,non tech,sys admin,exec,engineer",
+    "platform": "remoteok",
+    "posted_date": "2026-09-02",
+    "scraped_at": "2026-09-04 02:24:53"
+  },
+  {
+    "id": 3217,
+    "url": "https://remoteOK.com/remote-jobs/remote-job-summary-workajobs-1137290",
+    "title": "Job Summary",
+    "company": "WorkaJobs",
+    "location": "Ø¯Ø¨Ù, ",
+    "salary": "",
+    "tags": "full time",
+    "platform": "remoteok",
+    "posted_date": "2026-09-02",
+    "scraped_at": "2026-09-04 02:24:53"
+  },
+  {
     "id": 3206,
     "url": "https://news.ycombinator.com/item?id=49555567",
     "title": "REMOTE (US, Canada, Europe)",
