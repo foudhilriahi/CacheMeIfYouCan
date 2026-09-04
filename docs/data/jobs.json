@@ -1,5 +1,41 @@
 [
   {
+    "id": 3219,
+    "url": "https://news.ycombinator.com/item?id=49562582",
+    "title": "REMOTE",
+    "company": "Crossref",
+    "location": "Head of Infrastructure Services",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-04",
+    "scraped_at": "2026-09-04 10:38:54"
+  },
+  {
+    "id": 3220,
+    "url": "https://news.ycombinator.com/item?id=49561011",
+    "title": "Developer",
+    "company": "A brilliant entry!",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-04",
+    "scraped_at": "2026-09-04 10:38:54"
+  },
+  {
+    "id": 3218,
+    "url": "https://remoteOK.com/remote-jobs/remote-police-officer-scottish-police-authority-1137305",
+    "title": "Police Officer",
+    "company": "Scottish Police Authority",
+    "location": "Kirkwall, ",
+    "salary": "",
+    "tags": "education,customer support,recruiter,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-09-03",
+    "scraped_at": "2026-09-04 10:38:46"
+  },
+  {
     "id": 3215,
     "url": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297",
     "title": "Public Area Attendant",
