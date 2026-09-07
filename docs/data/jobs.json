@@ -1,5 +1,29 @@
 [
   {
+    "id": 3237,
+    "url": "https://news.ycombinator.com/item?id=49598051",
+    "title": "REMOTE (worldwide)",
+    "company": "BOSS-IQ",
+    "location": "CTO Partner",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-07",
+    "scraped_at": "2026-09-07 16:59:14"
+  },
+  {
+    "id": 3238,
+    "url": "https://news.ycombinator.com/item?id=49597839",
+    "title": "Developer",
+    "company": "Founding Engineer with 15 years in IT.",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-07",
+    "scraped_at": "2026-09-07 16:59:14"
+  },
+  {
     "id": 3236,
     "url": "https://news.ycombinator.com/item?id=49595476",
     "title": "Remote (NYC &#x2F; SEA &#x2F; global overlap)",
