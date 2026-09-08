@@ -1,5 +1,29 @@
 [
   {
+    "id": 3242,
+    "url": "https://news.ycombinator.com/item?id=49613305",
+    "title": "Full-time – <a href=\"https:&#x2F;&#x2F;estuary.dev&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;estuary.dev&#x2F;</a><p>Estuary is a VC-backed, post–Series A startup powering right-time data replication and transform — from sub-second CDC replication to terabyte-scale OLAP data flows. We&#x27;re open-source, developer-first, and focused on making data movement radically simpler across both our Platform and Applications layers.<p>We&#x27;re hiring for:<p>Head of Engineering — Own the engineering function end-to-end as a partner to our founder CTO: strategy, people, delivery, and operations across a compact but high-leverage team. You&#x27;ll grow the leaders already running our teams, set technical strategy jointly with the CTO, and be accountable for what engineering ships and what it costs.<p>Product Manager — Own product areas end-to-end, working closely with engineering and design to shape the roadmap and deliver a great developer experience. Engage with users, translate real-world use cases into product decisions, and help define how modern data infrastructure should feel to build with.<p>Customer Success Manager — Own the post-sale relationship for our data engineering and platform customers as our first CS hire. You&#x27;ll build onboarding, account health monitoring, and the expansion playbook from scratch while staying technical enough to resolve most issues yourself.<p>Technical Product Marketing Manager — Founding product marketing hire working closely with Estuary&#x27;s Head of Marketing and Developer Relations team. Help shape how we position and communicate the platform to technical audiences through product launches, messaging, technical content, demos, customer stories, and developer-facing campaigns.<p>Senior Growth Marketer, Content &amp; Video — Take the technical content our team already produces and multiply its reach: slicing long-form posts into social, video, and email, running our webinar program, and owning our social and lifecycle channels. You&#x27;re a hands-on writer, designer, and video editor who knows how to turn one strong piece into a dozen that actually get seen.<p>Senior Compliance Engineer — Own our GDPR and PCI DSS programs while keeping our audited SOC 2 and HIPAA programs running smoothly, alongside hands-on ownership of identity, endpoint, and SaaS estate management. This is a governance-first role for someone who has run a compliance program end-to-end, not just contributed to one.<p>What we&#x27;re looking for: People who care about building reliable, maintainable systems and processes and enjoy working with complex APIs, data flows, or customer relationships. We value curiosity, clear communication, and a willingness to learn.<p>Bonus points for experience with CDC tools, open source contributions, or fast-paced startups.<p>To apply: Email your resume to careers@estuary.dev",
+    "company": "Estuary",
+    "location": "US-Based &#x2F; Remote",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-08",
+    "scraped_at": "2026-09-08 20:33:31"
+  },
+  {
+    "id": 3243,
+    "url": "https://news.ycombinator.com/item?id=49612508",
+    "title": "FT",
+    "company": "Turquoise",
+    "location": "Senior Performance Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-08",
+    "scraped_at": "2026-09-08 20:33:31"
+  },
+  {
     "id": 3240,
     "url": "https://news.ycombinator.com/item?id=49611044",
     "title": "Full-time",
