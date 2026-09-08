@@ -1,5 +1,29 @@
 [
   {
+    "id": 3240,
+    "url": "https://news.ycombinator.com/item?id=49611044",
+    "title": "Full-time",
+    "company": "Whistle Robotics",
+    "location": "Founding Geometry Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-08",
+    "scraped_at": "2026-09-08 15:47:02"
+  },
+  {
+    "id": 3241,
+    "url": "https://news.ycombinator.com/item?id=49608356",
+    "title": "London, UK",
+    "company": "Newton&#x27;s Tree",
+    "location": "Forward Deployed Engineer, Site Reliability Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-08",
+    "scraped_at": "2026-09-08 15:47:02"
+  },
+  {
     "id": 3239,
     "url": "https://news.ycombinator.com/item?id=49601673",
     "title": "Full-Time",
