@@ -1,5 +1,77 @@
 [
   {
+    "id": 3250,
+    "url": "https://news.ycombinator.com/item?id=49625444",
+    "title": "Developer",
+    "company": "Location: Lahore, Pakistan",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-09",
+    "scraped_at": "2026-09-09 15:42:42"
+  },
+  {
+    "id": 3245,
+    "url": "https://remoteOK.com/remote-jobs/remote-baker-ocean-hotels-group-barbados-1137318",
+    "title": "Baker",
+    "company": "Ocean Hotels Group BARBADOS",
+    "location": "Christ Church, ",
+    "salary": "",
+    "tags": "education,customer support,testing,video,ops,non tech,supervisor,legal,exec,junior,golang",
+    "platform": "remoteok",
+    "posted_date": "2026-09-08",
+    "scraped_at": "2026-09-09 15:42:34"
+  },
+  {
+    "id": 3246,
+    "url": "https://remoteOK.com/remote-jobs/remote-foh-the-burgers-priest-1137328",
+    "title": "FOH",
+    "company": "The Burger's Priest",
+    "location": "Toronto, ",
+    "salary": "",
+    "tags": "testing,non tech,exec,c,education,travel,dba,medical,design,hr,engineer,digital nomad,customer support",
+    "platform": "remoteok",
+    "posted_date": "2026-09-07",
+    "scraped_at": "2026-09-09 15:42:34"
+  },
+  {
+    "id": 3247,
+    "url": "https://remoteOK.com/remote-jobs/remote-security-guard-royal-caribbean-international-1137323",
+    "title": "Security Guard",
+    "company": "Royal Caribbean International",
+    "location": "Nassau, ",
+    "salary": "",
+    "tags": "education,customer support,testing,video,ops,non tech,supervisor,legal,exec,junior,golang,marketing,travel,medical,virtual assistant,sys admin,hr,technical,coordinator,dev,admin,engineer,digital nomad,infosec,finance",
+    "platform": "remoteok",
+    "posted_date": "2026-09-07",
+    "scraped_at": "2026-09-09 15:42:34"
+  },
+  {
+    "id": 3248,
+    "url": "https://remoteOK.com/remote-jobs/remote-air-traffic-engineering-technician-bermuda-airport-authority-1137322",
+    "title": "Air Traffic Engineering Technician",
+    "company": "Bermuda Airport Authority",
+    "location": "Saint George's Parish, ",
+    "salary": "",
+    "tags": "education,customer support,testing,video,ops,non tech,supervisor,legal,exec,junior,golang,marketing,travel,medical,virtual assistant,sys admin,hr,technical,coordinator,dev,admin,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-09-04",
+    "scraped_at": "2026-09-09 15:42:34"
+  },
+  {
+    "id": 3249,
+    "url": "https://remoteOK.com/remote-jobs/remote-superviseur-26-27-the-home-depot-canada-1137329",
+    "title": "Â SUPERVISEUR 26 27",
+    "company": "The Home Depot Canada",
+    "location": "Regina, ",
+    "salary": "",
+    "tags": "testing,non tech,exec,c,education,travel,dba,medical,design,hr,engineer,digital nomad,customer support",
+    "platform": "remoteok",
+    "posted_date": "2026-09-03",
+    "scraped_at": "2026-09-09 15:42:34"
+  },
+  {
     "id": 3244,
     "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314",
     "title": "Social Comms",
