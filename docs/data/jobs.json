@@ -1,5 +1,53 @@
 [
   {
+    "id": 3272,
+    "url": "https://news.ycombinator.com/item?id=49643998",
+    "title": "Developer",
+    "company": "Location: India",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-10",
+    "scraped_at": "2026-09-10 15:38:14"
+  },
+  {
+    "id": 3273,
+    "url": "https://news.ycombinator.com/item?id=49642977",
+    "title": "Developer",
+    "company": "Director of Sales",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-10",
+    "scraped_at": "2026-09-10 15:38:14"
+  },
+  {
+    "id": 3270,
+    "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373",
+    "title": "Business Development Manager",
+    "company": "Libertex Group",
+    "location": "ÙØ³ÙØ·, ÙØ³ÙØ· ÙØ³ÙØ· Ø¹ÙØ§Ù",
+    "salary": "",
+    "tags": "product manager,exec,design,crypto,marketing,finance,bus dev,recruiter,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-09-08",
+    "scraped_at": "2026-09-10 15:38:04"
+  },
+  {
+    "id": 3271,
+    "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374",
+    "title": "Quality Dispense Technician North",
+    "company": "Thatchers Cider",
+    "location": "Greater Newcastle Area, ",
+    "salary": "",
+    "tags": "education,marketing,finance,exec,excel,golang",
+    "platform": "remoteok",
+    "posted_date": "2026-09-08",
+    "scraped_at": "2026-09-10 15:38:04"
+  },
+  {
     "id": 3265,
     "url": "https://remoteOK.com/remote-jobs/remote-future-shaprs-shapr3d-1136770",
     "title": "Future Shaprs",
