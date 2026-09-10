@@ -1,5 +1,65 @@
 [
   {
+    "id": 3265,
+    "url": "https://remoteOK.com/remote-jobs/remote-future-shaprs-shapr3d-1136770",
+    "title": "Future Shaprs",
+    "company": "Shapr3D",
+    "location": "Budapest, ",
+    "salary": "",
+    "tags": "testing,education,customer support,finance,c,scheme,exec,medical,marketing,full time,design,infosec,music,digital nomad,technical,engineer,teaching,math,recruiter,sys admin,golang,microsoft,excel,sales,travel,ops,virtual assistant,supervisor,serverless,cloud,legal,senior,dev,mobile,hr,game dev,stats,part time,vfx",
+    "platform": "remoteok",
+    "posted_date": "2026-08-05",
+    "scraped_at": "2026-09-10 02:28:32"
+  },
+  {
+    "id": 3266,
+    "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
+    "title": "Operations Engineer II",
+    "company": "AWeber",
+    "location": "Uluberia-II, ",
+    "salary": "",
+    "tags": "infosec,javascript,technical,exec,sys admin,customer support,web dev,virtual assistant,video,api,ops,marketing,engineer,ecommerce",
+    "platform": "remoteok",
+    "posted_date": "2026-08-04",
+    "scraped_at": "2026-09-10 02:28:32"
+  },
+  {
+    "id": 3267,
+    "url": "https://remoteOK.com/remote-jobs/remote-online-bidder-webnotics-pvt-ltd-1137209",
+    "title": "Online Bidder",
+    "company": "Webnotics Pvt Ltd",
+    "location": "Agra, ",
+    "salary": "",
+    "tags": "technical,dev,marketing,web dev,exec,mobile,ops,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-08-04",
+    "scraped_at": "2026-09-10 02:28:32"
+  },
+  {
+    "id": 3268,
+    "url": "https://remoteOK.com/remote-jobs/remote-functional-assessor-pfas-personal-functional-assessment-services-1136370",
+    "title": "Functional Assessor",
+    "company": "PFAS (Personal Functional Assessment Services)",
+    "location": "Bury St Edmunds, ",
+    "salary": "",
+    "tags": "",
+    "platform": "remoteok",
+    "posted_date": "2026-08-03",
+    "scraped_at": "2026-09-10 02:28:32"
+  },
+  {
+    "id": 3269,
+    "url": "https://remoteOK.com/remote-jobs/remote-machine-operator-amp-labourers-total-environmental-concepts-pty-ltd-1136001",
+    "title": "Machine Operator &amp; Labourers",
+    "company": "Total Environmental Concepts Pty ltd",
+    "location": "Brisbane City, ",
+    "salary": "",
+    "tags": "design,technical,customer support,dev,microsoft,senior,ops,engineer,digital nomad,sys admin,education,testing,exec,excel,payroll,medical,video,marketing,travel,finance,mobile,hr,recruiter,supervisor,consulting,assembly,saas,golang,coordinator,product manager,bus dev,sales,amazon,salesforce,infosec,embedded,java,c,c plus plus,cloud,linux,speech,adult,junior,admin,full time",
+    "platform": "remoteok",
+    "posted_date": "2026-07-30",
+    "scraped_at": "2026-09-10 02:28:32"
+  },
+  {
     "id": 3251,
     "url": "https://remoteOK.com/remote-jobs/remote-deputy-corporate-officer-city-of-kamloops-1137327",
     "title": "Deputy Corporate Officer",
