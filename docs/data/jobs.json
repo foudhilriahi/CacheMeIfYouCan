@@ -1,5 +1,53 @@
 [
   {
+    "id": 3279,
+    "url": "https://news.ycombinator.com/item?id=49664325",
+    "title": "Remote (US)",
+    "company": "Ours Privacy",
+    "location": "Senior Platform Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-11",
+    "scraped_at": "2026-09-11 20:17:43"
+  },
+  {
+    "id": 3280,
+    "url": "https://news.ycombinator.com/item?id=49662536",
+    "title": "<a href=\"https:&#x2F;&#x2F;squoosh.ai\" rel=\"nofollow\">https:&#x2F;&#x2F;squoosh.ai</a><p>We build AI systems that simulate how people explore digital experiences, helping commerce teams evaluate and improve websites. We&#x27;re hiring for two roles:<p>Full-Stack Engineer — $90k–150k USD&#x2F;year. Own features across the UI, APIs, and data layer; turn tickets into small, tested PRs and follow them through release. Relevant stack: React&#x2F;Next.js, TypeScript, Python APIs, Postgres, browser automation. We want someone who uses AI coding tools well and can independently debug and validate what they ship. Strong projects and early-career builders welcome.<p>PhD Researcher — $60–70 USD&#x2F;hour, part-time alongside current full-time PhD enrollment. Work on LLM&#x2F;browser-agent evaluation, persona calibration, behavioral modeling, experimental design, and comparison with real A&#x2F;B-test outcomes. Strong Python and research methods matter; bring a paper, repository, benchmark, or experiment you can explain deeply. US work authorization required; applicable CPT&#x2F;OPT welcome. Schedule agreed around your doctorate.<p>Apply: tyler@squoosh.ai, subject “HN — Full Stack” or “HN — PhD Researcher”. Include a resume&#x2F;CV, a shareable work sample and your personal contribution; PhD applicants please include availability and research area.",
+    "company": "Squoosh.AI",
+    "location": "Full-Stack Engineer (full-time, REMOTE) + PhD Researcher (part-time, REMOTE US)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-11",
+    "scraped_at": "2026-09-11 20:17:43"
+  },
+  {
+    "id": 3281,
+    "url": "https://news.ycombinator.com/item?id=49661611",
+    "title": "REMOTE (US time zones)",
+    "company": "Obi9",
+    "location": "Full-Stack Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-11",
+    "scraped_at": "2026-09-11 20:17:43"
+  },
+  {
+    "id": 3278,
+    "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
+    "title": "External Data Specialist",
+    "company": "eClinical Solutions",
+    "location": "Remote",
+    "salary": "",
+    "tags": "cloud,exec,stats",
+    "platform": "remoteok",
+    "posted_date": "2026-09-10",
+    "scraped_at": "2026-09-11 20:17:34"
+  },
+  {
     "id": 3277,
     "url": "https://news.ycombinator.com/item?id=49656171",
     "title": "REMOTE<p>We’ve built custom software for US clients since 2018, and we’re now building a different delivery model: one senior engineer-consultant owns the whole engagement end-to-end — from figuring out the problem with the client and shaping the AI solution to building and getting it into production.<p>Hiring: Forward Deployed Engineer with pre-sale&#x2F;discovery experience as solo person - direct hot-lead communication is a must. English C1-C2 is a must, strong full-stack expertise (commerce) with at least one of cloud infrastructure, CI&#x2F;CD, or data. Experience shipping AI-powered features to production (model training&#x2F;fine-tuning, courses, or side projects with no end users).<p>Apply: mariiau@cider.consulting (mention Hacker News)",
