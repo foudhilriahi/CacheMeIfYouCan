@@ -1,5 +1,53 @@
 [
   {
+    "id": 3285,
+    "url": "https://news.ycombinator.com/item?id=49667711",
+    "title": "San Francisco, CA",
+    "company": "Lumen Labs",
+    "location": "Robotics &#x2F; Hardware Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-12",
+    "scraped_at": "2026-09-12 02:30:31"
+  },
+  {
+    "id": 3282,
+    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380",
+    "title": "Engineering Manager TLM Platform",
+    "company": "Harper",
+    "location": "San Francisco",
+    "salary": "",
+    "tags": "exec,design,sys admin,docker,technical,customer support,dev,marketing,video,finance,cloud,medical,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-09-11",
+    "scraped_at": "2026-09-12 02:30:22"
+  },
+  {
+    "id": 3283,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
+    "title": "Senior Communications Officer Strategic Communications",
+    "company": "GiveWell",
+    "location": "United States",
+    "salary": "",
+    "tags": "exec,senior,medical",
+    "platform": "remoteok",
+    "posted_date": "2026-09-11",
+    "scraped_at": "2026-09-12 02:30:22"
+  },
+  {
+    "id": 3284,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
+    "title": "Senior People & Talent Operations Partner",
+    "company": "TestGorilla",
+    "location": "Remote",
+    "salary": "",
+    "tags": "hr,non tech",
+    "platform": "remoteok",
+    "posted_date": "2026-09-10",
+    "scraped_at": "2026-09-12 02:30:22"
+  },
+  {
     "id": 3279,
     "url": "https://news.ycombinator.com/item?id=49664325",
     "title": "Remote (US)",
