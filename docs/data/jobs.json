@@ -1,5 +1,29 @@
 [
   {
+    "id": 3290,
+    "url": "https://news.ycombinator.com/item?id=49686668",
+    "title": "Developer",
+    "company": "Location: London, UK",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-09-13",
+    "scraped_at": "2026-09-13 20:05:12"
+  },
+  {
+    "id": 3289,
+    "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
+    "title": "Technical Product Lead AI Finance App",
+    "company": "Bjak ",
+    "location": "Seoul",
+    "salary": "",
+    "tags": "design,sys admin,infosec,exec,technical,finance,ruby,mobile,ops,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-09-12",
+    "scraped_at": "2026-09-13 20:05:02"
+  },
+  {
     "id": 3288,
     "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
     "title": "Software Engineer",
