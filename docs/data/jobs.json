@@ -1,5 +1,17 @@
 [
   {
+    "id": 3300,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
+    "title": "Senior Shopify Developer",
+    "company": "Sanctuary Computer",
+    "location": "Remote",
+    "salary": "",
+    "tags": "dev,engineer,senior,front end,shopify",
+    "platform": "remoteok",
+    "posted_date": "2026-09-18",
+    "scraped_at": "2026-09-19 15:08:46"
+  },
+  {
     "id": 3299,
     "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
     "title": "Golang Kubernetes Engineer",
