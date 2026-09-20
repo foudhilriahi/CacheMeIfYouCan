@@ -1,5 +1,29 @@
 [
   {
+    "id": 3301,
+    "url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407",
+    "title": "VP Pricing & Packaging",
+    "company": "Delinea",
+    "location": "Redwood City",
+    "salary": "",
+    "tags": "design,saas,salesforce,infosec,vfx,dev,finance,education,cloud,admin,exec,ops,marketing,sales,medical,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-09-19",
+    "scraped_at": "2026-09-20 02:45:14"
+  },
+  {
+    "id": 3302,
+    "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406",
+    "title": "Customer Success Manager Mexico",
+    "company": "JumpCloud",
+    "location": "Mexico City, Mexico - Remote",
+    "salary": "",
+    "tags": "customer support,exec,saas,sys admin,swift,infosec,technical,marketing,travel,speech,finance,education,c,mobile,sales,medical,recruiter,engineer",
+    "platform": "remoteok",
+    "posted_date": "2026-09-19",
+    "scraped_at": "2026-09-20 02:45:14"
+  },
+  {
     "id": 3300,
     "url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
     "title": "Senior Shopify Developer",
