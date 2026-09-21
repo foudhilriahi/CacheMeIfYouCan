@@ -1,5 +1,29 @@
 [
   {
+    "id": 3305,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+    "title": "Senior .NET Software Engineer",
+    "company": "OkWhen",
+    "location": "Remote",
+    "salary": "",
+    "tags": "dev,design,c sharp,saas,sys admin,infosec,education,technical,testing,web dev,xamarin,c,cloud,git,typescript,angular,mobile,exec,content writing,senior,ops,medical,engineer,backend,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-09-20",
+    "scraped_at": "2026-09-21 02:42:16"
+  },
+  {
+    "id": 3306,
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "title": "Frontend Engineer",
+    "company": "Bjak ",
+    "location": "Ireland",
+    "salary": "",
+    "tags": "front end,design,react,graphql,react.js,technical,web dev,javascript,css,chatbot,html,typescript,node,node.js,exec,sys admin,engineer,backend,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-09-20",
+    "scraped_at": "2026-09-21 02:42:16"
+  },
+  {
     "id": 3304,
     "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
     "title": "Backend Software Engineer",
