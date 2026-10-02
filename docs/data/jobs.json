@@ -1,5 +1,65 @@
 [
   {
+    "id": 3415,
+    "url": "https://news.ycombinator.com/item?id=49937789",
+    "title": "Developer",
+    "company": "Tivly",
+    "location": "Principal Software Engineer (Java)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-02 21:40:51"
+  },
+  {
+    "id": 3416,
+    "url": "https://news.ycombinator.com/item?id=49937104",
+    "title": "Austin, TX or Oakland, CA",
+    "company": "Paradromics",
+    "location": "Embedded Software Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-02 21:40:51"
+  },
+  {
+    "id": 3417,
+    "url": "https://news.ycombinator.com/item?id=49937058",
+    "title": "NYC &#x2F; CT",
+    "company": "Vola Dynamics",
+    "location": "Software Engineers (C++, Python)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-02 21:40:51"
+  },
+  {
+    "id": 3418,
+    "url": "https://news.ycombinator.com/item?id=49936893",
+    "title": "Full-time",
+    "company": "ClickHouse",
+    "location": "Remote",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-02 21:40:51"
+  },
+  {
+    "id": 3419,
+    "url": "https://news.ycombinator.com/item?id=49936718",
+    "title": "Torrance, CA OR Seattle, WA",
+    "company": "K2 Space",
+    "location": "k2space.com",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-02 21:40:51"
+  },
+  {
     "id": 3402,
     "url": "https://news.ycombinator.com/item?id=49935697",
     "title": "60-100k EUR",
