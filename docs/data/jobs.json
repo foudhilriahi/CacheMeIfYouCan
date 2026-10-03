@@ -1,5 +1,41 @@
 [
   {
+    "id": 3424,
+    "url": "https://news.ycombinator.com/item?id=49945738",
+    "title": "London, Paris, Berlin, Tokyo, New York, Remote",
+    "company": "Kraken Tech",
+    "location": "Senior Software Engineer - AI Foundations",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-03",
+    "scraped_at": "2026-10-03 20:26:33"
+  },
+  {
+    "id": 3425,
+    "url": "https://news.ycombinator.com/item?id=49945634",
+    "title": "Developer",
+    "company": "Location: Dubrovnik, Croatia (CET)",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-03",
+    "scraped_at": "2026-10-03 20:26:33"
+  },
+  {
+    "id": 3426,
+    "url": "https://news.ycombinator.com/item?id=49945147",
+    "title": "Ruby&#x2F;React&#x2F;Postgres&#x2F;AWS",
+    "company": "Ripple",
+    "location": "Senior Fullstack Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-03",
+    "scraped_at": "2026-10-03 20:26:33"
+  },
+  {
     "id": 3422,
     "url": "https://news.ycombinator.com/item?id=49943992",
     "title": "HYBRID (3 days&#x2F;week in the office)",
