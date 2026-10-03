@@ -1,5 +1,29 @@
 [
   {
+    "id": 3422,
+    "url": "https://news.ycombinator.com/item?id=49943992",
+    "title": "HYBRID (3 days&#x2F;week in the office)",
+    "company": "GetYourGuide",
+    "location": "Zurich, Switzerland &#x2F; Berlin, Germany &#x2F; other global locations",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-03",
+    "scraped_at": "2026-10-03 15:31:52"
+  },
+  {
+    "id": 3423,
+    "url": "https://news.ycombinator.com/item?id=49943713",
+    "title": "REMOTE (US&#x2F;Canada)",
+    "company": "GC AI",
+    "location": "Member of Technical Staff, Applied AI",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-03",
+    "scraped_at": "2026-10-03 15:31:52"
+  },
+  {
     "id": 3420,
     "url": "https://news.ycombinator.com/item?id=49939260",
     "title": "REMOTE (Americas: US or LatAm)",
