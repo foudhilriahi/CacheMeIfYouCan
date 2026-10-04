@@ -1,5 +1,29 @@
 [
   {
+    "id": 3429,
+    "url": "https://news.ycombinator.com/item?id=49956481",
+    "title": "New York, San Francisco",
+    "company": "Footprint",
+    "location": "Rust Engineers (Backend, Infrastructure, Security)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-04",
+    "scraped_at": "2026-10-04 20:45:21"
+  },
+  {
+    "id": 3428,
+    "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+    "title": "Head of Operations",
+    "company": "Leverage Live Local",
+    "location": "Remote",
+    "salary": "",
+    "tags": "non tech,ops,exec",
+    "platform": "remoteok",
+    "posted_date": "2026-10-03",
+    "scraped_at": "2026-10-04 20:45:11"
+  },
+  {
     "id": 3427,
     "url": "https://news.ycombinator.com/item?id=49951635",
     "title": "San Francisco",
