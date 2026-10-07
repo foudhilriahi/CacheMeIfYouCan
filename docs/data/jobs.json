@@ -1,5 +1,77 @@
 [
   {
+    "id": 3463,
+    "url": "https://news.ycombinator.com/item?id=49998400",
+    "title": "The Hague, Netherlands",
+    "company": "Cleverbase",
+    "location": "<a href=\"https:&#x2F;&#x2F;cleverbase.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;cleverbase.com&#x2F;</a>",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-07 22:31:34"
+  },
+  {
+    "id": 3464,
+    "url": "https://news.ycombinator.com/item?id=49996914",
+    "title": "REMOTE – US &#x2F; Canada &#x2F; Brazil &#x2F; Europe (CET-compatible)",
+    "company": "Buoyant",
+    "location": "Senior Software Engineer – Kubernetes &#x2F; Distributed Systems",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-07 22:31:34"
+  },
+  {
+    "id": 3465,
+    "url": "https://news.ycombinator.com/item?id=49996333",
+    "title": "Full-time",
+    "company": "Coast",
+    "location": "<a href=\"https:&#x2F;&#x2F;coastpay.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;coastpay.com&#x2F;</a>",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-07 22:31:34"
+  },
+  {
+    "id": 3466,
+    "url": "https://news.ycombinator.com/item?id=49995549",
+    "title": "REMOTE (AMER or EMEA time zones)",
+    "company": "Mastra",
+    "location": "AI Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-07 22:31:34"
+  },
+  {
+    "id": 3467,
+    "url": "https://news.ycombinator.com/item?id=49994263",
+    "title": "Brooklyn Navy Yard, NYC",
+    "company": "BREAKFAST Studio (kinetic art)",
+    "location": "Senior Technical Program Manager · Senior Electrical &amp; Firmware Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-07 22:31:34"
+  },
+  {
+    "id": 3462,
+    "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+    "title": "Project Manager",
+    "company": "Spiralyze",
+    "location": "Worldwide",
+    "salary": "",
+    "tags": "project manager,exec,ops,marketing,cro",
+    "platform": "remoteok",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-07 22:31:26"
+  },
+  {
     "id": 3460,
     "url": "https://news.ycombinator.com/item?id=49987144",
     "title": "REMOTE (US)",
