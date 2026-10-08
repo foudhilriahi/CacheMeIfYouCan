@@ -1,5 +1,41 @@
 [
   {
+    "id": 3473,
+    "url": "https://news.ycombinator.com/item?id=50013152",
+    "title": "Developer",
+    "company": "vvd",
+    "location": "Worldbuilding and storytelling platform (Remote &#x2F; EU&#x2F;NA timezones)<p>This role is for a junior dev who is already shipping stuff, working on side projects and wants to get involved in fast growing creative start up.<p>We&#x27;re an extremely dedicated team working across creative storytelling challenges and no, not an AI slop generator.<p>vvd.world&#x2F;careers ⬅ is our site",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-08",
+    "scraped_at": "2026-10-08 22:43:33"
+  },
+  {
+    "id": 3474,
+    "url": "https://news.ycombinator.com/item?id=50012248",
+    "title": "Full-Time<p>We’re a Series B trading technology company reimagining how financial markets match buyers and sellers -- applying auction theory and innovative technologies to build fairer, more efficient trading infrastructure. Our production systems are written in Rust and execute billions of dollars in securities transactions daily. If you want to work on genuinely hard problems at the intersection of markets, mechanism design, and distributed systems, we’d love to talk.<p>We’re hiring engineering talent companywide, with a current emphasis on these two roles:<p>Engineering Manager, Data Platform -- Lead and grow our data engineering team while staying close to the code. You’ll own the roadmap for the pipelines, data services, orchestration, and platform infrastructure that power our analytics, and contribute to production systems alongside your team. 8+ years of software or data engineering experience, 2+ managing engineers. Strong Python, SQL, Rust, and TypeScript. Experience with workflow orchestration (Temporal, Airflow, Dagster or similar) and columnar formats (Parquet, Arrow). Financial markets or exchange experience a strong plus. NYC-based, hybrid.<p>ESTIMATED COMPENSATION: $180,000--$250,000 depending on experience, with eligibility for a discretionary annual bonus.<p>Software Engineer, Quality (SDET) -- Build the quality engineering function from the ground up. You’ll design and own automated test frameworks, CI&#x2F;CD integrations, staging environments, and validation tooling that help engineers ship with confidence. Proficiency in a systems-level language (Rust, C++, Go, or Java) and Python required. Experience in low-latency or performance-sensitive environments a strong plus. Flexible&#x2F;U.S. remote.<p>ESTIMATED COMPENSATION: $150,000--$200,000 depending on experience, with eligibility for a discretionary annual bonus.<p>CONTACT: careers@onechronos.com -- please send your resume and include the role name and “HackerNews” in the subject line (e.g. “Engineering Manager, Data Platform",
+    "company": "OneChronos",
+    "location": "Engineering Manager, Data Platform (NYC, Hybrid) · Software Engineer, Quality &#x2F; SDET (Flexible&#x2F;U.S. Remote)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-08",
+    "scraped_at": "2026-10-08 22:43:33"
+  },
+  {
+    "id": 3472,
+    "url": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469",
+    "title": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
+    "company": "Tierarzt Plus Partner",
+    "location": "Neuruppin",
+    "salary": "",
+    "tags": "medical",
+    "platform": "remoteok",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-08 22:43:23"
+  },
+  {
     "id": 3469,
     "url": "https://news.ycombinator.com/item?id=50004401",
     "title": "HYBRID (Berlin) or REMOTE (CET ±2h)",
