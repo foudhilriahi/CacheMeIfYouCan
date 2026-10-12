@@ -1,5 +1,29 @@
 [
   {
+    "id": 3486,
+    "url": "https://news.ycombinator.com/item?id=50055019",
+    "title": "Founding CTO",
+    "company": "General Intelligence Holdings",
+    "location": "<a href=\"https:&#x2F;&#x2F;www.generalintelligenceholdings.com\" rel=\"nofollow\">https:&#x2F;&#x2F;www.generalintelligenceholdings.com</a>",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12 14:04:50"
+  },
+  {
+    "id": 3485,
+    "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
+    "title": "Marketing and Sales Administrator",
+    "company": "Hunt St",
+    "location": "Remote",
+    "salary": "",
+    "tags": "customer support,marketing,finance,admin,exec,content writing,sales",
+    "platform": "remoteok",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-12 14:04:38"
+  },
+  {
     "id": 3484,
     "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
     "title": "Technical Account Manager",
