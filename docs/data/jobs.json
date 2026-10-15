@@ -1,5 +1,29 @@
 [
   {
+    "id": 3504,
+    "url": "https://news.ycombinator.com/item?id=50095921",
+    "title": "REMOTE (US only, US time zones; no visa sponsorship)",
+    "company": "NeuralFrame",
+    "location": "Senior Backend Engineer, Medical Data Pipeline (Python + Rust)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-15 02:39:38"
+  },
+  {
+    "id": 3503,
+    "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
+    "title": "Customer Support Specialist",
+    "company": "Ultimate Marketing",
+    "location": "Remote",
+    "salary": "",
+    "tags": "customer support",
+    "platform": "remoteok",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-15 02:39:29"
+  },
+  {
     "id": 3501,
     "url": "https://news.ycombinator.com/item?id=50095249",
     "title": "Developer",
