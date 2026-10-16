@@ -1,5 +1,29 @@
 [
   {
+    "id": 3513,
+    "url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+    "title": "Account Manager Mid Market",
+    "company": "Allego",
+    "location": "Waltham",
+    "salary": "",
+    "tags": "exec,saas,customer support,marketing,ops,sales,golang",
+    "platform": "remoteok",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16 20:22:14"
+  },
+  {
+    "id": 3514,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+    "title": "Senior Software Engineer II Applied AI",
+    "company": "Wrapbook",
+    "location": "Remote",
+    "salary": "",
+    "tags": "dev,design,amazon,sys admin,backend,infosec,python,education,technical,customer support,accounting,payroll,javascript,finance,java,typescript,node,node.js,content writing,senior,ops,marketing,sales,medical,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16 20:22:14"
+  },
+  {
     "id": 3511,
     "url": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
     "title": "Director US Tax & Accounting #35344",
