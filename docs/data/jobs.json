@@ -1,5 +1,41 @@
 [
   {
+    "id": 3508,
+    "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+    "title": "Sr REACT NATIVE",
+    "company": "Somnio Software",
+    "location": "Remote",
+    "salary": "",
+    "tags": "react native,react,dev,python,javascript,c,flutter,node,node.js,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16 02:34:48"
+  },
+  {
+    "id": 3509,
+    "url": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522",
+    "title": "Contracts Manager Federal",
+    "company": "Akicita Federal, LLC",
+    "location": "Remote",
+    "salary": "",
+    "tags": "exec,medical,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16 02:34:48"
+  },
+  {
+    "id": 3510,
+    "url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
+    "title": "Federal Account Manager Client Relationships",
+    "company": "Akicita Federal, LLC",
+    "location": "Remote",
+    "salary": "",
+    "tags": "exec,golang,recruiter",
+    "platform": "remoteok",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16 02:34:48"
+  },
+  {
     "id": 3507,
     "url": "https://news.ycombinator.com/item?id=50104234",
     "title": "Helsinki, Finland",
