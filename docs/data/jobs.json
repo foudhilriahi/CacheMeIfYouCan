@@ -1,5 +1,53 @@
 [
   {
+    "id": 3518,
+    "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+    "title": "Head of Technology",
+    "company": "Sanctuary Computer",
+    "location": "Remote",
+    "salary": "",
+    "tags": "dev,engineer,senior,full stack,front end",
+    "platform": "remoteok",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17 19:56:05"
+  },
+  {
+    "id": 3519,
+    "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+    "title": "Director of Product Management and IT Operations",
+    "company": "Self Bill Pro",
+    "location": "Remote",
+    "salary": "",
+    "tags": "product manager,exec,infosec,technical,customer support,dev,testing,ops,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17 19:56:05"
+  },
+  {
+    "id": 3520,
+    "url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
+    "title": "SAP RE FX Consultant",
+    "company": "Yopeso Romania SRL",
+    "location": "Remote",
+    "salary": "",
+    "tags": "consulting,design,technical,customer support,dev,testing,marketing,exec,part time,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17 19:56:05"
+  },
+  {
+    "id": 3521,
+    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+    "title": "APAC Python",
+    "company": "Kodland",
+    "location": "Remote",
+    "salary": "",
+    "tags": "python,teaching,education,customer support,dev,testing,part time,non tech,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17 19:56:05"
+  },
+  {
     "id": 3515,
     "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
     "title": "Associate Data Scientist",
