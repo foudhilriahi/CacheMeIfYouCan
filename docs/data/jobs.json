@@ -1,5 +1,41 @@
 [
   {
+    "id": 3515,
+    "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+    "title": "Associate Data Scientist",
+    "company": "AlgaeCal",
+    "location": "Vancouver",
+    "salary": "",
+    "tags": "design,python,customer support,marketing,dev,flutter,exec,data science,ops,stats,sales,medical,ecommerce,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17 02:27:21"
+  },
+  {
+    "id": 3516,
+    "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+    "title": "Director of IT and Workplace",
+    "company": "Hippocratic AI",
+    "location": "Menlo Park",
+    "salary": "",
+    "tags": "exec,saas,infosec,python,technical,customer support,testing,marketing,dev,finance,education,c,admin,microsoft,senior,ops,legal,medical,recruiter,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17 02:27:21"
+  },
+  {
+    "id": 3517,
+    "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+    "title": "Customer Success Associate",
+    "company": "Voltus",
+    "location": "Remote",
+    "salary": "",
+    "tags": "customer support,testing,exec,ops,sales,engineer",
+    "platform": "remoteok",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17 02:27:21"
+  },
+  {
     "id": 3513,
     "url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
     "title": "Account Manager Mid Market",
