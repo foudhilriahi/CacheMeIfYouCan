@@ -1,5 +1,53 @@
 [
   {
+    "id": 3523,
+    "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+    "title": "Graduate Transport Planner",
+    "company": "Curtins",
+    "location": "Remote",
+    "salary": "",
+    "tags": "hr,education,consulting,technical,customer support,marketing,travel,medical,engineer",
+    "platform": "remoteok",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-18 10:11:13"
+  },
+  {
+    "id": 3524,
+    "url": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
+    "title": "Key Account Manager Danish Market Native Speaker Copenhagen",
+    "company": "Packmatic GmbH",
+    "location": "Copenhagen",
+    "salary": "",
+    "tags": "exec,saas,technical,marketing,travel,senior,sales,golang",
+    "platform": "remoteok",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-18 10:11:13"
+  },
+  {
+    "id": 3525,
+    "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
+    "title": "Technical Account Manager",
+    "company": "Yuno",
+    "location": "Brazil",
+    "salary": "",
+    "tags": "exec,design,hr,python,technical,customer support,marketing,web dev,speech,javascript,finance,css,html,sql,postgres,node,node.js,mongo,api,senior,ops,sales,sys admin,golang,medical,engineer,apache,nginx,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-18 10:11:13"
+  },
+  {
+    "id": 3526,
+    "url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
+    "title": "Commercial Account Manager LATAM",
+    "company": "Apryse",
+    "location": "Remote",
+    "salary": "",
+    "tags": "exec",
+    "platform": "remoteok",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-18 10:11:13"
+  },
+  {
     "id": 3522,
     "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
     "title": "Software Engineer AI Coding Tasks",
