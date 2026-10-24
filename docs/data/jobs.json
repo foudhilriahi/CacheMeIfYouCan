@@ -1,5 +1,41 @@
 [
   {
+    "id": 3539,
+    "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
+    "title": "Sales Development Representative German Speaking",
+    "company": "Huzzle",
+    "location": "Remote",
+    "salary": "",
+    "tags": "saas,sys admin,dev,marketing,finance,c,exec,sales,medical,ecommerce,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-24 20:03:01"
+  },
+  {
+    "id": 3540,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+    "title": "Senior Frontend Engineer",
+    "company": "B2spin",
+    "location": "Remote",
+    "salary": "",
+    "tags": "front end,design,react,embedded,sys admin,game dev,technical,dev,testing,marketing,web dev,javascript,finance,css,html,typescript,seo,mobile,senior,stats,engineer,backend,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-24 20:03:01"
+  },
+  {
+    "id": 3541,
+    "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-b2b-huzzle-1137561",
+    "title": "Sales Development Representative B2B",
+    "company": "Huzzle",
+    "location": "Remote",
+    "salary": "",
+    "tags": "saas,salesforce,education,customer support,marketing,finance,exec,sales,full time",
+    "platform": "remoteok",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-24 20:03:01"
+  },
+  {
     "id": 3538,
     "url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
     "title": "Accounting and Implementation Manager",
