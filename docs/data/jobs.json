@@ -1,5 +1,29 @@
 [
   {
+    "id": 3545,
+    "url": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573",
+    "title": "Account Executive",
+    "company": "Huzzle",
+    "location": "Remote",
+    "salary": "",
+    "tags": "saas,dev,video,finance,exec,senior,marketing,sales,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-27 11:22:02"
+  },
+  {
+    "id": 3546,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+    "title": "Senior Software Engineer LATAM",
+    "company": "Wagmo",
+    "location": "Remote",
+    "salary": "",
+    "tags": "dev,design,react,sys admin,python,django,typescript,senior,medical,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-27 11:22:02"
+  },
+  {
     "id": 3544,
     "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
     "title": "Senior Software Engineer",
