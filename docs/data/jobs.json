@@ -1,5 +1,29 @@
 [
   {
+    "id": 3554,
+    "url": "https://remoteOK.com/remote-jobs/remote-contract-recruiter-cai-1137607",
+    "title": "Contract Recruiter",
+    "company": "CAI",
+    "location": "Australia",
+    "salary": "",
+    "tags": "sys admin,technical,recruiter,customer support,quality assurance,exec,ops,biotech,engineer,ads",
+    "platform": "remoteok",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-31 16:38:13"
+  },
+  {
+    "id": 3555,
+    "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+    "title": "AWS Cloud Solutions Architect",
+    "company": "Cloudary SAS",
+    "location": "Remote",
+    "salary": "",
+    "tags": "architecture,design,ansible,infosec,docker,technical,dev,exec,serverless,cloud,postgres,sql,api,senior,ops,sales,golang,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-31 16:38:13"
+  },
+  {
     "id": 3553,
     "url": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
     "title": "Online Client Support &amp; Travel Booking We Will Train You",
