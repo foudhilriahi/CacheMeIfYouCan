@@ -1,5 +1,53 @@
 [
   {
+    "id": 3663,
+    "url": "https://news.ycombinator.com/item?id=50363693",
+    "title": "Hybrid",
+    "company": "Bikky",
+    "location": "Engineering Manager",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04 13:35:25"
+  },
+  {
+    "id": 3664,
+    "url": "https://news.ycombinator.com/item?id=50363483",
+    "title": "Full-Time",
+    "company": "Bubblehouse",
+    "location": "Fully REMOTE",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04 13:35:25"
+  },
+  {
+    "id": 3665,
+    "url": "https://news.ycombinator.com/item?id=50361702",
+    "title": "Developer",
+    "company": "Heyyy!!",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04 13:35:25"
+  },
+  {
+    "id": 3662,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+    "title": "Senior Property Manager ENG",
+    "company": "StaffRight",
+    "location": "Remote",
+    "salary": "",
+    "tags": "exec,hr,technical,customer support,dev,travel,finance,php,microsoft,senior,junior,ops,marketing,medical,full time,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-04 13:35:09"
+  },
+  {
     "id": 3661,
     "url": "https://news.ycombinator.com/item?id=50361229",
     "title": "San Francisco, CA",
