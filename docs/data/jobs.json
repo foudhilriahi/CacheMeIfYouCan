@@ -1,5 +1,41 @@
 [
   {
+    "id": 3661,
+    "url": "https://news.ycombinator.com/item?id=50361229",
+    "title": "San Francisco, CA",
+    "company": "Lumen Labs",
+    "location": "Robotics&#x2F;Hardware Engineer, Simulation Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04 04:16:39"
+  },
+  {
+    "id": 3659,
+    "url": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
+    "title": "Tax Manager Private Client",
+    "company": "Aprio",
+    "location": "Scotch Plains, NJ",
+    "salary": "",
+    "tags": "exec,education,consulting,technical,customer support,dev,marketing,accounting,finance,junior,sales,full time,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-04 04:16:28"
+  },
+  {
+    "id": 3660,
+    "url": "https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621",
+    "title": "Client Accounting Division Manager",
+    "company": "Burkland Associates",
+    "location": "Remote",
+    "salary": "",
+    "tags": "exec,accounting,amazon,hr,sys admin,technical,customer support,dev,marketing,finance,video,content writing,ops,medical,ecommerce,shopify,full time,part time,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-04 04:16:28"
+  },
+  {
     "id": 3639,
     "url": "https://news.ycombinator.com/item?id=50357754",
     "title": "AI training &amp; evaluation",
