@@ -1,5 +1,77 @@
 [
   {
+    "id": 3680,
+    "url": "https://news.ycombinator.com/item?id=50385049",
+    "title": "HYBRID (NC) &#x2F; REMOTE",
+    "company": "Odette Technologies",
+    "location": "Senior Integration Engineer, Data&#x2F;ML Engineer, Product Lead",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05 23:06:37"
+  },
+  {
+    "id": 3681,
+    "url": "https://news.ycombinator.com/item?id=50384764",
+    "title": "New York, NY",
+    "company": "Piramidal (YC W24)",
+    "location": "Senior Backend Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05 23:06:37"
+  },
+  {
+    "id": 3682,
+    "url": "https://news.ycombinator.com/item?id=50384008",
+    "title": "REMOTE (Europe), hybrid Norrköping or Stockholm",
+    "company": "Sortrace",
+    "location": "Computer Vision Engineer, Junior Frontend Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05 23:06:37"
+  },
+  {
+    "id": 3683,
+    "url": "https://news.ycombinator.com/item?id=50383984",
+    "title": "New York, NY",
+    "company": "Nirvana Robotics",
+    "location": "Mechanical Engineer, Electrical Engineer, Robotic Controls Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05 23:06:37"
+  },
+  {
+    "id": 3678,
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686",
+    "title": "AI Content Reviewer Video Annotation",
+    "company": "iMerit",
+    "location": "Remote",
+    "salary": "",
+    "tags": "content writing,ai,other",
+    "platform": "remoteok",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-05 23:06:26"
+  },
+  {
+    "id": 3679,
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
+    "title": "Software Engineer",
+    "company": "Claims",
+    "location": "Remote",
+    "salary": "",
+    "tags": "dev,ai,blockchain",
+    "platform": "remoteok",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-05 23:06:26"
+  },
+  {
     "id": 3675,
     "url": "https://news.ycombinator.com/item?id=50377145",
     "title": "REMOTE (US)",
