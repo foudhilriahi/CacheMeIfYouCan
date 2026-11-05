@@ -1,5 +1,41 @@
 [
   {
+    "id": 3675,
+    "url": "https://news.ycombinator.com/item?id=50377145",
+    "title": "REMOTE (US)",
+    "company": "COi Rubber Products",
+    "location": "Independent Sales Representative",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05 13:56:12"
+  },
+  {
+    "id": 3676,
+    "url": "https://news.ycombinator.com/item?id=50377000",
+    "title": "Berlin, Barcelona",
+    "company": "N26 SE",
+    "location": "Sr. SREs(networking), Data Platform EMs",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05 13:56:12"
+  },
+  {
+    "id": 3677,
+    "url": "https://news.ycombinator.com/item?id=50376253",
+    "title": "Espoo, Finland &#x2F; Berlin, Germany",
+    "company": "ICEYE",
+    "location": "Platform Software Engineers (Senior&#x2F;Staff)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05 13:56:12"
+  },
+  {
     "id": 3674,
     "url": "https://news.ycombinator.com/item?id=50373706",
     "title": "New grads who’ve shipped AI features (max 2 years out of school) + Principal&#x2F;Distinguished engineers for net-new consumer products",
