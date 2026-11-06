@@ -1,5 +1,29 @@
 [
   {
+    "id": 3685,
+    "url": "https://news.ycombinator.com/item?id=50386884",
+    "title": "Site Reliability Engineer",
+    "company": "Zefr",
+    "location": "Los Angeles, CA (Marina del Rey)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06 04:33:15"
+  },
+  {
+    "id": 3684,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
+    "title": "Senior Staff Infrastructure & Security Engineer",
+    "company": "CivilGrid",
+    "location": "Boston",
+    "salary": "",
+    "tags": "infosec,design,dev,marketing,exec,devops,cloud,senior,sys admin,medical,engineer,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-06 04:33:04"
+  },
+  {
     "id": 3680,
     "url": "https://news.ycombinator.com/item?id=50385049",
     "title": "HYBRID (NC) &#x2F; REMOTE",
