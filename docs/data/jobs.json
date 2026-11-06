@@ -1,5 +1,41 @@
 [
   {
+    "id": 3687,
+    "url": "https://news.ycombinator.com/item?id=50390409",
+    "title": "Developer",
+    "company": "I&#x27;ve given the role a shot",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06 13:32:46"
+  },
+  {
+    "id": 3688,
+    "url": "https://news.ycombinator.com/item?id=50389352",
+    "title": "Denver, US",
+    "company": "iCallidus",
+    "location": "Azure Intune Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06 13:32:46"
+  },
+  {
+    "id": 3686,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+    "title": "Senior Vue Developer",
+    "company": "Lemon.io",
+    "location": "Remote",
+    "salary": "",
+    "tags": "engineer,dev,full time,full stack,remote,remote work,javascript,typescript,php,laravel,node,dot net,python,front end",
+    "platform": "remoteok",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-06 13:32:36"
+  },
+  {
     "id": 3685,
     "url": "https://news.ycombinator.com/item?id=50386884",
     "title": "Site Reliability Engineer",
