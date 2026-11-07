@@ -1,5 +1,41 @@
 [
   {
+    "id": 3698,
+    "url": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
+    "title": "Accountant",
+    "company": "Serve Robotics",
+    "location": "los angeles",
+    "salary": "",
+    "tags": "accounting,design,customer support,dev,finance,robotics,microsoft,exec,ops,excel,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07 03:59:20"
+  },
+  {
+    "id": 3699,
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+    "title": "Senior Full Stack Engineer People Products",
+    "company": "Thumbtack",
+    "location": "Toronto",
+    "salary": "",
+    "tags": "full stack,design,saas,react,salesforce,hr,front end,python,technical,customer support,dev,virtual assistant,finance,php,typescript,admin,senior,ops,marketing,sales,golang,recruiter,engineer,backend,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07 03:59:20"
+  },
+  {
+    "id": 3700,
+    "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+    "title": "Agile Program Manager",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": "program management,Agile,Scrum",
+    "platform": "remoteok",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-07 03:59:20"
+  },
+  {
     "id": 3693,
     "url": "https://news.ycombinator.com/item?id=50398466",
     "title": "REMOTE (Europe)",
