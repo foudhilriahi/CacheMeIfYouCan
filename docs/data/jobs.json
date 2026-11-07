@@ -1,5 +1,29 @@
 [
   {
+    "id": 3702,
+    "url": "https://news.ycombinator.com/item?id=50402383",
+    "title": "REMOTE (worldwide)",
+    "company": "BCDRPulse",
+    "location": "Head of Global GTM",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07 12:13:12"
+  },
+  {
+    "id": 3701,
+    "url": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
+    "title": "Registered Nurse",
+    "company": "Caringhand Home Health Solutions, Inc.",
+    "location": "Remote",
+    "salary": "",
+    "tags": "education,supervisor,customer support,travel,exec,medical,full time",
+    "platform": "remoteok",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07 12:13:01"
+  },
+  {
     "id": 3698,
     "url": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
     "title": "Accountant",
