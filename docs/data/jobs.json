@@ -1,5 +1,29 @@
 [
   {
+    "id": 3706,
+    "url": "https://news.ycombinator.com/item?id=50420399",
+    "title": "Part-time",
+    "company": "OpenTrain AI",
+    "location": "REMOTE (US)",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-09",
+    "scraped_at": "2026-11-09 03:57:30"
+  },
+  {
+    "id": 3705,
+    "url": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
+    "title": "Account Executive Enterprise",
+    "company": "Harvey",
+    "location": "Remote",
+    "salary": "",
+    "tags": "saas,technical,customer support,dev,marketing,finance,exec,legal,sales,engineer,recruiter,digital nomad",
+    "platform": "remoteok",
+    "posted_date": "2026-11-08",
+    "scraped_at": "2026-11-09 03:57:21"
+  },
+  {
     "id": 3704,
     "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
     "title": "AI Developer",
