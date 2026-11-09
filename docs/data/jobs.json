@@ -1,5 +1,41 @@
 [
   {
+    "id": 3707,
+    "url": "https://news.ycombinator.com/item?id=50425675",
+    "title": "Developer",
+    "company": "DevOps Engineer",
+    "location": "",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-09",
+    "scraped_at": "2026-11-09 14:51:25"
+  },
+  {
+    "id": 3708,
+    "url": "https://news.ycombinator.com/item?id=50424162",
+    "title": "London",
+    "company": "Seal (YC S20)",
+    "location": "Forward Deployed Engineer, Founding Product Engineer",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-09",
+    "scraped_at": "2026-11-09 14:51:25"
+  },
+  {
+    "id": 3709,
+    "url": "https://news.ycombinator.com/item?id=50423766",
+    "title": "REMOTE (Worldwide)",
+    "company": "AetherGrid",
+    "location": "Founding GTM Lead",
+    "salary": "",
+    "tags": "",
+    "platform": "hackernews",
+    "posted_date": "2026-11-09",
+    "scraped_at": "2026-11-09 14:51:25"
+  },
+  {
     "id": 3706,
     "url": "https://news.ycombinator.com/item?id=50420399",
     "title": "Part-time",
